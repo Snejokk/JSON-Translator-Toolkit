@@ -1,0 +1,20 @@
+Стой, девица, что ты здесь делаешь?
+ExtraData
+Ищу работу.
+ExtraData
+Ищу путь в башню.
+ExtraData
+(Уйти)
+ExtraData
+Ну тогда ты пришла по адресу, заходи и поговори с командиром. Он в берете.
+ExtraData
+(Уйти)
+ExtraData
+Зачем тебе это? Ты что, какая-то странная?
+ExtraData
+У меня там дела.
+ExtraData
+(Уйти)
+ExtraData
+friggingele
+selectFloor

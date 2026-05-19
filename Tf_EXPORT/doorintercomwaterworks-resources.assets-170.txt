@@ -1,0 +1,18 @@
+At your service, whadd'ya need?
+ExtraData
+Not much; Can you let me in?
+ExtraData
+... do you work here?
+ExtraData
+Yes?
+ExtraData
+Okay, what's your ID?
+ExtraData
+Uh...
+ExtraData
+Get outta here. If you want a job, talk to the boys downstairs.
+ExtraData
+(Leave)
+ExtraData
+Intercom
+SetQuestLog

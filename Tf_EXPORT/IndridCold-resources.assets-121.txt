@@ -1,0 +1,96 @@
+Slide on over, honey, how'd you get in here?
+ExtraData
+Tell me about trains.
+ExtraData
+Do you have any interesting facts for me?
+ExtraData
+I heard you run the rail network, and I need to redirect to the Kryo-voivodate.
+ExtraData
+What is this place?
+ExtraData
+You know those two masked chicks?
+ExtraData
+(Close)
+ExtraData
+....................
+ExtraData
+I found my way in, do I look so out of place?
+ExtraData
+No, but I have a memory for faces, and I know I'd remember yours. Well, it's no use prevaricating about the bush. What's your business in my effervescent presence?
+ExtraData
+The Zastal 410D out in the yard? I like that one a lot, it glimmers under moonlight in tracks of abuse.
+ExtraData
+The Zast- what?
+ExtraData
+Zastal 410D's carry the majority of freight in Poland, sweetheart, the world you live in was built on the infinite fractal of those diesel engines.
+ExtraData
+So the tr-
+ExtraData
+Zastal 410D.
+ExtraData
+... the Zastal 410D, I need it running again. It's stopped.
+ExtraData
+Hmm, yes, yes it is. That's how it works: You arrived, I choose if you leave. I have logistics, you have nothing, so let's not kid ourselves dear; what's your offer?
+ExtraData
+How far can you get me?
+ExtraData
+I can't get you to the Kryo-voivodate, but I can get you to Domkulturigrad. See, the rail is automated, and on a local loop. The junction to the Kryo-voivodate is busted down, though, I know old rail engineers in Domkulturigrad and Factory29 beyond it are still around. You probably need to find them.
+ExtraData
+I see, but you can get me at least a few miles further? What do you need.
+ExtraData
+Well, now you're talking my language. Sing me more poems, girl: I talked logistics before, you see... I control the rails, I choose what comes in and out of the city. The PSR can make drugs and love illegal, but if they enforce it? I make their trains go away. This is where you come in.
+ExtraData
+You want more power.
+ExtraData
+No, I want the source of it. There's a holdout of the old bureaucracy, buncha' oldhead fogies running the water purification plant. But they're running on fumes, they don't understand capital. I want to bring their workers some free market.
+ExtraData
+So you want me to take down the water-plant?
+ExtraData
+I want you to blow the Purification Plants balast and drain the reservoir. It's simple: Get in, overload the three valves in the main room, and then take the elevator to the control tower. You'll be able to activate the emergency drain there; and I'll help you on your way.
+ExtraData
+Tell me about trains (Infinite)
+ExtraData
+I've blown the ballast.
+ExtraData
+What did you want me to do again?
+ExtraData
+What is this place?
+ExtraData
+You know those two masked chicks?
+ExtraData
+(Close)
+ExtraData
+Oh come on, don't try to pull a fast-one on me, dear.
+ExtraData
+Hahahah! Good fucking work! God, I heard the explosion from here. What a fireworks show. I'll go activate the rails for you, sweetheart, just board it and I'll send you on your way.
+ExtraData
+Thanks.
+ExtraData
+And how do I get there?
+ExtraData
+Try the sewers, there's a round tower to the left of the club. That's one way. I know there's others.
+ExtraData
+Musika Automata, finest club East of the Thames. You like it?
+ExtraData
+It's okay.
+ExtraData
+Pfft, high standards? Man, find me a better place. Huh? Yeah. You can't.
+ExtraData
+Yeah, heh, you could say that.
+ExtraData
+What's their deal?
+ExtraData
+Oh everything. I met them on the net when I was kitsch, they made me who I am.
+ExtraData
+Indrid Cold
+MarkovToVide
+Indrid Cold
+VIDE_Override
+QUEST MANAGER
+triggerevent
+Indrid Cold
+questcheck
+[No object]
+[No method]
+Indrid Cold
+SetQuestLog

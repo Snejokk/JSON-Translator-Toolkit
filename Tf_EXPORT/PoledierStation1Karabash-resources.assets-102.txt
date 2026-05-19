@@ -1,0 +1,76 @@
+Geeze, haven't seen anyone new come in on the rail in a while.
+ExtraData
+Why's that?
+ExtraData
+Who are you?
+ExtraData
+What's this place?
+ExtraData
+(Leave)
+ExtraData
+Well, no one knows how the hell it works. It's some algorithmically run section of the line, you'll probably be stuck here for a while. Sorry if you had somewhere to be.
+ExtraData
+Do you not have control over it? Doesn't the PSR have control of this area?
+ExtraData
+Eeeeeh, on paper. The reality is a bit different. The local subculturists seem to have some knowledge over the local infrastructure, and some idea of how the train network works. Our largest division in this sector is miles away holding a factory, so my detachment has to make concessions.
+ExtraData
+What do you even do then?
+ExtraData
+Why are they tied up there?
+ExtraData
+If not the train, what do you use?
+ExtraData
+Subculturalists?
+ExtraData
+(Back)
+ExtraData
+Win hearts and minds, I suppose. Even if we can't handle the administration of this place yet, well, there are a lot of hungry mouths and a lot of people trying to settle scores. We keep things from getting ugly, and keep the kids from starving.
+ExtraData
+Is that standard doctrine?
+ExtraData
+Depends on who leads your division, I suppose. Captain Beksinski's pretty pious, so we try to be fair. I have a lot of respect for the guy.
+ExtraData
+Loose lips sink ships, y'know? Can't talk too much about that. Sorry, though, a lot of it is cause we lost a lot of guys in a dust storm. We've been out of contact with half our division, they're probably dead but who knows.
+ExtraData
+I don't really know what else to call them. They hang out at the club mainly, believe all sorts of heretical shit. We can't really stop it right now, but I did shoot a guy for trying to crucify himself at an orgy.
+ExtraData
+Just a guy, really. I dunno, I got drafted from Lithuania and I've been stuck on guard duty since. It's nice though, I send back a good paycheque to my wife and kids. What remains is enough to get me a pack of smokes when I want one.
+ExtraData
+Edge of the city, the waterworks. for a lot of it. Pumps from some huge underground source, purifies it, and sends it up. A lot of people from the city and around it have moved here, it's become a bit of a hub.
+ExtraData
+I see...
+ExtraData
+Why do you care? It's not your business.
+ExtraData
+It's life.
+ExtraData
+Well, I don't think that stuff is good for you, and I don't like insults to what I believe in.
+ExtraData
+I see...
+ExtraData
+What if they believe in it?
+ExtraData
+What?
+ExtraData
+I mean what if they believe in it?
+ExtraData
+Look, lady, the guy had a rose in his cockhole. Does that sound like a religion to you?
+ExtraData
+I mean, it could be.
+ExtraData
+That's fucked up, that's wrong, that's just wrong.
+ExtraData
+To you.
+ExtraData
+The waterplant workers let us use their ferry in exchange for protection. You can go to the docks if you want, it's 700zl a ticket. Though, you could probably work out a deal if you talk to the plant workers.
+ExtraData
+Where would they be...? And the docks?
+ExtraData
+Pier is at the end of the rail line here, and the plant is to your left. With the big doors. You could also check down in the apartments, they're underground.
+ExtraData
+StationGuard
+SetQuestLog
+StationGuard
+SetQuestLog
+StationGuard
+SetQuestLog

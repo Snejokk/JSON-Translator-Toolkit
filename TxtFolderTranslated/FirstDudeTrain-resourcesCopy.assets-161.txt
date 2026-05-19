@@ -1,0 +1,97 @@
+«А? Что-то нужно?»
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings3.ogg
+Можете подсказать, где тут бункер, сэр?
+ExtraData
+(Уйти)
+ExtraData
+Хрен ли это значит?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech1.ogg
+(Уйти)
+ExtraData
+«Какого еще "интересного"? Если ищешь выпивку и мутные дела, бар в том светящемся здании с рожей Ленина — то, что надо. Правда, бармен — та еще сволочь».
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech1.ogg
+«Сволочь? А что он сделал?»
+ExtraData
+«Звучит так, будто ты накатала себе счет. Типичный алкаш».
+ExtraData
+(Уйти)
+ExtraData
+«Пшла вон».
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech2.ogg
+«Он преследует тебя как волк, если не заплатишь! Он натравил какого-то придурка из мафии, который пробил мне голень из-за пяти рублей. Чертова сука этот Василий».
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+«Василий, его так зовут?»
+ExtraData
+«Мафия?»
+ExtraData
+(Уйти)
+ExtraData
+«Да, так, только не разноси это. Парень любит держать имя в секрете, только для тех, кто "в курсе"».
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+(Назад)
+ExtraData
+(Уйти)
+ExtraData
+Куча больных ублюдков бродит вокруг. Некоторые тусят у старого метро, которое они раскопали, другие ждут в темноте переходов, чтобы раздробить тебе коленные чашечки.
+Будь осторожна в подземке, они изуродуют твое ангельское личико. Ну... не то чтобы это имело значение, твое лицо всё равно ненастоящее.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+Да, но это будет стоить денег.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+(Уйти)
+ExtraData
+Не знаю. Мне нужно найти его.
+ExtraData
+Ты на какой-то дичи сидишь, да? Доставай барменов, не меня.
+ExtraData
+Бармен?
+ExtraData
+Достаю?
+ExtraData
+А? В смысле, да, ты меня пугаешь. У тебя странные глаза и несешь всякую чушь.
+ExtraData
+Нет?
+ExtraData
+...нет?
+ExtraData
+Нет.
+ExtraData
+Нет что?
+ExtraData
+......
+ExtraData
+......
+ExtraData
+Василий, за станцией, в торговом центре там. Он продает собачью мочу таким полякам, как ты, иди достань его.
+ExtraData
+Ты не поляк?
+ExtraData
+К чему такая враждебность?
+ExtraData
+Почему бармен обслуживает поляков?
+ExtraData
+(Уйти)
+ExtraData
+Я белорус. Как и тот, кто держит этот притон. Вы, PSR-овцы, может, и имеете волю в других местах, но мы свои сделки заключили.
+ExtraData
+Потому что вы вечно пытаетесь сунуть нос не в своё дело, а не все из нас это терпят. Ты не отсюда, не знаешь ни людей, ни места. Ты чужак. Вали отсюда.
+ExtraData
+Потому что злотый сейчас чего-то стоит. Рубль — никчемный мусор, а нам надо семьи кормить.
+ExtraData
+Значит, он тоже не особо рад нашему присутствию?
+ExtraData
+С чего бы ему? Если бы воля Якуба, местного авторитета, мы бы уже вышвырнули PSR отсюда.
+ExtraData
+Метро-гвардеец
+showShop
+Метро-гвардеец
+endShop
+Метро-гвардеец
+SetQuestLog

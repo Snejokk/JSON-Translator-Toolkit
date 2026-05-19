@@ -1,0 +1,66 @@
+Hello, lady.
+ExtraData
+Hello, lady.
+ExtraData
+Good work, we'll take over from here. The cleanup will be quick.
+ExtraData
+He's dead.
+ExtraData
+I have info for you.
+ExtraData
+Uh... hi.
+ExtraData
+It's done.
+ExtraData
+You mean... Him? Dzhugashvili?! Thank God, you've saved our ass. Look, we don't have a lot to offer you; what is it you need?
+ExtraData
+I need to get to the Kryo Voivodate.
+ExtraData
+That's harsh. The train may still be down and its system for changing lines is controlled here and at the factory. If you can kill the communists at the back of the train station and switch the track there, you might be able to go.
+ExtraData
+Understood.
+ExtraData
+Good work, what did he say?
+ExtraData
+He said he'll consider i- what was that noise?
+ExtraData
+Kurwa! He's double-crossed us! His men are upstairs; get to the hall of the unborn moon, quick, he's after it! Run!
+ExtraData
+(Leave)
+ExtraData
+(Leave)
+ExtraData
+You've saved our ass. Look, we don't have a lot to offer you; what is it you need?
+ExtraData
+Hmmmmm?
+ExtraData
+I received this note from a communist at the station, I'll tell you if you can help me access the Kryovoivodate.
+ExtraData
+We can manage that. Let me see the letter.
+ExtraData
+(Hand him the letter)
+ExtraData
+This confirms what we've worried about for a while; a raid has been expected for a bit. What isn't is what this implies; hmm. Can you deliver a message?
+ExtraData
+Fine.
+ExtraData
+This is clearly addressed to Iskander Dzhugashvili; the bastard killed his entire family and now he's seeking "bloodline proof" to usurp command of local insurgents. But we also know he doesn't care for the PSR and only wants to march back on Moscow. We can help him reach what he seeks if he's willing to cooperate, let him know we're willing to force the locals to get him what he needs if he leaves in peace.
+ExtraData
+Understood.
+ExtraData
+Find him and let him know. He's probably hanging around the cafe.
+ExtraData
+Do you have business here?
+ExtraData
+... no.
+ExtraData
+Then leave. Hell's wrong with you?
+ExtraData
+(Leave)
+ExtraData
+QUEST MANAGER
+triggerevent
+QUEST MANAGER
+triggerevent
+QUEST MANAGER
+triggerevent

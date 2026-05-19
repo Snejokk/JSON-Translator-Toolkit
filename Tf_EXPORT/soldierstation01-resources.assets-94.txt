@@ -1,0 +1,128 @@
+Do you need something?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+What is this place?
+ExtraData
+Can you give me some directions?
+ExtraData
+Who are you?
+ExtraData
+(Leave)
+ExtraData
+An old station. Fairly pretty isn't it? Well, if you like industrial architecture. I do though, it's a shame that most people miss the natural attractiveness inherent to metal and grout.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech4.ogg
+You like industrial architecture?
+ExtraData
+When was it built?
+ExtraData
+What is this place?
+ExtraData
+Can you give me some directions?
+ExtraData
+Who are you?
+ExtraData
+(Leave)
+ExtraData
+It's hard not to, I was raised in a refinery district. Spent my whole life under leaking gas drainages.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech5.ogg
+What's the appeal?
+ExtraData
+Were you propagandized towards it?
+ExtraData
+(Back)
+ExtraData
+.......
+ExtraData
+It towers over you! You can see its guts like a stuck fish, pick out how it works. I learned some skills that way, let me work as an engineer for a while.
+I'll probably go back to it once my mandatory service ends.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech5.ogg
+How long do you have left?
+ExtraData
+What's the appeal?
+ExtraData
+Were you propagandized towards it?
+ExtraData
+(Back)
+ExtraData
+God knows that, dear. I thought I was going in for a few weeks, turns out it was a few months. Then it was... what year is it?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+During the communist era? Not really. I was five when that ended, and my father worked hard to keep my eyes off posters and set towards Polonia.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings3.ogg
+Wouldn't know, I'm from Wroclaw. This city has only opened up recently and the reds burned a lot of documents when we drove them out. I presume you're no local either?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech2.ogg
+Well I can tell you where not to go.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech7.ogg
+What's in front of me?
+ExtraData
+What's to the right of me?
+ExtraData
+Where is the danger?
+ExtraData
+Where can I go to get wasted?
+ExtraData
+Where is work?
+ExtraData
+(Back)
+ExtraData
+..............
+ExtraData
+Statue of old Pilsudski. We had to drag that here ourself. There were a lot of Lenins before. To your North West from there is a bunch of rotting architecture left by retarded modernists, well, actually, some of it is pretty I guess. The piping is anyhow. Do you know how much I'd give to live in that grain elevator down the road? They have us barracking in here, but I want to explore it when I can.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+Blocked off pathway that we blasted to keep the commies out. They were dead set on controlling the transport here, they've been riled up lately in general. If you go past the blasted pedway, you're putting your fate in your own hands.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+There's been shooting out at one of the apartment blocs, near the grainery and past the Pilsudski statue. North West. Our boys have been holding down the area. Me? I'm glad to be up here, I hate seeing perfectly good architecture get fragged. I can't help but have a certain nostalgia for the mass produced sprawl we now spill blood in.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+The bar is to your right, but they run dry often. Last week we caught some homeless straggler drinking the trains brakes just to keep liquid. I almost blew his brains out for such flagrant violation of safety standards.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+If you want work, go talk to the commander in the apartment blocs to the North West of the station. You'll need to go down the walkways and climb the roofs, since we blew up the normal paths.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+Isn't that its own form of propagandization?
+ExtraData
+He had good goals in mind.
+ExtraData
+He was a good man. Worked his whole life in factories, heh. Back then you could always get work, that was for sure.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings2.ogg
+Insomuch as teaching your child to hold a fork, or wear clothes is propaganda. He taught me what was good for me.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech5.ogg
+And the government could not?
+ExtraData
+He had good goals in mind.
+ExtraData
+The government wants workers, the father wants sons.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings2.ogg
+Franciszek Jozef , professional soldier of two years. And... self taught engineer of several more.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech5.ogg
+Nice to meet you.
+ExtraData
+Do they call you Franz Joseph for short?
+ExtraData
+Do I look inbred to you?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Likewise.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech1.ogg
+Girl
+fadeon
+Girl
+fadeoff
+Poledier1 (19)
+SetQuestLog
+Poledier1 (19)
+SetQuestLog

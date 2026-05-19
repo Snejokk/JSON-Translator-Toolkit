@@ -1,0 +1,30 @@
+Woooah there, lass, where do you think you're going?
+ExtraData
+(Leave)
+ExtraData
+Good work I heard the blast from here! Go on in.
+ExtraData
+(Leave)
+ExtraData
+Sorry, I've got business inside, I'd recommend moving.
+ExtraData
+I wouldn't try it, this is our little slice of heaven. You're not getting in.
+ExtraData
+And what do I have to do to get you to move?
+ExtraData
+Heh, you want in that bad? Hey boys! She wants in! Yeah you know what? Sure, I'll let you in, here, catch!
+ExtraData
+(The man throws an explosive parcel into your arms.)
+ExtraData
+What?
+ExtraData
+Yeah, you want in? Go plant these in the back door of the PSR office next door, behind the girl that works the desk. Have fun!
+ExtraData
+Heheheh. (The man lights a cigarette)
+ExtraData
+(Leave)
+ExtraData
+BANDITLEADERGIFTS
+GiveGiftAtIndex
+banditleader
+VIDE_Override

@@ -1,0 +1,66 @@
+Smoky bars and white haired girls don't mix, stick too long around here and you may find yourself dirtied.
+ExtraData
+I'm looking for information.
+ExtraData
+On what?
+ExtraData
+A bunker.
+ExtraData
+A bunker? Yeah, I might know about one of those. We've been poking around the city for a while, but... that kind of info... it's classified you know.
+ExtraData
+Tell me.
+ExtraData
+How rude. Well, maybe we can cut a deal. Let's not beat around the bush, you're not normal, you can do damage. We need to see someone... lose their position, so to speak. Someone prominent.
+ExtraData
+Who?
+ExtraData
+Jakub Francizek. He's a former mobster turned ethnic messiah, cursing our efforts to civilize this shithole with protectionist centrist rhetoric. He needs to go. Blackmail him, kill him, we don't care. But if you do kill him, make it bloody. It can't look like our work.
+ExtraData
+Understood.
+ExtraData
+What's he done against the PSR?
+ExtraData
+Welcome back, girl.
+ExtraData
+I've found blackmail on Jakub.
+ExtraData
+Well, give it here.
+ExtraData
+(continue)
+ExtraData
+What the... what the fuck is this? I'm going to be sick, sick in my mask...
+ExtraData
+Come back when you get it, or deal with him some other way.
+ExtraData
+The man in the picture is Jakubk, correct?
+ExtraData
+I knew he was a sick bastard but... christ. We can use this for certain, girl. Okay, I'll tell you what you wanted to know.
+ExtraData
+Thank you.
+ExtraData
+....
+ExtraData
+Good work. I'll tell you what you wanted to know.
+ExtraData
+We've found... something, at a nuclear district a few miles away. There's been odd signals coming from there, stuff we can't explain. There's a guy above my rank up there, part of the scavenger corps. He can answer some more questions for you.
+ExtraData
+Thanks.
+ExtraData
+(Leave)
+ExtraData
+It's more what he's done against his own people. He's taken advantage of the situation, and used his criminal connections to pretend at politics. Claims one moment he'll protect his people, bashes in some grandpas knee caps for "militia funds" the next. He's nothing but a bandit.
+ExtraData
+I've killed Jakub.
+ExtraData
+Poledier
+FindItem
+Poledier
+VIDE_Override
+Poledier
+SetQuestLog
+Poledier
+SetQuestLog
+gameend
+useQuestObject
+Poledier
+VIDE_Override

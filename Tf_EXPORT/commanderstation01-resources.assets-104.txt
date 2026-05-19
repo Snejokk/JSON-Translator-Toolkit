@@ -1,0 +1,56 @@
+Hey, we've received transmissions from the boys at the apartment complex. You've got tha packet, right?
+ExtraData
+Yeah, I've got it.
+ExtraData
+Good, we've managed to decode it. They were looking for the codes to overload the reactor to the northwest of here. But there's no time to talk, we need you back out there.
+ExtraData
+What's happening?
+ExtraData
+The commies failed to get the codes, but we have evidence they're building up a huge force.
+ExtraData
+(Continue)
+ExtraData
+You need to get to their base, it's to the North East of here on the pedway. We need you to kill or incapacitate their leader, and get his data off him. If our theory is correct, we're in for some serious shit.
+ExtraData
+I understand.
+ExtraData
+What sort of "shit"?
+ExtraData
+Why should I help you?
+ExtraData
+Gods speed out there, and good luck. For the future of all.
+ExtraData
+(Leave)
+ExtraData
+"This entire sector exploding into irradiated dirt" levels of "shit", and that includes you.
+ExtraData
+And your evidence for this?
+ExtraData
+Understood.
+ExtraData
+Are you seriously asking us for proof right now? Just go out there follow orders.
+ExtraData
+It's just a question.
+ExtraData
+Directives and data found on the corpses there. They couldn't erase their orders quick enough for our hackers to get in, we had a whole comm station set up.
+ExtraData
+(Continue)
+ExtraData
+They've found something in a bunker near here, and we don't know what. But it's enough for them to have brought a significant amount of operators in.
+ExtraData
+So you don't die. And if we don't die, we'll put in a nice irregular fund recquisition form in on your name. But that requires us to be alive, so get to it....
+ExtraData
+(Continue)
+ExtraData
+(The soldier sighs and whispers "Cholerna kretynka" under his breath)
+ExtraData
+(Continue)
+ExtraData
+Kill him.
+ExtraData
+scoreboardcontroller
+boolon
+basecommander1
+SetQuestLog
+questmanager
+DelayedTriggerEvent

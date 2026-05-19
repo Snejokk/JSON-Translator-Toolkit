@@ -1,0 +1,532 @@
+Hello, what do you need?
+ExtraData
+(Leave)
+ExtraData
+Calm down, Zosia, I'll take over from here.
+ExtraData
+Sorry about that, ma'am. Everyone's a little on-edge right now. How are you today?
+ExtraData
+I'm alright, what is this place?
+ExtraData
+Factory29, oh where are my manners. I'm Captain Tomasz. What brings you here today?
+ExtraData
+I've heard that this place has the last connection point to the Kryovoivodate. I need access to it.
+ExtraData
+That's going to be difficult. Why are you going there? It's a warzone right now. You should really reconsider.
+ExtraData
+I have my reasons. I'm searching for something there.
+ExtraData
+Well again, I can't promise much. You would have to talk to Irena Kazimierz about that, she's in the lab. But everyone, including her, are on edge. The situation here isn't so friendly.
+ExtraData
+What's the situation?
+ExtraData
+Are you cleared for that kind of info?
+ExtraData
+I've done work for the PSR before.
+ExtraData
+Hmm, well fine enough. We took this place a bit ago, but the factory was just a cover for a genetic and augmentations laboratory. Irena was the head researcher there and hasn't "finished" her work.
+ExtraData
+Her work?
+ExtraData
+Butchery. Absolute butchery, there's half a thousand corpses down there. Half-alive, skinned, brains full of god-knows-what technology. Some of them were our men, some of them were Russians, some were political prisoners. They cut up their own men when they died and "recycled" them, sick bastards.
+ExtraData
+Then why are you working with Irena?
+ExtraData
+She told us she was forced to do it by the reds. Poor girl has a terminal disease, Multiple Sclerosis. Her and her sister both.
+ExtraData
+She has a sister?
+ExtraData
+Irena and Kalina Kazimierz, twins. But you couldn't tell if they were identical or fraternal; Irena's scarred up from experimental tech that's keeping her alive, as for Kalina...
+ExtraData
+What happened to her?
+ExtraData
+She's strung up in this macabre life-support unit. God bless her soul, she can't tell if she's alive or dead. Everything cut-off and she's interned in that coffin, unable to sense anything. Kalina's locked in an endless dream of fields, Irena says.
+ExtraData
+So then, she had to butcher people for the reds to keep her sister's life support online...
+ExtraData
+Yes. But this is why everyone's on edge: I want to put the convertchiks out of their misery, the mass of corpses should be allowed to die. Our unit's priest wants to see if we can bring them back to life for religious reasons. I don't think there's any fixing them.
+ExtraData
+And Irena? The rest of the unit?
+ExtraData
+Irena wants to finish their conversion into weaponry. Warm bodies for tanks, rotors, and even as topielecs. It disgusts me, and sadly some agree with her. It's frozen the entire facility.
+ExtraData
+How?
+ExtraData
+A few weeks ago part of a lost platoon arrived here; survivors from the Kryovoivodate. They're... different. They have a Lieutenant, Balthazar, and he's radicalized them into something else. Their way of thinking and hostility is threatening to cause mutiny. I can't stand that bastard.
+ExtraData
+Balthazar has taken Irena's side and wants to finish the convertchiks. He wants to bring them back into the Kryovoivodate to strike back. A lot of his men are killers.
+ExtraData
+Well, if I came and "resolved" this dispute; would you be able to get me there?
+ExtraData
+In ten minutes there's going to be an assembly in the courtyard. If you can find evidence against Irena or Balthazar within ten minutes, then I'll get you where you need to go.
+ExtraData
+Understood.
+ExtraData
+Good day to you, Balthazar. You know, you call me indecisive often behind my back. But this time things will be different.
+ExtraData
+As you all know, the question of the convertchiks is on all of our minds. My opinion and churches are clear, I only want the middle path. To put them out of their misery, and to let them free. They are no longer alive, and we will not repeat the mistakes of the second unio-
+ExtraData
+(Continue)
+ExtraData
+Enough! Enough Balthazar, you ideologically poisoned dog. The reason I called you all out here is to show your soldiers exactly what you are. I've hired a contractor to find exactly what you truly are. Marie, show them what you found.
+ExtraData
+I've found nothing.
+ExtraData
+(Present evidence against Irena and Balthazar)
+ExtraData
+(Present evidence against the priest and Tomasz)
+ExtraData
+What do you mean?
+ExtraData
+There was no dirt on anyone.
+ExtraData
+Nevermind, just joking (Back to Evidence)
+ExtraData
+Do you call me a liar, Marie?
+ExtraData
+Where... where are the others?
+ExtraData
+I'm unsure.
+ExtraData
+The priest, Irena, and Balthazar. Where are they.
+ExtraData
+I don't know.
+ExtraData
+Marie, I ask you to find information, and now valuable people are missing. I will not ask again; the answer is obvious. Tell me now. Where. Are. They.
+ExtraData
+I said I. Don't. Know.
+ExtraData
+I killed them. You asked me to resolve your problem; I did.
+ExtraData
+Then what did you find?
+ExtraData
+W-what? What are you talking about!
+ExtraData
+This "priest" is no ordained member of the church; her real name is Zuzanna. She's pretending to be the man who raised her. A priest who was burned to death by the soviets.
+ExtraData
+You lie!
+ExtraData
+Do I lie? Or do you cover up what you already know.
+ExtraData
+Prove it!
+ExtraData
+Why are you doing this? I told you to find evidence of Balthazar's corruption, not slander me in front of my troops!
+ExtraData
+Your troops? Who you sacrificed en-masse for something you barely believed in? No, you were following someone else for impure reasons.
+ExtraData
+You bastards... taking everything out of context, accusing me of a tone that was never there. Marie, you lie, what I felt was hope from... from...
+ExtraData
+Casualties in war occur. This is a complex situation.
+ExtraData
+Complex, but for what reason? It strikes me that Balthazar's men are being sent into far more dangerous situations.
+ExtraData
+They take on the harsh duties.
+ExtraData
+Do they? I see bias in these. You've been killing them off to push through your goals.
+ExtraData
+I'll have you hanged, Balthazar! I've lost as many comrades as you in this hellhole; do you think I choose which young men don't return?!
+ExtraData
+true
+Key1
+false
+Key2
+false
+Key3
+false
+Key4
+false
+Key5
+(Back)
+ExtraData
+I found chest-wrappings in the priest's room, along with notes about a dead priest bearing the same name.
+ExtraData
+I found Tomasz' journal, speaking of his hidden feelings for the priest.
+ExtraData
+See these statistics Irena provided me. You've lost nearly a hundred men this month alone.
+ExtraData
+See these statistics Irena provided me. You've lost nearly a hundred men this month alone.
+ExtraData
+(At least three pieces of evidence required)
+ExtraData
+(At least three pieces of evidence required)
+ExtraData
+true
+Key1
+false
+Key2
+false
+Key3
+false
+Key4
+(Back)
+ExtraData
+I've found a letter from Irena to the communist insurgents.
+ExtraData
+The Szukalskiite soldiers have talked openly about rebellion. They only want to return to their mutineering faction.
+ExtraData
+Balthazar has continued to convert corpses against orders. Many of those abominations were your friends and comrades.
+ExtraData
+Enough. Do you all see the way we've been played for fools? How corrupted intentions made us lose ourselves? I saw you earlier, men, staring at me and our chaplain and wondering if we had any plan, any hope.
+ExtraData
+What do you say of this, Balthazar? I have seen the same myself. Your men disrespecting the others, you radicalizing them. But you know, I can't blame them. They seek to rescue their comrades, but what do you seek?
+ExtraData
+I think we've all heard enough now. Men, seize Balthazar. Chaplain, prepare him last rites. Have Irena held for questioning, she'll be exiled after.
+ExtraData
+You can't kill me, Tomasz you impotent bastard. When the men in the Kryovoivodate learn they'll..
+ExtraData
+(Leave)
+ExtraData
+Thank you, Marie. I'm sorry you had to see the bloodshed.
+ExtraData
+Balthazar... I suppose he would have brought more if he had been allowed to live.
+ExtraData
+In his quest for our country, I think he forgot what it stood for; who we were. Him and Irena working with communists was not a shock; the same thing happened a hundred years ago. People can't seem to move forward, I guess.
+ExtraData
+But you let Irena live.
+ExtraData
+What can I say? She did it for her sister. I can't hate her for that; losing her sister and being exiled is enough punishment for her.
+ExtraData
+Would it have cost so much to keep Kalina on support?
+ExtraData
+Yes, no one understands how she lived except Irena. Without her, Kalina's death was certain. It enslaved Irena, made her immoral. But it was all because she couldn't let her go.
+ExtraData
+Do you think if she had not done this that someday she could have revived Kalina?
+ExtraData
+I guess it's like all those sleepers in the cryo-tanks. "Sleeping", waiting for a day their descendants wake them up; but it's all a lie. That kind of secular immortality leaves us locked in the past like a man crawling in a desert away from a great city.
+ExtraData
+So in other words: "Who knows?"
+ExtraData
+Who knows, yeah. But I won't have my men of today killed for a past that no longer exists. I've switched the junction, the train behind will take you to the Kryovoivodate. Be careful out there, it's hell.
+ExtraData
+Goodbye, Tomasz. Thank you.
+ExtraData
+God bless.
+ExtraData
+(Leave)
+ExtraData
+This is a test of conversation switching.
+ExtraData
+(Continue)
+ExtraData
+Hello Marie it's me, laddy da priest.
+ExtraData
+wow system works so easy
+ExtraData
+Now it's me again!
+ExtraData
+nnnnnn-
+ExtraData
+it just works!
+ExtraData
+And what do you say captain
+ExtraData
+T-tomasz... stop...
+ExtraData
+So it's true then?
+ExtraData
+No! John still l-lives. He n-never died... I know it. I am him, I carry on h-his k-kindness.
+ExtraData
+By deceiving others and trying to deceive your own religion?
+ExtraData
+(The priest begins to sob, Zuzanna cries into her robes.)
+ExtraData
+(Continue)
+ExtraData
+Do you see this, men? This farce? What else could command lie to you about.
+ExtraData
+(Continue)
+ExtraData
+Consider what the heaven of a liar is worth when I've always offered you all a chance at real immortality. Cryogenics and conversion procedures were never the cruelty that Tomasz and "John" professed; they are our hope.
+ExtraData
+(Continue)
+ExtraData
+(Continue)
+ExtraData
+T-Tomasz... how... how could you... how could you see me that way; I trusted you. I trusted you.
+ExtraData
+(Continue)
+ExtraData
+Zuzanna... I... forgive m-
+ExtraData
+(Continue)
+ExtraData
+No! That is not my name, he never died...
+ExtraData
+(Continue)
+ExtraData
+(Zuzanna begins to convulse)
+ExtraData
+(Continue)
+ExtraData
+Data cannot be denied. Since Balthazar arrived the death rates have spiked and not from incompetence. I have personally seen the injuries worsen, you're sending me mincemeat now; because you send them to the grinder.
+ExtraData
+(Continue)
+ExtraData
+Gentlemen! This is bureaucracy manifest. The one who says he wishes to spare suffering brings your wives and children a widows fate. Must we suffer it any longer?
+ExtraData
+(Continue)
+ExtraData
+Really now? And pray tell what does it say?
+ExtraData
+She's sold you all out to insurgents, this entire facility is compromised.
+ExtraData
+You lie! I have been loyal; Balthazar can attest, every day I have kept these troops ali-
+ExtraData
+Oh? Balthazar? Whom you call a "Jingoistic Idiot"? You created this entire schism, brewed dissent, and let men die to keep a balance of power. All for yourself.
+ExtraData
+H-how dare you! I...
+ExtraData
+(Continue)
+ExtraData
+You will hang for this, Irena. Do you know how many of my men died? Do you know how many the commies shot like dogs?
+ExtraData
+(Continue)
+ExtraData
+I only... I only wanted to protect Kalina. Do you all not understand? You don't care! You only want her dead, to pull the plug, she's just a "resource waste" to you all, right? Just another broken piece of equipment to throw away? No, no, I offered life. I brought life. You're the immoral ones, it should be you hanging, Balthazar! For what you ordered me to do.
+ExtraData
+(Continue)
+ExtraData
+Shut your mouth right now. I'll blow your brains out this second if you speak another w-
+ExtraData
+(Continue)
+ExtraData
+(Continue)
+ExtraData
+What have we become here? Threatening death to a woman for protecting her sister, even if she did betray? Irena, from today forwards you are exiled and your rights are revoked. You will be allowed your life, and never practice again. Your sister will be disconnected tomorrow.
+ExtraData
+(Continue)
+ExtraData
+No... Kalina! No, you don't touch her you trash, you subhuman. I'll see you all burn in hell. I'll go to Warsaw, I'll end your careers, I'll find your families. I'll I'll.. Kalina...
+ExtraData
+(Continue)
+ExtraData
+Quiet. You'll cooperate for the rest of this assembly, and then you will be sent away. Go to Warsaw for what I care, but my orders will reach first. Let it go. We are being kind.
+ExtraData
+I've heard his dribel. He intends death and power from that, it was never about his men.
+ExtraData
+Silence, woman. Do you know how many I lost? Do you kno-
+ExtraData
+Yes yes, the same thing you say every time. But your men must wonder why you let them be used as shocktroops, why you spend hours angered at your fellow command instead of fighting for them. What have you done, Balthazar?
+ExtraData
+It is a disease. My comrades, my brothers in arms, do you not remember the oaths we took? The battles we fought? If a man says to you, merely kill your friends, kill your leadership, kill your society, what will remain? I say Balthazar is a traitor, nothing more.
+ExtraData
+How dare you, interloper. What proof have you? No one believe her, seize her!
+ExtraData
+(Continue)
+ExtraData
+Be still men! Balthazar, the proof is before you. Pray tell, what does "special treatment" mean, Irena?
+ExtraData
+(Continue)
+ExtraData
+It's true. They were sent for preservation or conversion. I pushed for preservation, obviously, but for their own good. It was Balthazar who desired conversion, more loyal soldiers for a coup. I only ever did good for this unit.
+ExtraData
+(Continue)
+ExtraData
+You are a liar Irena! You pushed for conversion, I did no such thing. I am being set up by this traitor.
+ExtraData
+(Continue)
+ExtraData
+S-silence both of you! Saying false t-testimony against eachother. D-don't you feel shame? To you all h-here, see how they've r-respected you? Taking your bodies and d-denying you burial, d-denying your families c-closure, denying you last r-rites. Don't you see the inequity? The c-cruelty. May God have mercy on you, Irena. You chose to b-butcher those men. And to y-you Balthazar, to order that on your f-friends...
+ExtraData
+(Continue)
+ExtraData
+Pitiful, see how they tear eachother apart?
+ExtraData
+(Continue)
+ExtraData
+They'll what? Attack us? Their own country? What would you have us become? Men, do you see this? The end-point of schism, by God we've become animals. Killing our own, torturing them beyond undeath. Ask yourselves, are you Poles or Unionists? Are we nothing?
+ExtraData
+(Continue)
+ExtraData
+This assembly is complete. Prepare graves at the junction-point yard and empty the lab and cryo-tanks. Today we fix the past, today we let our dead brothers find peace.
+ExtraData
+He never died...
+ExtraData
+(Continue)
+ExtraData
+John never died I am not alone I...
+ExtraData
+(Continue)
+ExtraData
+I... I'm not alone...
+ExtraData
+(Continue)
+ExtraData
+You... are a traitor.
+ExtraData
+No. I've done nothing. Now, how do I switch the junction? It's not my fault that those fools didn't show up. Maybe they're lazy?
+ExtraData
+I have the key on me, and the terminal for it is in my office. But you are not leaving here alive. Men, raise your rifles.
+ExtraData
+(Continue)
+ExtraData
+BY MURDERING THEM? MY COMRADES? MY ALLIES?
+ExtraData
+Perhaps it was a slight mistake, but now you are free.
+ExtraData
+No, no, Zuzanna is dead? Hahhaha, no, you piece of shit. What the hell is wrong with you!
+ExtraData
+Irena, where. Is. The. Chaplain.
+ExtraData
+(Continue)
+ExtraData
+Why would I know? I can ask the same; where is Balthazar. I did not take you for a murderer, Tomasz.
+ExtraData
+(Continue)
+ExtraData
+How dare you.
+ExtraData
+(Continue)
+ExtraData
+Did it feel good to send the priest to her god?
+ExtraData
+(Continue)
+ExtraData
+Her? Wh-what are you talking of.
+ExtraData
+(Continue)
+ExtraData
+Well, if Balthazar and her are dead then it is obvious you are grasping power. You will try to execute me next, so perhaps I should begin to be honest about what you already know?
+ExtraData
+(Continue)
+ExtraData
+Are you blackmailing me?
+ExtraData
+(Continue)
+ExtraData
+No, just making use of collateral. Come and kill me, prove to everyone here what you are. Show them that you tie up loose ends; perhaps you'll let them know I was right.
+ExtraData
+(Continue)
+ExtraData
+You... bitch. Then, if not you, who did it? Marie; why would she kill them?
+ExtraData
+I wouldn't have, why would I?
+ExtraData
+Perhaps she felt she could grasp at power herself. Perhaps she is just insane.
+ExtraData
+I did no such thing!
+ExtraData
+Marie... did you murder our chaplain? And my lieutenant? Why, why would you have?
+ExtraData
+I didn't! Look to Irena for your killer.
+ExtraData
+There is no blood on my hands.
+ExtraData
+(Continue)
+ExtraData
+Porucznik Tomasz
+SetQuestLog
+Porucznik Tomasz
+SetQuestLog
+QUEST MANAGER
+triggerevent
+Irena TRIAL
+jumpcomment
+Lieutenant Balthazar TRIAL
+jumpcomment
+factoryquestholder
+evidenceagainstTomasz
+factoryquestholder
+evidenceagainstirena
+QUEST MANAGER
+triggerevent
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+VIDE_Comment_Override
+Porucznik Tomasz TRIAL
+VIDE_Comment_Override
+Porucznik Tomasz TRIAL
+VIDE_Comment_Override
+Porucznik Tomasz TRIAL
+VIDE_Comment_Override
+Porucznik Tomasz TRIAL
+VIDE_Comment_Override
+Porucznik Tomasz TRIAL
+VIDE_Comment_Override
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+FactoryQuestNPCs THE TRIAL
+StartPissedAll
+FactoryQuestNPCs THE TRIAL
+StartPissedAll
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter
+Porucznik Tomasz TRIAL
+zchangecharacter

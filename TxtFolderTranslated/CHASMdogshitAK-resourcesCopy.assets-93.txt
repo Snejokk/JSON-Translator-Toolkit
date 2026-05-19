@@ -1,0 +1,82 @@
+Гражданская?
+ExtraData
+Что это за...?
+ExtraData
+Мм?
+ExtraData
+То, что у тебя в руках. Что это? Тебе это официально выдали?
+ExtraData
+О господи... это винтовка.
+ExtraData
+Она же кривая во все стороны, ты хоть раз стреляла из нее?
+ExtraData
+Почему я вижу патрон? Она что, с открытым затвором?
+ExtraData
+Нет, но я...
+ExtraData
+Да с чего они вообще решили тебе это всучить?
+ExtraData
+Оружейник... пьяный... уже месяц, жена бросила, ну и...
+ExtraData
+И поэтому они... какого она вообще калибра?
+ExtraData
+Без понятия. Слушай, я не могу взять новую, пока он не протрезвеет, но...
+ExtraData
+Но что?
+ExtraData
+Он вырубился, и... заминировал оружейку на случай прихода коммунистов...
+ExtraData
+Что за... Слушай, подкинешь деньжат — я вытащу тебе «Тантал». Настоящий.
+ExtraData
+Безумие какое-то. Ладно, удачи! (Уйти)
+ExtraData
+Могу предложить за 150zl... только осторожнее, если он проснется — пристрелит, да и мины там бьют будь здоров.
+ExtraData
+Пойдет.
+ExtraData
+(Получен ключ от оружейной)
+ExtraData
+(Уйти)
+ExtraData
+Достала мне винтовку?
+ExtraData
+Ага
+ExtraData
+Нет
+ExtraData
+Возвращайся, когда будет «Тантал».
+ExtraData
+Охренеть, ствол... он же ровный!
+ExtraData
+Ага, походу, это был последний нормальный ствол, который он собрал.
+ExtraData
+(Уйти)
+ExtraData
+Отличная работа... и оставь себе мой старый кусок дерьма.
+ExtraData
+(Продолжить)
+ExtraData
+(Получено 100 злотых и «Абсолютно дерьмовый АК»)
+ExtraData
+(Уйти)
+ExtraData
+Еще раз спасибо.
+ExtraData
+(Уйти)
+ExtraData
+Я... не понимаю, что это значит.
+ExtraData
+DOGSHIT GIFT
+GiveGiftAtIndex
+DOGSHIT GIFT
+GiveGiftAtIndex
+Poledier dogshit
+VIDE_Override
+Poledier dogshit
+FindItem
+Poledier dogshit
+venditem
+Poledier dogshit
+VIDE_Override
+Poledier dogshit
+SetQuestLog

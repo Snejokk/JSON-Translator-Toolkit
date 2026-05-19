@@ -1,0 +1,108 @@
+Hey, your eyes, you're a contracter aren't you?
+ExtraData
+Yes, I was told there was a situation here.
+ExtraData
+No, I'm not.
+ExtraData
+Oh shit, boys we have an infiltrator!
+ExtraData
+Yeah, you can call it that. There's a bunch of reds downstairs, they blasted into the server room and they're trying to get data. On what? We can't say.
+ExtraData
+......
+ExtraData
+Do you have a preference for how they should be dealt with?
+ExtraData
+How well armed are they?
+ExtraData
+I get the idea (Leave)
+ExtraData
+It would be good to keep some prisoners so we can figure out what they were looking for. If you can get the data packet from them, and prevent them from doing any more damage, that's good too.
+ExtraData
+Very well armed. You'll need to be extremely careful, if you don't go in guns blazing that is.
+ExtraData
+I'd like that.
+ExtraData
+I'll be good with the equipment I brought.
+ExtraData
+I'd rather you give me something more potent.
+ExtraData
+I get the idea (Leave)
+ExtraData
+Here. It's a rifle-grenade firing RWGL with gas-canister non-lethal rounds. You should be able to keep a few alive with this.
+ExtraData
+Fine then. Saves us some money.
+ExtraData
+Here, we can spare you one grenade.
+ExtraData
+Thanks.
+ExtraData
+Good luck down there.
+ExtraData
+(Leave)
+ExtraData
+Is the job done?
+ExtraData
+No....
+ExtraData
+I've got the data packet, it's taken care of.
+ExtraData
+Good work, take this back to the commander at the train station. In the mean time, we'll look over a copy and try to figure out what they were after. I won't lie to you, their movements have been unusual today.
+ExtraData
+...................
+ExtraData
+We can provide you a non-lethal option if you would like.
+ExtraData
+You haven't even gone down there yet, quit bullshitting.
+ExtraData
+........
+ExtraData
+(Leave)
+ExtraData
+I didn't do this for charity you know.
+ExtraData
+What do you expect out of me, a million zloty?
+ExtraData
+No, I guess not.
+ExtraData
+Not much, but it takes resources to do this sort of thing. Give me some ordnance at least.
+ExtraData
+Pay out or I'll throw this PDA out the window like a baby in hong kong.
+ExtraData
+Fine, take this. Now go!
+ExtraData
+Thanks.
+ExtraData
+What are you doing, get a move on.
+ExtraData
+............
+ExtraData
+Is the job done?
+ExtraData
+No....
+ExtraData
+It's taken care of.
+ExtraData
+Polish Commander
+becomeHostileToPlayer
+Polish Commander
+pissed
+rwglholder
+useQuestObject
+grenadeholder
+useQuestObject
+Polish Commander
+VIDE_Override
+Polish Commander
+useQuestObject
+Polish Commander
+FindItem
+holdr2
+useQuestObject
+Polish Commander
+VIDE_Override
+1activateobject
+useQuestObject
+Polish Commander
+SetQuestLog
+Polish Commander
+SetQuestLog

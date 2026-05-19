@@ -1,0 +1,428 @@
+Who are you?
+ExtraData
+Hmm, name's Marie.
+ExtraData
+Well? What is it you want, Tomasz. You have us here! Soldiers at your call! Maybe it's time for you to stop digging your heels.
+ExtraData
+(Continue)
+ExtraData
+Or perhaps you only wish for us to talk about nothing again, as usual.
+ExtraData
+(Continue)
+ExtraData
+Be quiet, priest. Your kind only hold back our country. My men die day after day clearing horrors out of this factory. They hold rifles whilst your men hold pens and push papers as we bleed. You seek deluded virtue rather than the reality of the world. Maybe if we offered your church more money you'd support us, that's how it works right? But no indulgences can we afford.
+ExtraData
+(Continue)
+ExtraData
+We spend our tithes for our people, and we pay them in shell-casings and human lives. We fight for a future on this Earth, not in your fake heaven. We carry weights far heavier than your cross, and we'll gladly martyr you if you keep causing the deaths of my men.
+ExtraData
+(Continue)
+ExtraData
+Hahaha! What a failure, what an impotent attempt! What suspense for nothing. What a pizda you are, Tomasz. Never making any progress, never achieving anything. Do you men see who leads you?
+ExtraData
+(Continue)
+ExtraData
+A failure! Impotent! This is what tells you to spend your days dying for a twisted ruin. This failure of a man commands your RESPECT? Ridiculous. But you know, Tomasz, I know something about you too.
+ExtraData
+(Continue)
+ExtraData
+Yes, I know the time of your death. I know the time you die not because of false dogma but because I know what your men see. Because I am a soldier, unlike you. Kill him.
+ExtraData
+(Continue)
+ExtraData
+Well, priest. I see you but I see no pizda Tomasz. I wonder what's happened to him!
+ExtraData
+(Continue)
+ExtraData
+Move along.
+ExtraData
+(Leave)
+ExtraData
+You kill our leader, and then think you have the right to call us to an "Assembly", Tomasz?
+ExtraData
+(Continue)
+ExtraData
+Well? What is it you want, Tomasz. You have us here! But for some reason, one is missing. Where is your priest? Back to the Vatican?
+ExtraData
+(Continue)
+ExtraData
+Well? What is it you want, Tomasz. You have us here! But for some reason, one is missing. I've heard a report that Irena died today. Tell me, Tomasz, what happened to her?
+ExtraData
+(Continue)
+ExtraData
+Irena is dead, Tomasz. As is our leader. Yet I see you and that priest standing there. What have you done to them? You bring a mercenary here to kill those that disagree with you, then call an assembly just to rub it in our faces?!
+ExtraData
+Well, Priest, Irena is dead; as is Tomasz. The bodies were found. Pray tell why these two sides die at the same time? Thou shalt not kill was removed from your bible?
+ExtraData
+(Continue)
+ExtraData
+So it's come to this, huh? Your priest is dead, and Irena is gone. I suppose I can't assume you did it, but I'm left wondering if the priest's death was a way to shift blame for Irena's passing away from us. Pray tell, isn't that immoral?
+ExtraData
+(Continue)
+ExtraData
+Men, I come to you today to say our yolk has been lifted. That bitch, Tomasz, bit a bullet today. The priest met their God too. From today forward, we are free to march for our nation.
+ExtraData
+(Continue)
+ExtraData
+Where... where is everyone?
+ExtraData
+I took care of them.
+ExtraData
+(Say nothing)
+ExtraData
+You! Stop there, we never saw you before today. And now our leadership is dead. Don't think this will go unpunished; interloper. Tell me, who sent you? If you're honest we'll make it quick, if you lie we'll make you suffer.
+ExtraData
+I'd like to see you try.
+ExtraData
+And pray tell, what are you doing here? Did Tomasz send you?
+ExtraData
+No, I'm just a visitor, looking for info; why do you not put the Convertchiks out of their misery?
+ExtraData
+Tomasz has asked me to blackmail you before the assembly.
+ExtraData
+Because Tomasz, like the rest of the PSR, is incompetent.
+ExtraData
+And how do you know that...?
+ExtraData
+AHahahh! Really now! With the amount of dirt hanging over him?
+ExtraData
+There's dirt hanging over him?
+ExtraData
+Rumors, rumors. Wise talking to me, girl. Tell you what; how about you help me instead? I'm curious if you could do some auditing.
+ExtraData
+I'm listening.
+ExtraData
+I will unlock the doors to Tomasz office, it's across the courtyard. You should talk to Irena as well in the lab, she can help you find info on Tomasz and that idiot priest of his.
+ExtraData
+If I help you, can you switch the junction so I can reach the Kryovoivodate?
+ExtraData
+The Kryovoivodate... that is where we came from, where our soldiers keep fighting. I will, but only if you offer your loyalty.
+ExtraData
+I will.
+ExtraData
+(Find three pieces of incriminating evidence against Tomasz and the Priest before the assembly.)
+ExtraData
+(Leave)
+ExtraData
+Look around you. My men die in droves, and for what? Corpses? Corpses. But of course, it's all in the name of "God" or "morality. I spit on it.
+ExtraData
+(Continue)
+ExtraData
+Those "corpses" are OURS to use, why should my men die when we can send in automatons? Why, do you know how many I lost in the Kryovoivodate? How many killed by flame and sword? Damn them, damn them all.
+ExtraData
+Your anger is understandable, but your actions would degenerate the PSR into animals.
+ExtraData
+It will, when I control it. You can tell that Tomasz who sent you that when I prove what a pussy he is, I'll have him hanging from a lamppost.
+ExtraData
+(Leave)
+ExtraData
+It's over now, huh? Thank you for your aid, interloper. We are free of moral tyranny now.
+ExtraData
+Did you have to execute them?
+ExtraData
+Don't shed tears for traitors. It's the unfortunate reality of war and of life; power in a vacuum is power that must be claimed for a future. If it were truly up to me, none of this would have happened.
+ExtraData
+What you mean to say is "If I had been given power from the start.", Balthazar.
+ExtraData
+Clever. We've switched the junction, your reward; use the train behind you and you'll make your way to the Kryovoivodate, maybe I'll see you there. But be warned; it's hell there. I'll inform my brothers to accept and aid you when you arrive.
+ExtraData
+Did they... do something similar to their leadership?
+ExtraData
+Hang them? Don't mince words. The answer is what you think; and it saved lives. Those are men who will return to their families now, as will mine. Leadership is often the death-knell of soldiers.
+ExtraData
+I suppose that's just human nature.
+ExtraData
+It is only human nature.
+ExtraData
+But what will you do now?
+ExtraData
+Fight on. We'll return with the convertchiks to our men in Kryovoivodate and save their lives; I will never abandon those who gave me a reason to fight on.
+ExtraData
+And what about when you win? What do you do when the power vacuum is sealed.
+ExtraData
+We march on Warsaw when this war ends; so that none will suffer the tyranny of war again. Peace will follow.
+ExtraData
+(Leave)
+ExtraData
+I did no such thing. What are you talking about? Dead?!
+ExtraData
+(Continue)
+ExtraData
+We can tell what's going on here, oh yes we can. You bring that girl in, an assassin, and sow treachery. Prepare to die, traitor.
+ExtraData
+(Continue)
+ExtraData
+Marie, what does that mean? Who are you? Did you...
+ExtraData
+(Continue)
+ExtraData
+... did you murder Irena, Tomasz, and the priest?
+ExtraData
+I wouldn't call it murder.
+ExtraData
+You... you ANIMAL, what the hell is wrong with you? Murdering officials of the PSR, murdering MY comrades. Who are you really working for?
+ExtraData
+You.
+ExtraData
+Interloper, answer me.
+ExtraData
+Where is the bunker?
+ExtraData
+What?
+ExtraData
+The bunker, I... where am I?
+ExtraData
+What are you talking about? Are you mad?
+ExtraData
+I'm sorry.
+ExtraData
+What did you do?
+ExtraData
+Pull a trigger. Where is... I... I was looking for a junction.
+ExtraData
+You are mad! You dare kill officials of the PSR?
+ExtraData
+I just want to find my home.
+ExtraData
+You have our thanks, Marie. You have saved this unit, and many lives by your actions. I will submit your name for a medal when we meet our victory.
+ExtraData
+(Continue)
+ExtraData
+Still yourself, Balthazar... do not politicize this loss. Your Irena... killed our chaplain.
+ExtraData
+(Continue)
+ExtraData
+That's what you believe? And not that this interloper you hired did it?
+ExtraData
+(Continue)
+ExtraData
+It's what seems most likely. A suicide note was found in Irena's posessions, if we had not found that I would have assumed Marie here did it. But I see it unlikely.
+ExtraData
+I did not do it.
+ExtraData
+What have we become, Balthazar? Spatting, fighting like animals, when we all serve the same cause. It's time to end this, if you have any humanity left to you then I say we must find peace.
+ExtraData
+(Continue)
+ExtraData
+I... sadly must agree. But what do you suggest? It was your stubborness that created this.
+ExtraData
+(Continue)
+ExtraData
+Pledge your support to me and I'll allow you to make use of the corpse convertchiks already produced. But with or without Irena, we never produce more. I think this is fair.
+ExtraData
+(Continue)
+ExtraData
+Fine, we agree. Let us bury the hatchett, Tomasz. It's been too much bloodshed, too much death.
+ExtraData
+(Continue)
+ExtraData
+We've switched the junction behind you. Tomasz is away tending to the priests grave. Seems torn up over it, but I can't blame him.
+ExtraData
+What will happen now?
+ExtraData
+Peace, I suppose. There is no reason for us to infight any longer; we had more in common than we knew. Interesting how death can bring that.
+ExtraData
+(Continue)
+ExtraData
+However, I know you did it.
+ExtraData
+W-what.
+ExtraData
+Tomasz is a fool thinking Irena would have shot the priest. But I know he wouldn't have ordered the priests murder. You identified the source of the conflict, and it benefitted me in the end.
+ExtraData
+You still seek power then. You want to take advantage of Tomasz grief.
+ExtraData
+There will still be power-struggles, but now without blood. Leave now, and never come back. I will put in a good word with my brothers in the Kryovoivodate.
+ExtraData
+(Leave)
+ExtraData
+W-what do you m-mean... no... Tomasz... no... I would n-not kill!
+ExtraData
+(Continue)
+ExtraData
+Your intentions are obvious; kill off our leadership, and rule for your papal masters. You are to be hung as a traitor.
+ExtraData
+(Continue)
+ExtraData
+Before we sentence you I have only one question, priest; what is worse? That by your own religion you will go to hell, or the reality that nothing awaits you.
+ExtraData
+(Continue)
+ExtraData
+I've seen the report already. Died in her lab near her sister. We've gone through her belongings, and she committed suicide.
+ExtraData
+(Continue)
+ExtraData
+SUICIDE? You expect me to believe that? You always hated her, and now you remove an obstacle to you and your "priests" moralism.
+ExtraData
+(Continue)
+ExtraData
+We found notes among her belongings, scrawlings in her books. There was a suicide note among them, addressed to Kalina. She's gone, Balthazar, and with her... the convertchik program.
+ExtraData
+(Continue)
+ExtraData
+D-do not politicize it, T-tomasz. Suicide is... a tragedy. M-may G-God forgive her... and m-may she rest in p-peace.
+ExtraData
+(Continue)
+ExtraData
+Let us bury the hatchet, Balthazar. Our conflict has been silly, we've gone at eachother throats up until now but are we not both Poles? Are we not fighting for the same dream? It's time for us to stop this.
+ExtraData
+(Continue)
+ExtraData
+Irena.. gone... do you expect me to believe your hand wasn't involved?!
+ExtraData
+(Continue)
+ExtraData
+I will have this investigated. I will have you traitors executed I...
+ExtraData
+(Continue)
+ExtraData
+Balthazar. Enough... I want to reconcile with you. I want your forgiveness, and to give you mine. I want to offer you this; with Irena gone, the debate is over. I will give you troops to take back to Kryovoivodate, they will reinforce your brothers in arms there. And we will fight not as enemies, but as comrades. It is time to unite, for Polonia.
+ExtraData
+(Continue)
+ExtraData
+... for Polonia.
+ExtraData
+(Continue)
+ExtraData
+You... you've gone too far this time, Balthazar you ideological dog. Is NOTHING sacred to you? Murdering a clergyman... Warsaw will hear of this!
+ExtraData
+Oh be quiet, you sensationalist fool. That priest probably offed himself when he understood his God wasn't real.
+ExtraData
+(Continue)
+ExtraData
+(Continue)
+ExtraData
+How DARE you, Irena. You boldly proclaim a man of the cloth would commit SUICIDE?
+ExtraData
+(Continue)
+ExtraData
+Hypocrisy is not uncommon for you religious sorts. Well, who cares? The chaplain gets to reap the fruits of her fake god; the void. For myself, I will continue to offer real immortality through cryogenics.
+ExtraData
+(Continue)
+ExtraData
+Continue to? Then you've kept the program going against orders?!
+ExtraData
+(Continue)
+ExtraData
+Men do you see this disdain? This evil! What are we becoming to allow this? Think of the church when you were married, where you were baptized and named; what will we become when we string up our priests? Murderous dogs? Where does human life matter when we behave this way. Irena, I accuse you formally of the murder of our chaplain. You are to be executed.
+ExtraData
+(Continue)
+ExtraData
+EXECUTE ME? Are you insane? Are you all insane? This factory only exists for me, Balthazar, detain him. No, you won't kill me.
+ExtraData
+(Continue)
+ExtraData
+You've gone too far this time, Irena, I'm sorry but the troops do not support what you did. I will not aid you.
+ExtraData
+(Continue)
+ExtraData
+You're all insane! I've killed no one; no, you're all insane. You know what I know? I know that Balthazar is a traitor, and that priest was a woman. I'm surrounded by madmen, you're all insane.
+ExtraData
+(Continue)
+ExtraData
+Silence, Irena! Your sentence is settled. May God forgive you.
+ExtraData
+(Continue)
+ExtraData
+You... y-you k-killed him... I know you killed him.
+ExtraData
+(Continue)
+ExtraData
+The priest schizophrenically ranting once again; accusing and shaming. Isn't it typical? Things are going to change here now.
+ExtraData
+(Continue)
+ExtraData
+Men, I come to you today to say our yolk has been lifted. That bitch, Tomasz, bit a bullet today. The priest was the killer. From today forward, we are free to march for our nation.
+ExtraData
+Porucznik Tomasz TRIAL
+jumpcomment
+Porucznik Tomasz TRIAL
+jumpcomment
+QUEST MANAGER
+triggerevent
+FactoryQuestNPCs THE TRIAL
+StartPissedAll
+QUEST MANAGER
+triggerevent
+Soldiers rebelling
+useQuestObject
+szukalskiitesTrial
+StartPissedAll
+Szukalskiite Poledier SPECIAL
+zchangecharacter
+Szukalskiite Poledier SPECIAL
+zchangecharacter
+FactoryQuestNPCs THE TRIAL
+StartPissedAll
+QUEST MANAGER
+triggerevent
+Lieutenant Balthazar TRIAL
+zchangecharacter
+QUEST MANAGER
+triggerevent
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+QUEST MANAGER
+triggerevent
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+QUEST MANAGER
+triggerevent
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+QUEST MANAGER
+triggerevent
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter
+Lieutenant Balthazar TRIAL
+zchangecharacter

@@ -1,0 +1,88 @@
+Dzień Dobry, how may I help you today?
+ExtraData
+Thank you.
+ExtraData
+I would like to report a crime.
+ExtraData
+I see, do you have an appointment?
+ExtraData
+No.
+ExtraData
+I see then. Here is a ticket, you're free to go in when your number comes up.
+ExtraData
+Need anything else?
+ExtraData
+No, I'll be fine.
+ExtraData
+Why is it taking so long?
+ExtraData
+Who are you?
+ExtraData
+What is this place?
+ExtraData
+Well you're not the only one with problems here, we only have one officer on staff today. Wait for your ticket number to appear on the screen and you can go in.
+ExtraData
+I'm Zofia, do I need to call security on you?
+ExtraData
+What?
+ExtraData
+Sorry, but you won't sweet-talk me into letting you cut in line.
+ExtraData
+I wasn't going t-
+ExtraData
+No no, I understand, you're thinking of breaking right through that gate, right? Hurting me?
+ExtraData
+N-no-
+ExtraData
+- and then afterwards you'd pull out your gun, or a hidden malicious blade, and hold it against my neck whispering into my ear "I know you can let me through!"
+ExtraData
+Why woul-
+ExtraData
+Oooh but the soldiers would rush all around me just as the blade begins to dig into my neck, or the hammer of your pistol pulls back, and they'd call my name! "Zofia! Don't hurt her!"
+ExtraData
+Wha-
+ExtraData
+But by then it would already be too late, and in a hail of gunfire and a blitz of death they'd end your life, but not before my own innocent soul was rended from this Earth and- ah, sorry, please go take a seat, you can go in when your ticket number is called.
+ExtraData
+Okay...
+ExtraData
+PSR Office of Arcology Affairs, at least of this district. Don't think of skirting the line, we get a lot of crazies...
+ExtraData
+I wasn't planning t-
+ExtraData
+Yeah, they all say that.
+ExtraData
+You don't have to be so aggressive.
+ExtraData
+(The girl stares at you)
+ExtraData
+Dzień Dobry, how may I help you today?
+ExtraData
+Oh... it's you.
+ExtraData
+Hmm? Have we met?
+ExtraData
+You're Zofia right...? From the Arcology?
+ExtraData
+No, you must have met my sister. My name is Zosia. Are you stalking me?
+ExtraData
+No, no, I just met he-
+ExtraData
+Sure, you met her by chance, and then you come here right? Good coincidence. Very coincidental. How strange! Wow. I'm just shocked.
+ExtraData
+I'm not stalking y-
+ExtraData
+Leave me alone... weirdo...
+ExtraData
+(Leave)
+ExtraData
+serving ticket
+assignnumber
+polegirl1
+SetQuestLog
+polegirl1
+VIDE_Override
+Porucznik Tomasz
+jumpcomment
+polegirl1
+VIDE_Override

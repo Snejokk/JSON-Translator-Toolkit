@@ -1,0 +1,18 @@
+We don't know you, you know we don't know you. Leave.
+ExtraData
+(Leave)
+ExtraData
+Halt, girl. We'll need to see a government ID if you want to go any further.
+ExtraData
+(Present ID)
+ExtraData
+Intruder!
+ExtraData
+Comment...
+ExtraData
+Ah, good, but where is your uniform?
+ExtraData
+Polish Guard (1)
+becomeHostile
+Polish Guard (2)
+becomeHostile

@@ -1,0 +1,16 @@
+Hey, you're late.
+ExtraData
+Have we met?
+ExtraData
+Heh, good opsec. I've got the note; you know what to do with it.
+ExtraData
+W-what?
+ExtraData
+See you around.
+ExtraData
+(Leave)
+ExtraData
+Hey, wait...
+ExtraData
+trainstation Commie
+SetQuestLog

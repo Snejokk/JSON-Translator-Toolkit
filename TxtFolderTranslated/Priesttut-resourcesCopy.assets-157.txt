@@ -1,0 +1,123 @@
+А, прошу прощения за беспорядок. Вы ищете проповеди?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings3.ogg
+Что здесь происходит?
+ExtraData
+Социализм, похоже. И, судя по вашему прибытию, благодать тоже.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+Как долго вы здесь заперты?
+ExtraData
+Почему они нападали на вашу церковь?
+ExtraData
+Почему ваша «церковь» спрятана в криогенном центре?
+ExtraData
+Кто вы?
+ExtraData
+(Уйти)
+ExtraData
+День или около того, но я особо не переживал. Они прекратили нападение после, ну, прискорбных последствий. (Священник указывает ПП на труп перед собой)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech6.ogg
+Понятно. Все же, я думала...
+ExtraData
+Матфея 10:34, это прискорбно, но у меня есть долг. Это кладбище, а вокруг вас те, кто еще не обрел покой.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings2.ogg
+Но почему ПСР не помогли?
+ExtraData
+ПСР? Ну, они нас не жалуют. Это не католическая церковь, мы отступили сюда по причине.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech6.ogg
+Вы православные?
+ExtraData
+Да, как и мой приход. Они пытались просить о помощи, но тщетно. Мы все еще в состоянии внутри-никейской холодной войны.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Поэтому вы здесь укрылись?
+ExtraData
+Второй Союз, полагаю, желает вернуть свою власть. Многие из детей Москвы здесь вернулись ко Христу и оставили Ленина.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Мой духовный отец проповедовал в подвалах и бункерах во времена СССР, я удостоился рукоположения после его падения. Это место — реликт космизма, но тела, хранящиеся нетленными в его хранилищах — христиане. Я содержу это кладбище и проповедую истинную победу над смертью в нем.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+Но как насчет ПСР?
+ExtraData
+ПСР не может тронуть это место, католики уважают мертвых, как и мы.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+Простой старец и великий грешник.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Но эти тела, их заморозили по светским причинам. Зачем держать их замороженными?
+ExtraData
+Что с телами в мешках?
+ExtraData
+По той же причине, по которой мы не кремируем. Если бы я позволил им оттаять, у них точно не осталось бы ничего ко второму пришествию. Разве можно осквернить трупы своей паствы?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings3.ogg
+Мне нужно отключить планетарий.
+ExtraData
+Как долго вы здесь заперты?
+ExtraData
+Почему они нападали на вашу церковь?
+ExtraData
+Почему ваша «церковь» спрятана в криогенном центре?
+ExtraData
+Кто вы?
+ExtraData
+(Уйти)
+ExtraData
+Ну, я не могу помочь вам с этим. Люди, напавшие на это место, были бандитами, нанятыми союзниками из Второго Союза. Они унесли наш центральный чип управления, полагаю, для своих красных хозяев.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings2.ogg
+Куда они могли его унести?
+ExtraData
+Скорее всего? Башня радиопередатчиков через канал. Подозреваю, союзники Второго Союза используют ее для вещания своей пропаганды.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Как мне туда попасть?
+ExtraData
+За моей спиной есть вентиляционная шахта, ведущая на улицы, внизу вы найдете вход в здание, который ведет к переходам. Благослови Господь.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech7.ogg
+У меня есть чип.
+ExtraData
+Мне нужно отключить планетарий.
+ExtraData
+Как долго вы здесь заперты?
+ExtraData
+Почему они нападали на вашу церковь?
+ExtraData
+Почему ваша «церковь» спрятана в криогенном центре?
+ExtraData
+Кто вы?
+ExtraData
+(Уйти)
+ExtraData
+Хорошо, я отключу питание для вас на некоторое время.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings2.ogg
+(Уйти)
+ExtraData
+Хм? Вы нет.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+Мертвых все еще нужно хоронить. Увы, это все, что я могу сделать для этих заблудших душ.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+С возвращением.
+ExtraData
+PriestMusic
+fadeon
+PriestMusic
+fadeoff
+PriestMusic
+FindItem
+Priest
+VIDE_Override
+PriestMusic
+useQuestObject
+Priest
+SetQuestLog

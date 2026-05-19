@@ -1,0 +1,97 @@
+"Eh? You need something?"
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings3.ogg
+Can you tell me where a bunker is, sir?
+ExtraData
+(Leave)
+ExtraData
+The fuck does that mean?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech1.ogg
+(Leave)
+ExtraData
+"What sort of 'interesting'? If you're looking for a drink and shady dealings the bar in that glowy building with the lenin face is your friend. Tender's a bastard though."
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech1.ogg
+"A bastard? What did he do?"
+ExtraData
+"Sounds like you probably racked up a tab. Typical drunk."
+ExtraData
+(Leave)
+ExtraData
+"Piss off."
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech2.ogg
+"He chases you down like a wolf if you don't pay! He had some hick from the mob dent my shin over five rubles. Fucking cunt, that Vasily."
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+"Vasily, is that his name?"
+ExtraData
+"Mob?"
+ExtraData
+(Leave)
+ExtraData
+"Yeah it is, don't go spreading it though. Guy likes to keep his name under wraps, only for those 'in the know'."
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+(Back)
+ExtraData
+(Leave)
+ExtraData
+Buncha sick bastards wandering around the place. Some of them hang by the old metro they dug up, others are waiting in the dark of the walkways to bash your knees in.
+Be careful in the underground, they'll mess up that angel face of yours. Well... it's not like it matters, your face doesn't look real anyway.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+Yeah but it'll cost you.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+(Leave)
+ExtraData
+I don't know. I need to find it.
+ExtraData
+You're on some weird shit aren't you? Bother the bartenders, not me.
+ExtraData
+Bartender?
+ExtraData
+Bothering?
+ExtraData
+Eh? I mean, yeah, you're schizing me out. You've got weird fucking eyes, and you're talking bullshit.
+ExtraData
+No?
+ExtraData
+... no?
+ExtraData
+No.
+ExtraData
+No what?
+ExtraData
+......
+ExtraData
+......
+ExtraData
+Vasily, out of the station, at the mall over there. He sells dog piss to Poles like you, go bother him.
+ExtraData
+You're not a Pole?
+ExtraData
+Why the hostility?
+ExtraData
+Why does the bartender serve Poles?
+ExtraData
+(Leave)
+ExtraData
+I'm Byelorussian. So is the guy who runs this joint. You PSR sorts might have leeway elsewhere, but we've cut our deals.
+ExtraData
+Because you sorts are always trying to get up in our teeth, not all of us take it. You aren't from here, you don't know the people, the area. You're an outsider. Get lost.
+ExtraData
+Because the Zloty is actually worth a bit right now. The ruble ain't shit, and we have families to feed.
+ExtraData
+So he doesn't much appreciate our presence either?
+ExtraData
+Why would he? If it were up to Jakub, the local big-shit, we'd have the PSR out of here.
+ExtraData
+Metro Guard
+showShop
+Metro Guard
+endShop
+Metro Guard
+SetQuestLog

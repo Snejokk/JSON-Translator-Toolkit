@@ -1,0 +1,12 @@
+Welcome, conscript. Care for some communal goods?
+ExtraData
+Yeah sure why not?
+ExtraData
+(Leave)
+ExtraData
+Don't worry, any money goes to the revolution.
+ExtraData
+commiebarman
+showShop
+commiebarman
+endShop

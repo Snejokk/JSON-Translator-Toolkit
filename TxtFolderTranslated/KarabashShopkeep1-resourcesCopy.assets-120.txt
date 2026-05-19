@@ -1,0 +1,10 @@
+Что-то нужно?
+ExtraData
+Да (Открыть магазин)
+ExtraData
+Нет, я пойду.
+ExtraData
+Shopkeep
+showShop
+Shopkeep
+endShop

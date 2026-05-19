@@ -1,0 +1,133 @@
+О, это снова ты. Знаешь, лифт всё ещё сломан.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f7.ogg
+Всё ещё?
+ExtraData
+Просто иди по лестнице, Кася.
+ExtraData
+Да... не знаю. Тут вообще ничего нормально не работает. Как дела?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+Ну, я не хочу.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f5.ogg
+Почему?
+ExtraData
+Что-то гложет?
+ExtraData
+Там мышь.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f4.ogg
+...да?
+ExtraData
+Она у меня в комнате. Не сплю уже три дня. Хочу свежего воздуха, но, ну... лифт-то не работает.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f2.ogg
+Ну, есть же лестница.
+ExtraData
+Да, но, я... не хочу беспокоить.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f1.ogg
+Так позвони управляющему дома.
+ExtraData
+А вдруг он разозлится? Я не умею разговаривать по телефону.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Это его работа.
+ExtraData
+Да, но я просто опозорюсь, не хочу быть обузой.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+Тебе стоит это сделать, говорю же, это его работа.
+ExtraData
+Нет, лучше посижу внутри.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Вместе с мышью?
+ExtraData
+(Она замирает на секунду, смотрит на тебя, на свою дверь, и снова на тебя)... У тебя есть ствол?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+Я... чего?
+ExtraData
+Огнестрел.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f2.ogg
+...да?
+ExtraData
+Ну, мне... мне нужно поспать.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f5.ogg
+Я не дам тебе пушку, чтобы убить мышь.
+ExtraData
+Нет-нет, я не прошу об этом, нет. Я... не.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Тогда зачем спросила?
+ExtraData
+Я просто на взводе. Почему ты всё время спрашиваешь «почему»? Ты на меня злишься?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f5.ogg
+Нет, я...
+ExtraData
+Да, я поняла, как это бывает. Прости, Мари, не хотела тебя раздражать.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Ты странная.
+ExtraData
+Нормально, успокойся.
+ExtraData
+Не бери в голову, это был просто обычный... ну, просто разговор.
+ExtraData
+Просто иди по лестнице, Кася.
+ExtraData
+Так ты не злишься?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f1.ogg
+Нет.
+ExtraData
+Не думай обо мне плохо, ладно? Я просто на нервах, извини.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f4.ogg
+Ладно, ладно.
+ExtraData
+(Она смотрит на тебя с нескрываемой душевной болью)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+(Уйти)
+ExtraData
+Ну, на улице дождь, и я не знаю, я просто... не знаю.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f1.ogg
+Это просто лестница, у тебя же есть две ноги, верно?
+ExtraData
+Наверное, я не знаю, просто... мой отец погиб из-за лестницы.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f2.ogg
+Мне... так жаль.
+ExtraData
+Не надо извиняться, это просто жизнь. Его наняли нажимать кнопку лифта при социализме, но у него не было ног. Он застрял на верхнем этаже, когда лифт сломался. Никто из Союза не приходил неделю, к тому времени он уже умер от голода.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+Я... пусть его душа покоится с миром. Как он потерял ноги?
+ExtraData
+Упал с другой лестницы. Я люблю лифты. Он брал меня на работу, она была прямо в нашем доме, мы часами катались вверх-вниз.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+...ты до сих пор так делаешь?
+ExtraData
+Да, катаюсь и читаю.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f3.ogg
+...сколько раз ты проехалась на лифте с тех пор, как здесь оказалась?
+ExtraData
+Не знаю, это весело, как-нибудь сходи со мной. Обычно я катаюсь по три-четыре часа ночью, когда не могу уснуть.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Нет, нет, мне нужно точное число... лифты выдерживают около четырех тысяч циклов, прежде чем сдохнуть, Кася.
+ExtraData
+Это много, Мари...? (Она пристально смотрит на тебя)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+(Уйти)
+ExtraData

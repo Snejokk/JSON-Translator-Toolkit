@@ -1,0 +1,34 @@
+(Вы слышите радиопередачу)
+ExtraData
+(Продолжить)
+ExtraData
+Слышим стрельбу наверху. Скажи, товарищ, ты та самая помощь, что обещал комиссар?
+ExtraData
+Да, это я.
+ExtraData
+Нет, я здесь, чтобы перебить вас всех.
+ExtraData
+Ах, черт, у нас гости, парни!
+ExtraData
+Мы пересылаем тебе пакет данных. Доставь его комиссару Дятлову как можно скорее, иначе всё пропало.
+ExtraData
+Краткость — сестра таланта. Я пошла.
+ExtraData
+Он в ряду зданий справа от вокзала. Отсюда их видно. (Пакет данных КПК получен). Отдай это Самоету. Он тебя пропустит.
+ExtraData
+(Уйти)
+ExtraData
+..........
+ExtraData
+Коммуна в квартире
+becomeHostileToPlayer
+zGIFTCOMMIE
+GiveAllGifts
+Samoyet
+VIDE_Override
+ciaglowobject
+fadeon
+ciaglowobject
+fadeoff
+ciaglowobject
+SetQuestLog

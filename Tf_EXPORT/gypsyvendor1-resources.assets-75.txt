@@ -1,0 +1,20 @@
+Anything catch your eye?
+ExtraData
+Do you know anything about this note?
+ExtraData
+What do you have?
+ExtraData
+Nah.
+ExtraData
+Sure.
+ExtraData
+I don't want any trouble. I'd take that to the PSR if I were you, looks like it's for that wanted man.
+ExtraData
+Wanted man?
+ExtraData
+Some kind of communist agitator that's been hanging around. I heard he's in conflict with his own side.
+ExtraData
+gypsyvendor1
+showShop
+gypsyvendor1
+endShop

@@ -1,0 +1,46 @@
+(You receive a transmission)
+ExtraData
+(Continue)
+ExtraData
+I suppose I did pretty good.
+ExtraData
+It's none of your business,
+ExtraData
+You did a handy job down there didn't you, you little psycho? Blew those guards away, and the commies too. You're no normal mercenary, are you?
+ExtraData
+That you did, that you did! And we could use skills like yours. Tell me, can a force of nature like you be controlled?
+ExtraData
+Oh, but it is. We have eyes everywhere, Ms. Grim Reaper, and our business is death.
+ExtraData
+What do you want from me?
+ExtraData
+(The voice chuckles) What you're best at. Killing wannabe soldiers, and killing wannabe Octobrists.
+ExtraData
+I'm listening.
+ExtraData
+We need two things. A PDA from the communists leader, detailing their plans. Get it whatever way you have to, but try to minimize casualties.
+ExtraData
+(Continue)
+ExtraData
+Once that's done? We need a bug planted in the power station, we'll transfer you the virus executable now, put it on their computer systems in the main tower.
+ExtraData
+What's in it for me?
+ExtraData
+More than you can dream of. If you do this for us, we'll see you well rewarded. When you're all done, visit us in the sorting facility on top of the grain elevator.
+ExtraData
+(Continue)
+ExtraData
+One of our agents will meet you up there, she'll help you out of this district.
+ExtraData
+I'll consider it.
+ExtraData
+ciaglowobject
+fadeon
+ciaglowobject
+fadeoff
+ciaglowobject
+useQuestObject
+ciaglowobject
+SetQuestLog
+ciaglowobject
+SetQuestLog

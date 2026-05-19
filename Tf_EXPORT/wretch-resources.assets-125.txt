@@ -1,0 +1,62 @@
+(There is a prisoner here.)
+ExtraData
+(Bang on the bars)
+ExtraData
+Hey... you're a Pole aren't you, can you get me out of here?
+ExtraData
+Why are you in here?
+ExtraData
+Dyatlov locked me up, bastard is nothing but a subversive. Sent by the old regime, all he intends to do is drag us back into the Second Union.
+ExtraData
+You're wearing communist paraphenelia. Why wouldn't you want that?
+ExtraData
+Do you know much about him?
+ExtraData
+(Leave)
+ExtraData
+I'm a communist, not a Stalinist. Lenin did not fight for this state of affairs.
+ExtraData
+Then what did he fight for?
+ExtraData
+A lot of things, but he didn't fight for starvation, ecological disaster, or for the people to be robbed.
+ExtraData
+But Lenin's era oversaw the existence of the babraspred and widespread early famines...
+ExtraData
+You're right.
+ExtraData
+And who told you any of those things happened?
+ExtraData
+.......
+ExtraData
+History, independent researchers of the PSR, and other groups.
+ExtraData
+Ah yes, independent government funded researchers. What a load of piss. Prove it.
+ExtraData
+Do you know what the babraspred.... even was?
+ExtraData
+I do.
+ExtraData
+What was it?
+ExtraData
+I don't have to tell you anything!
+ExtraData
+Sure.
+ExtraData
+Don't give me lip Pole, I have info you need, and we have a common enemy. Bust me out, and it's yours.
+ExtraData
+Sure.
+ExtraData
+Nah, you can rot.
+ExtraData
+He's a bastard sent by the Second Union. He doesn't give a shit about the locals, he just wants to hurt the PSR. The Second Union is paving their path west in our blood.
+ExtraData
+I think i can help you. I need info on their plans.
+ExtraData
+If that's what you're after, you're in luck. I stole a PDA off the bastards, they never suspected a thing. It's hidden in a safe behind me. Bust me out, and it's yours.
+ExtraData
+I'm not talking until I'm out of here.
+ExtraData
+(Leave)
+ExtraData
+wretchconvo
+VIDE_Override

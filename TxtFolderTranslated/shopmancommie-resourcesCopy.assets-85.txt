@@ -1,0 +1,12 @@
+Добро пожаловать, призывник. Желаете что-то из общих запасов?
+ExtraData
+Да, конечно, почему бы и нет?
+ExtraData
+(Уйти)
+ExtraData
+Не волнуйся, все деньги идут на нужды революции.
+ExtraData
+commiebarman
+showShop
+commiebarman
+endShop

@@ -1,0 +1,136 @@
+What the fuck!? Who the fuck are you!? How the fuck did you get inside my apartment!?
+ExtraData
+Oh, sorry... The door was open, I wanted to check if you're alright.
+ExtraData
+The security on that terminal is pathetic. You need to set up a **stronger** password.
+ExtraData
+You are now an unwanted witness. Sorry it had to be like this.
+ExtraData
+I am alive and well, as you see.
+ExtraData
+I'll need to talk to my security guy about the door unlocking inself like that. Must be the spooks doing their spooky shit.
+ExtraData
+Now get off my fucking property before I turn you to minced meat...
+ExtraData
+Sorry, sir. I'm leaving.
+ExtraData
+You mocking a holy man, kid?
+ExtraData
+What are, you fucking posessed?
+ExtraData
+Get the fuck out before you end up like all the other spooks that entered my property uninvited.
+ExtraData
+See you, old man.
+ExtraData
+What? Fucking spooks, always coming here to die.
+ExtraData
+Try me.
+ExtraData
+I told you to get the fuck out! Now eat lead.
+ExtraData
+How about you eat shit instead?
+ExtraData
+true
+Key1
+false
+Key2
+true
+Key3
+true
+Key4
+What the fuck!? Who the fuck are you!?
+ExtraData
+Have you been tempering with my goddamn phone?
+ExtraData
+How the fuck did you get inside my apartment!?
+ExtraData
+Are you a fucking spook?
+ExtraData
+I'm with the telephone company. Unscheduled inspection. We had kids making prank calls from this area. It's bad for business
+ExtraData
+I'm with the CIA. Back off.
+ExtraData
+I was sent here by a shady guy to tap your phone. I think you need to know they are eying you.
+ExtraData
+I get ya. Fucking kids. Now get the fuck outta here.
+ExtraData
+Before I change my mind about letting you live.
+ExtraData
+Have a nice day, sir.
+ExtraData
+If you were standing on the street, I'd run you over.
+ExtraData
+Good ol' buckshot will have to suffice.
+ExtraData
+Like I fucking didn't know that! I've ran down a dozen of them just around the corner. Damn spooks always trying to steal my secrets...
+ExtraData
+I guess you were blessed by the Holy Spirit and saw the light. Want to help me kill that spook that sent you here?
+ExtraData
+I'd love to do something to get rid of the vermin.
+ExtraData
+That's against my code of conduct, you crazy fuck.
+ExtraData
+Here's what I want you to do then.
+ExtraData
+I know which fucker you're speaking of. The one under the irudescent glow of the street lamp.
+ExtraData
+As if he doesn't give off his own fucking glow.
+ExtraData
+I know what he wants. And I know getting him killed conventionally, like with the classic "ram the fucking car grille in his gut" technique, won't work.
+ExtraData
+This needs to look like an accident. Rig this device into the lamp he's always standing under.
+ExtraData
+Once you do that, come back to me and we'll fry the motherfucker. It will look like an accident.
+ExtraData
+I hope getting turned into minced meat in your code of conduct too!
+ExtraData
+I guess I don't have a choice. I'm on it.
+ExtraData
+Be right back. One deep fried spook coming right up.
+ExtraData
+Did you rig the thingmajig?
+ExtraData
+false
+Key1
+true
+Key2
+true
+Key3
+Yes, it is done.
+ExtraData
+The 'thingmajig'?
+ExtraData
+Still working on it.
+ExtraData
+Rig the divice I gave you into the lamp he's always standing under.
+ExtraData
+Ok, Get ready for fireworks!
+ExtraData
+3......
+ExtraData
+2......
+ExtraData
+1......
+ExtraData
+...
+ExtraData
+Thanks for the help. Now fuck off before I blow you up too.
+ExtraData
+Some gratitude...
+ExtraData
+Try me.
+ExtraData
+[No object]
+[No method]
+Terry
+becomeHostile
+Breaker box
+activateQuestObject
+[No object]
+[No method]
+Glow d'Arc
+VIDE_Comment_Override
+BreakerExplosion
+Explode
+[No object]
+[No method]

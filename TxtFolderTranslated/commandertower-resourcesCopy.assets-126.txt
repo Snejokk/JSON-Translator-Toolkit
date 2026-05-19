@@ -1,0 +1,8 @@
+«Живым меня не возьмете».
+ExtraData
+Подожди, не надо...
+ExtraData
+commandertutorial
+shootself
+commandertutorial
+setCustomCamera

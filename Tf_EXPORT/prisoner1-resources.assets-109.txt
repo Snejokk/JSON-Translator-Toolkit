@@ -1,0 +1,44 @@
+Hey! You down there, you're... armed... You have to help us...
+ExtraData
+Who are you?
+ExtraData
+A prisoner, me and my guys were part of the cleanup crew. Command sent you, right? You have to get us out of here, they're going to liquidate us in an hour.
+ExtraData
+Liquidate?
+ExtraData
+They didn't tell you...? That's what they do, this tower is a harvest station.
+ExtraData
+How can I free you?
+ExtraData
+If you access any of the consoles for the main counterweight in the next room, it will start the emergency release protocol. We'll be free to help you after. The wardens have killed all the staff so this is our only chance.
+ExtraData
+Why would they have done that?
+ExtraData
+This tower is... automated. The counterweights control localized magnetic fields, you've been hallucinating right? Seen things you shouldn't see? It's controlling your mind magnetically, visions of things you didn't know about keep popping into your head right?
+ExtraData
+Yeah.
+ExtraData
+That's how this tower "maintains control."
+ExtraData
+(Continue)
+ExtraData
+The next room contains one of the counterweights. It's magnetically stabilized, three terminals control its stability. If we take them out, we should be able to get out of here. God knows if the tower won't collapse though.
+ExtraData
+So if we want to escape?
+ExtraData
+Free us and help us take out the counterweights. It's the only way to stop this thing.
+ExtraData
+I'll see what I can do.
+ExtraData
+Thank you, we're free now. You need to get out of here right? The second counterweight is in the building aside from us; there's a bridge.
+ExtraData
+What will destroying it do?
+ExtraData
+(Leave)
+ExtraData
+Weaken the tower; its magnetic fields will cause hallucination if you try to leave. We'll catch up to you after we take care of the last wardens holding out here.
+ExtraData
+QUEST MANAGER
+triggerevent
+QUEST MANAGER
+triggerevent

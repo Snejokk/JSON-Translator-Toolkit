@@ -1,0 +1,28 @@
+Тоже ждешь поезд?
+ExtraData
+Нет, только что сошла с него.
+ExtraData
+О, везет тебе. Здесь они ходят вечность.
+ExtraData
+Да, как тебя зовут?
+ExtraData
+Катя.
+ExtraData
+Хорошее имя.
+ExtraData
+Тебе что-то от меня нужно? Или просто, ну, скучно?
+ExtraData
+Полагаю, просто убиваю время.
+ExtraData
+Ella
+setCustomCamera
+Ella
+setCustomCamera
+Ella
+setCustomCamera
+Ella
+setCustomCamera
+traincinematic1
+useQuestObject
+traingopast
+useQuestObject

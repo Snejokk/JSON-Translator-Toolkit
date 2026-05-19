@@ -1,0 +1,78 @@
+Welcome, girl, I've been told you're looking for things that eyes oft not see. The red underground has eyes that may yet help.
+ExtraData
+I am, but it's not going to be free is it?
+ExtraData
+(Leave)
+ExtraData
+Yes, you are astute.
+ExtraData
+So, is your work done?
+ExtraData
+Yeah
+ExtraData
+Good job, we will work together again.
+ExtraData
+(Leave)
+ExtraData
+Welcome, girl. I take it you're the blue eyed lass that shot four soldiers to defend my men?
+ExtraData
+Yeah, why?
+ExtraData
+Well, we take care of our own here. You've done us a great service. We've been trying to push the Poles out for weeks. What can I do for you? Or, rather, what do you want from us? No one works for free.
+ExtraData
+I'm looking for a bunker.
+ExtraData
+Tell me about it. This city is a tomb of hellfire-resistant catacombs, I'll need... specifics.
+ExtraData
+It's advanced, and well hidden. If someone found it, they'd talk about it. It would be bragged of, or spoken in hushed tongues.
+ExtraData
+Come to think about it, I've heard murmurs of... something like that, from some... associates. But, the information will cost you more than the lives of a few of my men. This is... the sort of thing that was for "my eyes only".
+ExtraData
+Name your price.
+ExtraData
+You're to the point, I like that. I like you, truly. Charming thing you are, if only you weren't built for murder I might call you cute. The job is simple, we need you to convince Jakub Francizsek, the leader of the local ethnic gang of Byelorussians, of our cause! Ah-haha.
+ExtraData
+And how should that be done?
+ExtraData
+Without bloodshed. We need him alive, and for his men to accept us. He protects the local population, used to be a mob man, but they've not made their choice yet between the fascists and us. We want you to help them choose. Not to scrape his blood off the wall.
+ExtraData
+I see.
+ExtraData
+A good place to start would be the barman at the local pisshole. I hear he's had dealings with the guy.
+ExtraData
+(Leave)
+ExtraData
+........
+ExtraData
+Jakub is dead
+ExtraData
+... why?
+ExtraData
+I killed him.
+ExtraData
+Then you have failed us, in every way. Leave.
+ExtraData
+(Listen to him and leave...)
+ExtraData
+And the bunker?
+ExtraData
+Get on the next train, it's going to another district. You'll be looking for a commissar Dyatlov. He is head of information there; if there is something to know he knows it. I'll put in a good word for you.
+ExtraData
+So, is your work done?
+ExtraData
+Not yet.
+ExtraData
+gameend
+useQuestObject
+Commissar
+VIDE_Override
+2Eledoor (2)
+selectFloor
+Commissar
+pissed
+Commissar
+becomeHostileToPlayer
+Commissar
+SetQuestLog
+Bartender
+VIDE_Override

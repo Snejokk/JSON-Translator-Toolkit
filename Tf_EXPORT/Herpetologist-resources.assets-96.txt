@@ -1,0 +1,38 @@
+Who are you...? G-get out of my apartment!
+ExtraData
+Are you the Herpetologist those weirdos want dead?
+ExtraData
+I'm here to kill you. (Draw gun)
+ExtraData
+Lilith? Ishtar? They want me dead?
+ExtraData
+Yeah.
+ExtraData
+Please! Please don't do anything, I-I'll leave t-town...
+ExtraData
+You being honest?
+ExtraData
+Nah. I finish my jobs. (Draw gun)
+ExtraData
+Yes, you'll never hear from me a-g-gain!
+ExtraData
+Give me 500zl and I'll let you go.
+ExtraData
+You know what? God bless you; but if you ever pop up again I'm popping you. Get out of here.
+ExtraData
+Take it! I don't care, just l-leave me alone!.
+ExtraData
+Remember, if you flake I'll know.
+ExtraData
+Thank y-you... thank you...
+ExtraData
+herpetologist
+venditem
+QUEST MANAGER
+triggerevent
+QUEST MANAGER
+blockevents
+QUEST MANAGER
+blockevents
+Herpetologist Girl
+awaken

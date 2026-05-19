@@ -1,0 +1,68 @@
+I can tell by your eyes, anything I serve you will only produce a fake effect. You've no true stomach. What do you want here?
+ExtraData
+I can tell by your eyes, anything I serve you will only produce a fake effect. You've no true stomach. What do you want here?
+ExtraData
+I know you have info on Jakub.
+ExtraData
+What do you know about Jakub Francizek?
+ExtraData
+I need a beer, honestly.
+ExtraData
+(Leave)
+ExtraData
+Oh, I know what you're after now. Let me tell you something. The price of a life, how much is it to you? My life is worth a lot to me. I know what I saw that day, but there is no way in hell I'm telling. Tell Commissar Vasilyov he and his mercenaries can fuck off!
+ExtraData
+What did you see that day?
+ExtraData
+Calm down, I'm just doing... independent research.
+ExtraData
+More than I need to recount, and more than you and your red lot need to know. Stop extorting me. Vasilyov already knows my price.
+ExtraData
+How much?
+ExtraData
+Enough to get the hell out of here. No less than 1000 zloty, and only if you bastards leave me alone too. I'll give you all the info you want, the pictures too.
+ExtraData
+I have your 1000 zloty.
+ExtraData
+I need to buy something else
+ExtraData
+(Leave)
+ExtraData
+Back to extort me more?
+ExtraData
+Then hand it, quickly. This is enough... alright. Take your filth, and never look for me.
+ExtraData
+(Bartenders Knowledge placed in inventory)
+ExtraData
+Nothing. Don't ask me about that.
+ExtraData
+Yeah, a "beer", sure.
+ExtraData
+Then talk to Metroface, you extorting bastard. Maybe he'll help you!
+ExtraData
+What'll it be?
+ExtraData
+(Insufficient funds)
+ExtraData
+(Leave)
+ExtraData
+Bartender
+VIDE_Override
+Bartender
+showShop
+Bartender
+endShop
+Metro face
+VIDE_Override
+Bartender
+SetQuestLog
+Bartender
+SetQuestLog
+Poledier
+VIDE_Override
+Bartender
+showShop
+Bartender
+endShop
+Bartender
+venditem

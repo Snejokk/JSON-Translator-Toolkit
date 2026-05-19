@@ -1,0 +1,95 @@
+Metroface, at your service.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Selling anything?
+ExtraData
+Do you know of a bunker?
+ExtraData
+Why are you called Metroface?
+ExtraData
+(Leave)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech6.ogg
+Sure.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+(Leave)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech8.ogg
+What do you want?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Selling anything?
+ExtraData
+I'm looking for blackmail, well, I think. Bartender won't give me what I want.
+ExtraData
+(Leave)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech6.ogg
+You need blackmail on the bartender? Eh? Well, I know he's into-
+ExtraData
+No, not on the tender, I need dirt on Jakub Francizek, and I've been told to talk to you.
+ExtraData
+Girl, do you have a deathwish?
+ExtraData
+No.
+ExtraData
+Well, what you're asking for is pretty dangerous. What do you need that for?
+ExtraData
+A job. He needs to tow the line.
+ExtraData
+Well I can tell you this, he's barely a person. CIA controls him, they're behind his eyes. It was the price to have him keep a bit of his power, and for... other things...
+ExtraData
+Other things?
+ExtraData
+I won't get into that, I don't want to die. But rather than blackmail, have you considered controlling him directly?
+ExtraData
+Directly?
+ExtraData
+Like I said, he's a puppet of foreigners. Blackmail is pussy shit, all you really need is to trick him.
+ExtraData
+Any ideas?
+ExtraData
+Well it's simple, write up a nice message, say it's from the spooks, and broadcast it from a suitably high building. Spoof their signal, and he'll think he's getting instructions from his masters. And you can TRUST me that THEY have dirt on him.
+ExtraData
+How?
+ExtraData
+Well, I can make you up a tape, and spoof the glows' signal. I'll do that for 250$. Their old codebooks have been out there for ages. But you'll have to jack their signal tower. Just get up there, plant the data in their tower, and watch the fireworks.
+ExtraData
+Welcome back, client.
+ExtraData
+I have the money.
+ExtraData
+Selling anything?
+ExtraData
+(Leave)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech6.ogg
+Great, just give me a list of what you want transmitted.
+ExtraData
+You know, I could lie to you, charge you for info, and tell you bullshit. But you know what? I won't. I'm moral, I'll tell you, Metroface doesn't lie. So no, I don't know of any bunkers.
+ExtraData
+Cause I live in this dingy metro, and no one sees my face. I've been in here for ages, selling this and that, repairing tech, and eventually they just made me the ticket master by default. Pretty sweet if you ask me.
+ExtraData
+But you wear a gasmask.
+ExtraData
+Yeah, I don't like to smell the bums walking off the trains, that includes you.
+ExtraData
+That's not enough. Come back when you have the cash.
+ExtraData
+He's going to be working for new masters...
+ExtraData
+Metro face
+showShop
+Metro face
+endShop
+Metro face
+VIDE_Override
+fuckoff
+endShop
+Metro face
+SetQuestLog
+Metro face
+venditem
+Metro face
+SetQuestLog

@@ -1,0 +1,254 @@
+Привет, незнакомец.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow1.mp3
+Есть работа?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse1.mp3
+Как дела?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse2.mp3
+Тест инвентаря
+ExtraData
+lorem ipsum
+ExtraData
+Этот вариант подлиннее. Прикольно иметь возможность отыгрывать роль персонажа, которым управляешь, без всяких современных ограничений, вроде той фигни с «эмоциями» в Mass Effect или FO4, которая якобы заменяет нормально прописанные строчки диалога.
+ExtraData
+заткнись.
+ExtraData
+Конечно, есть для тебя дельце.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow2.mp3
+Вполне неплохо.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow3.mp3
+Так что за работа?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse3.mp3
+Подумала тут, мне это неинтересно.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse4.mp3
+Тоже самое. Есть какая работа?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse5.mp3
+Всё супер. Удачи.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse6.mp3
+Хочу, чтобы ты кое-что для меня сделал.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow4.mp3
+Звучит просто.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse7.mp3
+Не думаю, что это мой уровень. Прости, пас.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse9.mp3
+true
+Key1
+true
+Key2
+true
+Key3
+В том-то и дело, что просто.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow5.mp3
+Просто иди в квартиру некоего Терри С. Дэвиса и подкинь этот жучок в его VoIP-телефон.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow6.mp3
+Об остальном я позабочусь.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow7.mp3
+true
+Key1
+false
+Key2
+true
+Key3
+false
+Key4
+true
+Key5
+Отлично. Займусь этим.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse8.mp3
+Уже сделано.
+ExtraData
+Терри Дэвис? Знакомое имя.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse10.mp3
+У меня плохие новости. Терри мертв.
+ExtraData
+Тебе лучше выдать оборудование.
+ExtraData
+Программист ОС, которая недавно стала популярна среди реакционных техно-культистов.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow8.mp3
+Его система не может подключиться к сети, но они все равно умудряются использовать её для связи.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow9.mp3
+Либо он использует четвертое измерение для туннелирования, либо эти культисты действительно нащупали что-то, и оно общается с Богом.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow10.mp3
+В любом случае, это нельзя отследить. Мои наниматели хотят это изменить.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow11.mp3
+Ты вернулась. Я думал, тебе это неинтересно.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow12.mp3
+Я передумала. Что за работа?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse11.mp3
+Просто поздороваться зашла.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse12.mp3
+true
+Key1
+false
+Key2
+Я знал, что слышал это имя. Ладно, я в деле.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse15.mp3
+О, этот парень! Он же помер.
+ExtraData
+Готово?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow13.mp3
+false
+Key1
+false
+Key2
+true
+Key3
+true
+Key4
+false
+Key5
+true
+Key6
+Да, телефон прослушивается.
+ExtraData
+Терри знает о твоей операции и хочет устроить тебе «несчастный случай».
+ExtraData
+Что я должна была сделать?
+ExtraData
+Пока нет. Я сообщу.
+ExtraData
+Даже лучше. Терри мертв.
+ExtraData
+Тебе лучше выдать оборудование.
+ExtraData
+Отлично сработано. Ты оказала огромную услугу своей стране...
+ExtraData
+Или, вернее, мне и моим нанимателям.
+ExtraData
+Ты получишь щедрое вознаграждение. Ожидай крупную сумму на свой счет в ближайшее время.
+ExtraData
+Легкие деньги. Приятно иметь с тобой дело.
+ExtraData
+Еще раз спасибо за службу.
+ExtraData
+Ублюдок! Как он мог узнать?!
+ExtraData
+В смысле, я потеряла кучу людей на этой операции, но думала, это просто из-за этого проклятого центра анархии, а не города.
+ExtraData
+Неважно. Есть только один выход — устранить его.
+ExtraData
+true
+Key1
+true
+Key2
+false
+Key3
+Просто будь осторожна.
+ExtraData
+Я не могу позволить тебе это сделать!
+ExtraData
+Я... Э-э... На самом деле уже прикончила его.
+ExtraData
+Тогда ты умрешь первой.
+ExtraData
+...
+ExtraData
+Мы свяжемся с тобой, если понадобится.
+ExtraData
+Пока.
+ExtraData
+Какого черта!? Этого не было в условиях сделки.
+ExtraData
+Мы должны были узнать его секреты, а теперь он унес их в могилу кормить червей.
+ExtraData
+Ты провалила задание.
+ExtraData
+Это был несчастный случай.
+ExtraData
+Этот псих сам напросился.
+ExtraData
+Это не имеет значения. Больше не рассчитывай на контракты от нас.
+ExtraData
+Ваша потеря.
+ExtraData
+Не жди от нас больше работы.
+ExtraData
+Хорошо продумано. Мы ничего не вытянем из него, но ты все равно получишь компенсацию за свои труды.
+ExtraData
+Что? Как такое возможно? Что с ним случилось?
+ExtraData
+Без понятия. Просто знаю, что его больше нет.
+ExtraData
+Я его убила.
+ExtraData
+Тогда контракт аннулирован. Жди других предложений, если появятся.
+ExtraData
+Это серьезный косяк с твоей стороны. Больше нам не звони.
+ExtraData
+Ваша потеря.
+ExtraData
+Спасибо за предупреждение.
+ExtraData
+Лучшее, что могу сделать — продать тебе кое-какие вещи, которые мне выдали самой.
+ExtraData
+Покажи, что есть.
+ExtraData
+Не, спасибо. Пойду дальше.
+ExtraData
+Спасибо. Я ухожу.
+ExtraData
+(Lorem ipsum...)
+ExtraData
+...
+ExtraData
+[No object]
+[No method]
+[No object]
+[No method]
+[No object]
+[No method]
+Terry
+VIDE_Override
+ConvoPanel
+setNodeKeyFalse
+VoIP phone
+activateQuestObject
+Glow d'Arc
+becomeHostile
+[No object]
+[No method]
+Glow d'Arc
+ForceGoToTransform
+[No object]
+[No method]
+[No object]
+[No method]
+[No object]
+[No method]
+Glow d'Arc
+showShop
+ConvoPanel
+setNodeKeyFalse
+Glow d'Arc
+endShop
+3dInventory
+InventoryOff
+Glow d'Arc
+SetQuestLog
+Glow d'Arc
+SetQuestLog

@@ -1,0 +1,142 @@
+Mm, who are you?
+ExtraData
+Just a wanderer passing through. Are you head the head of this facility?
+ExtraData
+What have you done! Kalina... K-Kalina... no, don't die... please... don't go...
+ExtraData
+Why... why...
+ExtraData
+(End)
+ExtraData
+And who would you be?
+ExtraData
+I was sent by- (Continue)
+ExtraData
+The reds, right? Shocked that they decided to make contact now. It's a dangerous time, you know. The Second Union is going through a lot, and the Poles here just lost a lot of men. Everyone's on edge, you know.
+ExtraData
+Why is that?
+ExtraData
+The Soviet system is running on fumes again; seems being locked underground isn't doing them many favors. The West is rising again too; and both hate Poland for denying them a common border. Well, I don't much care. What's the offer?
+ExtraData
+(Continue)
+ExtraData
+... your gall is impressive, I'll bite my tongue. But I want more than a guarantee, I want proof. Just who the hell do you think you are?
+ExtraData
+(Continue)
+ExtraData
+Oh! The murderer who killed his family, what a lovely contact. And why should I trust you again? All you've done is prove you're a backstabber.
+ExtraData
+(Continue)
+ExtraData
+You're a bastard, you know that? Hahha, G_d, you lay one finger on her and I'll blow your head off. Well, I can tell I'm not being given a choice here to begin with, am I? It's death for Kalina now, or death later when I'm no longer useful to the foreigners.
+ExtraData
+I'll do it.
+ExtraData
+For now, I can activate a number of convertchiks to ease your way through to the colony sim. The rest I'll prepare for your needs, but you will need to make your way to the simulation chamber on your own.
+ExtraData
+Take the elevator by the mural at the end of the labs here. It will bring you to the central hub of the factory. From there move past the church to the bar and keep going down the halls there. At the very end, when you find a statue of Lenin, you can enter. Take this keycard to open the door.
+ExtraData
+(Leave)
+ExtraData
+You are delusional, Tomasz. Not shocking to anyone that's met you with your religious babble. You want to waste the lives of countless men that died. To make their sacrifice worth nothing? Disgusting.
+ExtraData
+(Continue)
+ExtraData
+They're dead. Yes. But they can have their will enacted again by unlife, we can make them into weapons for Polonia. Balthazar understands this, why can't you?
+ExtraData
+(Continue)
+ExtraData
+I see. Was this your doing, interloper? I see no one here but myself.
+ExtraData
+I've fixed your problems.
+ExtraData
+Hypocrites. All hypocrites, see how you've all been fooled? I can promise you all a real afterlife; not with superstition but with the power of knowledge and the freedom it brings. Serve Balthazar and I'll make sure no soldier may ever fear death.
+ExtraData
+We will no longer be fooled, or ignored. Feel your anger, men, do not suppress the truth. I say we end this assembly with a vote; execution for the beasts who sat back in comfort as we died in this hellhole?
+ExtraData
+(Leave)
+ExtraData
+Yes, yes I would be. Irena Kazimierz... who sent you?
+ExtraData
+I could be called an auditor of sorts.
+ExtraData
+Ahahah! So Tomasz seeks to slander us before the assembly, yes? Well, if you want scandal I'll give you scandal.
+ExtraData
+What do you mean?
+ExtraData
+Look to my right, the note there. Read it. Do you see? Tomasz is killing off troops he dislikes; now that he feels comfortable in numbers, he seeks to exile me and Balthazar.
+ExtraData
+Why would he do that?
+ExtraData
+Lust. That man is a fool. His limbs were ripped from him and he survives as an aug yet he eschews it, hates himself for not having the body God gave him. He's stewed in self-hatred and only that priest gives him comfort.
+ExtraData
+Religion can bring the traumatized comfort.
+ExtraData
+Religion? Ha-hah. No. Lust. Find the priests room, it's back up the elevator and by the stairs. See what you'll find. That priest isn't what they seem.
+ExtraData
+Oh, and take that note to my right. I wonder if you'll tell the truth at the assembly. See you there, interloper. Idiot.
+ExtraData
+If I do, I doubt Tomasz will give me passage to Kryovoivodate; do you know where to switch it?
+ExtraData
+(Leave)
+ExtraData
+Help find dirt on the priest and Tomasz and I'll switch it for you. Tomasz has the key. I think the control panel for it is in his office.
+ExtraData
+I didn't expect they'd kill them.
+ExtraData
+What else could have happened?
+ExtraData
+Exile, a shift in power maybe, but not death.
+ExtraData
+Do you feel guilty?
+ExtraData
+No. Not really. But knowing Balthazar, without an enemy to keep him occupied well... "When your only tool is a hammer, everything looks more like a nail."
+ExtraData
+What will happen to you and your sister?
+ExtraData
+I've already been given a contract and orders to finish the convertchik program and convert or preserve the dead. For now, Kalina will be kept alive. But Balthazar knows he has that over me; I suppose I'll work until me and her are only living military surplus. Then we'll be disposed of.
+ExtraData
+You have no hope?
+ExtraData
+It's only reality. But, I'll live. Oh well, I'm still alive.
+ExtraData
+(Leave)
+ExtraData
+(Continue)
+ExtraData
+That's what I thought. Prepare graves at the yard, we will go there and vote again on what way we remove these traitors. Though, priest, I have one question before we sentence you; is it worse that by your own beliefs you will go to hell, or the reality that there will be nothing on the other side?
+ExtraData
+I see. You know when this gets out, they will kill you? Murdering three officials, one of the church, is not wise.
+ExtraData
+You should thank me, Irena. This facility will now run properly.
+ExtraData
+I never asked for this, nor did I desire it. Your foolish actions will lead to distrust and uproar. Foolish, idiotic.
+ExtraData
+Make of it what you will.
+ExtraData
+Leave immediately and never come back.
+ExtraData
+You'll switch the junction for me?
+ExtraData
+Yes. Do not return. Consider this exile; your "help" is worse than poison. Sociopathic insanity...
+ExtraData
+(Continue)
+ExtraData
+Irena
+becomeHostileToPlayer
+Iskander Pipezone
+useQuestObject
+friendly iskander (2)
+jumpcomment
+friendly iskander (2)
+jumpcomment
+GIFT underseakeycard
+GiveAllGifts
+Priest TRIAL
+jumpcomment
+QUEST MANAGER
+triggerevent
+Irena TRIAL
+zchangecharacter
+QUEST MANAGER
+triggerevent

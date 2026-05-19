@@ -1,0 +1,260 @@
+Hey there, stranger.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow1.mp3
+Got any jobs?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse1.mp3
+How's it going?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse2.mp3
+Inventory Test
+ExtraData
+lorem ipsum
+ExtraData
+This one's a little long. It's fun to be able to role play as the character you're controlling without any modern limitations, like pretending that a vague "emotion" prompt like the shit they had in Mass Effect or FO4 can actually replace a properly written dialogue line.
+ExtraData
+shut up.
+ExtraData
+Sure, I've got a job for you.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow2.mp3
+Pretty good.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow3.mp3
+So what's the job?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse3.mp3
+Come to think of it, I'm not interested.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse4.mp3
+Same. Got any Jobs?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse5.mp3
+Doing great. Have a good one.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse6.mp3
+I'd like you to make an errand for me.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow4.mp3
+Sounds easy enough.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse7.mp3
+I don't think it will be my caliber. Sorry but I'll pass.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse9.mp3
+true
+Key1
+true
+Key2
+true
+Key3
+That's because it is.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow5.mp3
+Just go to the appartment of one Terry S. Davis and put this bug inside his VoIP phone.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow6.mp3
+ I'll take care of the rest.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow7.mp3
+true
+Key1
+false
+Key2
+true
+Key3
+false
+Key4
+true
+Key5
+Nice. I'm on it.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse8.mp3
+It's already done.
+ExtraData
+Terry Davis? Name sounds familiar.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse10.mp3
+I have some bad news for you. Terry's dead.
+ExtraData
+You better issue some hardware.
+ExtraData
+Programmer of an OS that recently became popular among reactionary techno-cultists.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow8.mp3
+ His system can't connect to the net, yet they still manage to use it for communication.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow9.mp3
+He's either using bleeding edge fourth-dimension tunneling or these cultists really are onto something and it talks to God.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow10.mp3
+Either way, it's untraceable. My employers want to change that.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow11.mp3
+You're back. I thought you were not interested.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow12.mp3
+I'm reconsidering it. What's the job?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse11.mp3
+Just saying hi.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse12.mp3
+true
+Key1
+false
+Key2
+I knew I heard of the guy. Alright, I'm on it.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glowResponse15.mp3
+Oh, that guy! He's dead.
+ExtraData
+Is it done?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/glowTestShit/glow13.mp3
+false
+Key1
+false
+Key2
+true
+Key3
+true
+Key4
+false
+Key5
+true
+Key6
+Yes, I have bugged the phone.
+ExtraData
+Terry knows of your operation and wants to get you in an 'accident'.
+ExtraData
+What I was supposed to do again?
+ExtraData
+Not yet. I'll keep you posted.
+ExtraData
+Even better. Terry's dead.
+ExtraData
+You better issue some hardware.
+ExtraData
+Well done. You did a great service to your country...
+ExtraData
+Or rather you did me and my employers a great service.
+ExtraData
+You will be rewarded handsomly. Expect a large sum of money on your account soon.
+ExtraData
+Easy money. Pleasure doing business with you.
+ExtraData
+Once again, thank you for your service.
+ExtraData
+Bastard! How would he know?
+ExtraData
+I mean, I lost quite a few men to this operation but I assumed it's just this damned anarchist central of a city.
+ExtraData
+No matter. There's only one thing I can do - eliminate him.
+ExtraData
+true
+Key1
+true
+Key2
+false
+Key3
+Just watch out.
+ExtraData
+I can't let you do that!
+ExtraData
+I... Uhhh... Actually killed him already.
+ExtraData
+Then you will die first.
+ExtraData
+...
+ExtraData
+We'll contact you again if need be.
+ExtraData
+Bye.
+ExtraData
+What the hell!? This wasn't part of the deal.
+ExtraData
+We were supposed to find out his secrets and now he took them with him to feed the worms.
+ExtraData
+You have failed us.
+ExtraData
+It was an accident.
+ExtraData
+The crazy fuck deserved it.
+ExtraData
+That doesn't matter. Don't expect any more contracts from us.
+ExtraData
+Your loss.
+ExtraData
+Don't expect any more contracts from us.
+ExtraData
+Good forethought. We can't get anything out of him but you will still receive compensation for your troubles.
+ExtraData
+What? How could that be? What happened to him?
+ExtraData
+No idea. I just know he's no more
+ExtraData
+I killed him.
+ExtraData
+Then the contract is cancelled. Expect other missions if any should come up.
+ExtraData
+That's a major fuck-up on your part. Don't expect us to contact you again.
+ExtraData
+Your loss.
+ExtraData
+Thanks for the heads up.
+ExtraData
+Best I can do is sell you some of the items I was issued myself.
+ExtraData
+Show me what you've got
+ExtraData
+Nah, thanks. I'll be on my way.
+ExtraData
+Thanks. I'm leaving.
+ExtraData
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae libero ut ipsum aliquam vestibulum a in tortor. Maecenas in est nec lectus bibendum fringilla suscipit quis nunc. Donec ornare sit amet tellus quis venenatis. Nulla scelerisque porta est vel condimentum. Pellentesque vestibulum volutpat magna eget efficitur. Vivamus feugiat dolor nec urna auctor, vitae tristique magna consequat. Cras id ligula massa. Maecenas ac mauris id ex tincidunt vulputate.
+
+
+Ut et ipsum ac ligula tincidunt accumsan. Duis nec ex augue. Donec molestie ac nisl in bibendum. Phasellus ut ex ac erat vehicula sodales vel quis erat. Curabitur vel blandit justo. Sed tempor nisi eu semper viverra. Maecenas congue, leo sit amet rutrum tincidunt, tellus dui congue augue, quis tincidunt risus mauris eu risus. Donec sit amet elit dapibus, mattis dolor ut, venenatis leo. Curabitur suscipit turpis justo, a pulvinar tortor venenatis nec. Fusce tempus nunc sed elit rhoncus sagittis. Maecenas molestie mauris eget sem lobortis sollicitudin. Nunc condimentum justo ante, a venenatis lorem consectetur ac. Sed lectus purus, convallis in ornare iaculis, euismod sed ex. Mauris quis risus vitae nibh vestibulum facilisis. Nullam vitae dapibus orci.
+
+
+
+ExtraData
+...
+ExtraData
+[No object]
+[No method]
+[No object]
+[No method]
+[No object]
+[No method]
+Terry
+VIDE_Override
+ConvoPanel
+setNodeKeyFalse
+VoIP phone
+activateQuestObject
+Glow d'Arc
+becomeHostile
+[No object]
+[No method]
+Glow d'Arc
+ForceGoToTransform
+[No object]
+[No method]
+[No object]
+[No method]
+[No object]
+[No method]
+Glow d'Arc
+showShop
+ConvoPanel
+setNodeKeyFalse
+Glow d'Arc
+endShop
+3dInventory
+InventoryOff
+Glow d'Arc
+SetQuestLog
+Glow d'Arc
+SetQuestLog

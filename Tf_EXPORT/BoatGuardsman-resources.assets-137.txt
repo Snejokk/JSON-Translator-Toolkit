@@ -1,0 +1,24 @@
+You got a ticket?
+ExtraData
+Uh...
+ExtraData
+Sorry, no free rides unless you work for the Water plant. Tickets are 700zl.
+ExtraData
+I've got that on me (700zl to buy).
+ExtraData
+(Leave)
+ExtraData
+You're dirt broke! Come on.
+ExtraData
+Hmm, not bad; Go ahead and talk to the captain, he's up front.
+ExtraData
+You that girl they comm'd us about? You're free to go aboard, make sure to talk to the captain near the front.
+ExtraData
+(Leave)
+ExtraData
+Sorry, boats out of comission. The reservoir's fucked.
+ExtraData
+Ah, I wonder who did that.
+ExtraData
+BoatGuard
+venditem

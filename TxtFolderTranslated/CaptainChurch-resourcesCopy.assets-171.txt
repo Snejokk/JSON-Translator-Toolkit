@@ -1,0 +1,108 @@
+Слышь, по глазам вижу — ты наёмница, да?
+ExtraData
+Ага, мне сказали, здесь ситуация назревает.
+ExtraData
+Нет, ошиблись.
+ExtraData
+Черт, пацаны, у нас тут засланный казачок!
+ExtraData
+Типа того. Внизу куча «красных», они разнесли серверную и пытаются вытащить данные. О чем именно речь? Не наше дело.
+ExtraData
+......
+ExtraData
+Есть предпочтения, как с ними поступить?
+ExtraData
+Насколько они опасны?
+ExtraData
+Ясно (Уйти)
+ExtraData
+Было бы неплохо взять кого-то живым, чтобы допросить, что им понадобилось. Если достанешь пакет данных и прикроешь лавочку, чтобы больше ничего не сломали — вообще отлично.
+ExtraData
+Оснащены по полной. Так что будь предельно осторожна... если, конечно, не планируешь врываться с двух рук по-ковбойски.
+ExtraData
+Мне такой расклад нравится.
+ExtraData
+Мне хватит того, что с собой принесла.
+ExtraData
+Лучше дайте что-нибудь посерьезнее.
+ExtraData
+Ясно (Уйти)
+ExtraData
+Держи. Это RWGL с винтовочными гранатами, снаряженными нелетальным газом. Должно хватить, чтобы хоть кто-то из них выжил.
+ExtraData
+Ну как знаешь. Нам же дешевле.
+ExtraData
+Вот, можем выделить одну гранату.
+ExtraData
+Спасибо.
+ExtraData
+Удачи внизу.
+ExtraData
+(Уйти)
+ExtraData
+Задание выполнено?
+ExtraData
+Нет...
+ExtraData
+Пакет данных у меня, с этим покончено.
+ExtraData
+Отличная работа. Отнеси это командиру на вокзал. А мы пока изучим копию, попытаемся понять, что им нужно было. Не буду врать, их суета сегодня выглядит очень странно.
+ExtraData
+...................
+ExtraData
+Можем выдать нелетальное снаряжение, если нужно.
+ExtraData
+Да ты же еще даже не спускалась туда, хорош заливать.
+ExtraData
+........
+ExtraData
+(Уйти)
+ExtraData
+Я это не за «спасибо» делаю, если что.
+ExtraData
+А что ты ждешь, миллион злотых?
+ExtraData
+Нет, пожалуй, нет.
+ExtraData
+Не много, но на такие дела уходят ресурсы. Дай хотя бы амуниции.
+ExtraData
+Плати, или я выкину этот КПК в окно, как младенца в Гонконге.
+ExtraData
+Ладно, держи. А теперь вали!
+ExtraData
+Спасибо.
+ExtraData
+Че стоишь, шевелись.
+ExtraData
+............
+ExtraData
+Задание выполнено?
+ExtraData
+Нет....
+ExtraData
+С этим покончено.
+ExtraData
+Polish Commander
+becomeHostileToPlayer
+Polish Commander
+pissed
+rwglholder
+useQuestObject
+grenadeholder
+useQuestObject
+Polish Commander
+VIDE_Override
+Polish Commander
+useQuestObject
+Polish Commander
+FindItem
+holdr2
+useQuestObject
+Polish Commander
+VIDE_Override
+1activateobject
+useQuestObject
+Polish Commander
+SetQuestLog
+Polish Commander
+SetQuestLog

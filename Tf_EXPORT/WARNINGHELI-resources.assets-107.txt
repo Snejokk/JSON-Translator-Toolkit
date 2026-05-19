@@ -1,0 +1,49 @@
+WARNING: UNAUTHORIZED ACCESS
+AUTOMATED SECURITY DISPATCHED
+ExtraData
+Welcome to the reactor command system:
+ExtraData
+REACTOR OVERLOADED, EMERGENCY, PLEASE PROCEED TO EVACUATION
+ExtraData
+(Leave)
+ExtraData
+(Leave)
+ExtraData
+(Continue)
+ExtraData
+(You have not planted all of the explosive charges, overload anyway?)
+ExtraData
+Welcome to the reactor command system:
+ExtraData
+Overload reactor
+ExtraData
+(Leave)
+ExtraData
+Welcome to the reactor command system:
+ExtraData
+Implant Virus
+ExtraData
+(Leave)
+ExtraData
+(Virus uploading.... successful)
+ExtraData
+(Leave)
+ExtraData
+Welcome to the reactor command system:
+ExtraData
+Implant Virus
+ExtraData
+(Leave)
+ExtraData
+(Virus uploading.... successful)
+ExtraData
+(Leave)
+ExtraData
+turnonalarm
+setactive
+turnongun
+setactive
+CIA girl
+counterup
+Nuke Computer
+useQuestObject

@@ -1,0 +1,12 @@
+Why did you join us, you're no local. I've never seen you before.
+ExtraData
+(Leave)
+ExtraData
+Do you know where the bunker is?
+ExtraData
+Searching for info, huh? That's your game? Tell you what, you did us a favor. There's a network underground, in the filth, in the sewer. The dim land. We have men down there, find them. Tell them you need particular info, they might lead you in the right direction.
+ExtraData
+Apartment Commies
+SetQuestLog
+Commissar
+VIDE_Override

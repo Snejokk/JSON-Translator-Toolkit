@@ -1,0 +1,128 @@
+Нужно что-то?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/offended.ogg
+Что это за место?
+ExtraData
+Можешь показать дорогу?
+ExtraData
+Кто ты?
+ExtraData
+(Уйти)
+ExtraData
+Старая станция. Довольно симпатичная, не так ли? Ну, если вам нравится промышленная архитектура. Мне нравится, жаль, что большинство людей не замечает естественной привлекательности металла и бетона.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech4.ogg
+Тебе нравится промышленная архитектура?
+ExtraData
+Когда она была построена?
+ExtraData
+Что это за место?
+ExtraData
+Можешь показать дорогу?
+ExtraData
+Кто ты?
+ExtraData
+(Уйти)
+ExtraData
+Сложно ее не любить, я вырос в районе нефтеперерабатывающего завода. Всю жизнь провел под протекающими сточными трубами.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech5.ogg
+В чем ее прелесть?
+ExtraData
+Тебя воспитывали в духе пропаганды этого?
+ExtraData
+(Назад)
+ExtraData
+.......
+ExtraData
+Она возвышается над тобой! Можно увидеть ее внутренности, как у пойманной рыбы, понять, как она работает. Я набрался там навыков, некоторое время работал инженером.
+Наверное, вернусь к этому, когда закончится обязательная служба.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech5.ogg
+Сколько тебе осталось?
+ExtraData
+В чем ее прелесть?
+ExtraData
+Тебя воспитывали в духе пропаганды этого?
+ExtraData
+(Назад)
+ExtraData
+Бог знает. Думал, иду на пару недель, оказалось — на пару месяцев. Потом было... какой сейчас год?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+В коммунистическую эпоху? Не особо. Мне было пять, когда это закончилось, и отец работал изо всех сил, чтобы я не смотрел на плакаты, а смотрел на Полонию.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings3.ogg
+Понятия не имею, я из Вроцлава. Этот город открылся только недавно, а красные сожгли кучу документов, когда мы их выбили. Полагаю, ты тоже не местный?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech2.ogg
+Ну, могу сказать, куда не стоит соваться.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech7.ogg
+Что передо мной?
+ExtraData
+Что справа от меня?
+ExtraData
+Где опасно?
+ExtraData
+Где можно напиться?
+ExtraData
+Где есть работа?
+ExtraData
+(Назад)
+ExtraData
+..............
+ExtraData
+Статуя старика Пилсудского. Мы сами ее сюда тащили. Раньше здесь было много Лениных. К северо-западу отсюда куча гниющей архитектуры, оставленной отсталыми модернистами... хотя, кое-что из этого даже красиво. По крайней мере, трубы. Знаешь, сколько бы я отдал, чтобы жить в том зерновом элеваторе по дороге? Нас здесь держат в казармах, а я хочу исследовать его, когда получится.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+Заблокированный проход, который мы взорвали, чтобы не пускать коммуняк. Они были помешаны на контроле перевозок, вообще в последнее время совсем разошлись. Если пойдешь мимо взорванного перехода, твоя судьба в твоих руках.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Была стрельба около одного из жилых кварталов, рядом с зернохранилищем и за статуей Пилсудского. На северо-западе. Наши парни удерживают этот район. Я? Рад, что я здесь, ненавижу смотреть, как разлетается на куски идеально хорошая архитектура. Не могу не испытывать ностальгию по массовой застройке, в которой мы теперь проливаем кровь.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+Бар справа от тебя, но у них часто сухо. На прошлой неделе поймали какого-то бомжа, он пил тормозную жидкость из поездов, только чтобы хоть что-то выпить. Я чуть не вышиб ему мозги за такое вопиющее нарушение правил безопасности.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Если хочешь работу, поговори с командиром в жилом квартале к северо-западу от станции. Придется идти по переходам и лазать по крышам, мы взорвали обычные пути.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speechlong.ogg
+Разве это не своего рода пропаганда?
+ExtraData
+У него были благие цели.
+ExtraData
+Он был хорошим человеком. Всю жизнь проработал на заводах, хех. Тогда работа была всегда, это точно.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings2.ogg
+В той же степени, в какой пропагандой является обучение ребенка держать вилку или носить одежду. Он учил меня тому, что для меня хорошо.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech5.ogg
+А правительство не могло?
+ExtraData
+У него были благие цели.
+ExtraData
+Правительству нужны рабочие, отцу нужны сыновья.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/greetings2.ogg
+Францишек Юзеф, профессиональный солдат со стажем два года. И... самоучка-инженер еще на несколько лет.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech5.ogg
+Приятно познакомиться.
+ExtraData
+Тебя зовут Франц Иосиф для краткости?
+ExtraData
+Я похож на инбрендного урода?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech3.ogg
+Взаимно.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/speech1.ogg
+Девушка
+fadeon
+Девушка
+fadeoff
+Poledier1 (19)
+SetQuestLog
+Poledier1 (19)
+SetQuestLog

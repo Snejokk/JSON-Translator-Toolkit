@@ -1,0 +1,38 @@
+Ты кто такая...? В-выйди из моей квартиры!
+ExtraData
+Ты та самая герпетолог, которую эти странные типы хотят прикончить?
+ExtraData
+Я пришла убить тебя. (Выхватить пистолет)
+ExtraData
+Лилит? Иштар? Они хотят моей смерти?
+ExtraData
+Ага.
+ExtraData
+Пожалуйста! Пожалуйста, не надо, я-я уеду и-из города...
+ExtraData
+Честно говоришь?
+ExtraData
+Не-а. Я довожу работу до конца. (Выхватить пистолет)
+ExtraData
+Да, ты никогда больше обо мне н-не у-услышишь!
+ExtraData
+Давай 500 зл, и я тебя отпущу.
+ExtraData
+Знаешь что? Бог в помощь; но если хоть раз еще покажешься — я тебя пристрелю. Проваливай.
+ExtraData
+Забирай! Мне плевать, только о-оставь меня в п-покое!.
+ExtraData
+Помни, если свалишь — я узнаю.
+ExtraData
+С-спасибо... спасибо...
+ExtraData
+herpetologist
+venditem
+QUEST MANAGER
+triggerevent
+QUEST MANAGER
+blockevents
+QUEST MANAGER
+blockevents
+Herpetologist Girl
+awaken

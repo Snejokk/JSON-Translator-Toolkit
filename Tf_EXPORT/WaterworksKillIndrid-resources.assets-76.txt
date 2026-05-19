@@ -1,0 +1,36 @@
+Sorry, no one goes in. We've had a looot of trouble lately.
+ExtraData
+You have some enemies, huh?
+ExtraData
+Sounds like you know a thing or two; those Joy freaks send you?
+ExtraData
+Who knows, who knows.
+ExtraData
+You know, our boss is diplomatic; what are they paying you?
+ExtraData
+Who says anyone is paying me? Well. I need to get out of here, to get that train working.
+ExtraData
+You need to get to Domkulturigrad? Tell you what; we've got a boat at the docks. No one rides for free but we can get you there.
+ExtraData
+The cost?
+ExtraData
+Well you can pay the ferryman 700zl, or you can do something for us; blow that Indrid guys brains out, but don't get caught. We want it silent.
+ExtraData
+We'll see.
+ExtraData
+When it's done just head to the docks, they're by the end of the train-tracks in this district. Just go forward from the club and go down to the pier on the basin. We'll know if Indrid's gone, trust me, and I'll inform the captain.
+ExtraData
+You fucked up, get out of here; we don't know you.
+ExtraData
+Okay.
+ExtraData
+If you get seen though, we're washing our hands of it. You won't get a cent.
+ExtraData
+(Leave)
+ExtraData
+(Leave)
+ExtraData
+Hahaha! You got that bastard. Well, God bless his soul. Mercy on him and all that. The captain will take you now; Get out of here; we don't know you.
+ExtraData
+CONVOGUARD1
+SetQuestLog

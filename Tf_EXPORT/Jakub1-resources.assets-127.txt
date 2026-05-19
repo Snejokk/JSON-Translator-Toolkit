@@ -1,0 +1,100 @@
+Get out of here!
+ExtraData
+No one. But I know who you are. (Show blackmail photo)
+ExtraData
+Who the hell are you?
+ExtraData
+(Continue)
+ExtraData
+Get out of here!
+ExtraData
+I'm here to kill you.
+ExtraData
+Pfft, tell me something I don't know. You think a man like me looks in the glowing eyes of an abomination like you and can't tell his own fate?
+ExtraData
+I see the bartender has been talking. So, what's your cost, dear? Money? Drugs?
+ExtraData
+The Commissar of the Red Underground wishes for your cooperation.
+ExtraData
+Ahahahah, so he'll ruin my reputation if I don't send my men in to fight off the evil PSR? Such petty reasons. Do you know why that photo exists, doll?
+ExtraData
+Because you're a sick bastard?
+ExtraData
+Why would I know what goes on in your head?
+ExtraData
+Insurance.
+ExtraData
+Because I cut a deal with powers that aren't so weak and pissant as the PSR and its contemporaries. I made the mistake of thinking they'd help protect "local interests" for free.
+ExtraData
+You killed a young girl because politicians from America told you to?
+ExtraData
+They start off with a glass or two of the finest alcohol you've ever had, so fine you miss the strange taste of its additives. You enter a trance like state, where every word off their tongues is as honey. And before you know it? You're doing awful things to good people. Reprehensible things. They give you your freedom afterwards, but with the knowledge that when they come calling, you are their slave.
+ExtraData
+Why would they do that?
+ExtraData
+Control. Why threaten to kill me when they can make my own people do it instead? If my ethnic brothers who I claim to protect knew what I did under the influence, they'd kill me in an instant. Think, why does the world around us seem to always take heel towards foreign powers?
+ExtraData
+(Continue)
+ExtraData
+Every intelligence agency, every corporation involved in information, every camera, every arm of every government organ, is held in strict confidence by blackmail. And so, somehow, your bartender friend got mine. So, say I help your communist lord, what's to say I won't feel a dagger in the back anyway?
+ExtraData
+Why don't your handlers want you to fight the PSR?
+ExtraData
+God knows, perhaps they just want an easier enemy here. Perhaps they just want to lessen Second Unionist influence. But me and my people are pawns now, just waiting until fighting kills us off.
+ExtraData
+(Continue)
+ExtraData
+So you know what? Sure I'll send my forces in, but only because I know the retribution on my own people will be worse.
+ExtraData
+(Leave)
+ExtraData
+And what proof do you have outside of this one photo?
+ExtraData
+Look around you, there are cameras even behind your own eyes. In Las Vegas, every hotel is equipped. Politicians even from their own countries are taken to these places to have sex with hookers or to perform strange acts, solely to be blackmailed after being drugged.
+ExtraData
+(Continue)
+ExtraData
+Entire fraternal orders, like the masons, deliberately obfuscate party lines and partisanship to force members of all compasses into one blackmail ring. One nation, under God? Only if that God has a lens.
+ExtraData
+Wouldn't people notice the murders and disappearances? Wouldn't the prostitutes say something?
+ExtraData
+Why would they say anything? They are raised into it, and manipulated through both material possessions and mental control. Often, the older ones do the recruiting themselves! The girl in my photo was brought to my handlers by her own aunt. Sold into it not for money, but for the respect of her pimps alone.
+ExtraData
+(Continue)
+ExtraData
+As for the corpses, they clean them up. An acid bath here, or they can leave them in the woods somewhere there. They mark it an "unsolved disappearance" and quietly drop it out of the news cycle. And why would the news keep on it, they have blackmail on the reporters too!
+ExtraData
+(Continue)
+ExtraData
+And if they need harder targets, younger targets, they have their ways too. During major catastrophes in 3rd world countries, countless children go missing each time. Sometimes in the tens of thousands. Where do they go? Every year thousands go missing from public parks in the degenerate United States, no one reports on it. The bodies are never found.
+ExtraData
+(Continue)
+ExtraData
+It's funny that they're even at war with the Second Union, the West that is. The communists do the same thing you know. Their idol, their "chairman", that Beria, killed tens of young women. He'd ride up to them in a car, have his NKVD dogs grab them, and do what he would. Some say Stalin used it as a way to keep him loyal.
+ExtraData
+(Continue)
+ExtraData
+No, actually, that's a lie. The reason is simple now that I think about it. The PSR is militaristic and stable, it brings order to the area. Do you know how many girls, of all ages, came out of Eastern Europe when the Soviet Union was forced back halfway to Siberia, and the Iron Curtain fell?
+ExtraData
+(Continue)
+ExtraData
+Oh it was simple. Tell them they got a nice job in some other nation, give them a dream of escaping poverty. Have another woman do it even! Then bring them to a place they don't speak the language, have no citizenship, no friends, nothing. They feed them drugs, you know, get them addicted, use them. Do you know how many thousands of porn scenes and hookers came from this phenomenon? I think it would make a lot of men sick. They don't want this to change. It's an eternal catastrophe to exploit, poor people make easy slaves.
+ExtraData
+You don't seem to care much.
+ExtraData
+Of course I don't, I know I'm a dead man. I've done bad things, girl. Had to. had to make deals, to protect my people. Lots of people hate that, hate me, so let's get this over with.
+ExtraData
+(Leave)
+ExtraData
+Commissar
+VIDE_Override
+jakub francizek
+FindItem
+Enemies01fightsuckmynutsshowcase
+useQuestObject
+jakub francizek
+SetQuestLog
+jakub francizek
+pissed
+jakub francizek
+becomeHostileToPlayer

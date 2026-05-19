@@ -1,0 +1,133 @@
+О, опять ты. Слушай, лифт всё ещё сломан.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f7.ogg
+Всё ещё?
+ExtraData
+Да просто иди по лестнице, Кася.
+ExtraData
+Да... не знаю. Тут вообще ничего толком не работает. Как сама-то?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+Ну, я не хочу.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f5.ogg
+Почему?
+ExtraData
+Что-то случилось?
+ExtraData
+Тут мышь.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f4.ogg
+...серьёзно?
+ExtraData
+Она в моей комнате. Я три дня не спала. Мне нужен свежий воздух, но, ну, лифт-то сломан.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f2.ogg
+Ну, есть же лестница.
+ExtraData
+Да, но я... я не хочу никого беспокоить.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f1.ogg
+Так позвони управдому.
+ExtraData
+А вдруг он разозлится? Я не дружу с телефонами.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Это его работа.
+ExtraData
+Да, но я только опозорюсь, не хочу быть обузой.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+Тебе стоит это сделать, я же говорю, это его работа.
+ExtraData
+Нет, я лучше останусь внутри.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Вместе с мышью?
+ExtraData
+(Она замирает на секунду, смотрит на тебя, потом на свою дверь, и снова на тебя)... У тебя есть пушка?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+Я... что?
+ExtraData
+Огнестрел.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f2.ogg
+...и что, есть?
+ExtraData
+Ну, мне... мне нужно поспать.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f5.ogg
+Я не дам тебе ствол, чтобы ты пристрелила мышь.
+ExtraData
+Нет-нет, я не об этом, нет. Я... не просила.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Тогда зачем спросила?
+ExtraData
+Я просто на взводе, вот и всё. Почему ты постоянно спрашиваешь «почему»? Ты на меня злишься?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f5.ogg
+Нет, я...
+ExtraData
+Да, я понимаю, как это бывает. Прости, Мари, я не хотела тебя бесить.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Ты странная.
+ExtraData
+Всё в порядке, успокойся.
+ExtraData
+Не стоит так переживать, это всего лишь обычный разго... ну, просто разговор.
+ExtraData
+Просто иди по лестнице, Кася.
+ExtraData
+Так ты не злишься?
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f1.ogg
+Нет.
+ExtraData
+Только не думай обо мне плохо, ладно? Я просто на нервах, прости.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f4.ogg
+Ладно, ладно.
+ExtraData
+(Она смотрит на тебя, выглядя донельзя разбитой)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+(Уйти)
+ExtraData
+Ну, там на улице дождь, и я не знаю, я просто... не знаю.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f1.ogg
+Это всего лишь лестница. У тебя ведь две ноги, верно?
+ExtraData
+Наверное, не знаю, просто... мой отец погиб из-за лестницы.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f2.ogg
+Мне... так жаль.
+ExtraData
+Нет, не надо жалеть, это просто жизнь. Он был одним из тех, кому платили за нажатие кнопки лифта при социализме, но у него не было ног, и он застрял на верхнем этаже, когда лифт сломался. Никто из Профсоюза не приходил неделю, к тому времени он уже умер от голода.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+Я... пусть его душа покоится с миром. Как он лишился ног?
+ExtraData
+Упал с другой лестницы. Я люблю лифты. Он часто брал меня на работу, так как она была в нашем же доме, мы могли часами кататься туда-сюда.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f8.ogg
+...ты до сих пор это делаешь?
+ExtraData
+Да, я катаюсь на лифте и читаю.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f3.ogg
+...сколько раз ты проехалась на лифте с тех пор, как приехала сюда?
+ExtraData
+Без понятия, это весело, тебе стоит попробовать как-нибудь со мной. Я обычно катаюсь по три-четыре часа по ночам, когда не могу уснуть.
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+Нет, нет, мне нужна конкретная цифра... лифт выдерживает где-то четыре тысячи циклов, прежде чем крякнется, Кася.
+ExtraData
+Это много, Мари...? (Она пристально смотрит на тебя)
+ExtraData
+Assets/Imported/VIDE/Resources/Audio/speech/f6.ogg
+(Уйти)
+ExtraData

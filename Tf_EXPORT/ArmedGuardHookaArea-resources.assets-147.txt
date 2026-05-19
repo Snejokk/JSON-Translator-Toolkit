@@ -1,0 +1,24 @@
+"Careful around here girl, this is a dangerous place."
+ExtraData
+Why do you say that?
+ExtraData
+What is this place?
+ExtraData
+(Leave)
+ExtraData
+"Ajaja, are you new to these parts or just stupid? This is a slum. Nothing but trash around here. A thing like you would be more at home at the government tower around the back of this ghetto. You have no business in a shithole like this."
+ExtraData
+If it's a slum do you know of anywhere I can get some... less than kosher items?
+ExtraData
+(Return)
+ExtraData
+"Because it's true. Some bastard politician is arriving here tonight too so they have extra "protection" around. The ghetto still has the occasional bandit but when you try to leave? Armed fucking suits with their stupid mind-augs. I hope the bastards get CPU-reset with a boot to the face."
+ExtraData
+Politician?
+ExtraData
+(Return)
+ExtraData
+Jakub or something was his name. He's a real big shot, they've brought out security everywhere.
+ExtraData
+"You'll need to speak to the gopniks and hobos in the tunnels. Don't bet on them letting you in though. And don't tell them I told you shit.
+ExtraData

@@ -1,0 +1,62 @@
+Ah... who's there...
+ExtraData
+Kacper...
+ExtraData
+me you dumb fuck
+ExtraData
+Who are you...? How do you know my name?
+ExtraData
+It's me Kacper, Marie. What happened here?
+ExtraData
+Marie? No, you're in my head, she's in my head; Marie isn't anymore.
+ExtraData
+What?
+ExtraData
+She's holding me now, against my shoulders. I can feel her touch, it's so real. She's real now.
+ExtraData
+Kacper, what happened here?
+ExtraData
+We're not going to talk about that, I'm not going to talk about that, it's not that I don't want to we're just not going to talk about that.
+ExtraData
+You're not making any sense.
+ExtraData
+I got here on my own, okay? No one helped me. I didn't need anyone, they needed someone, I had her. She made me see everything. It's too much but I can still see it, you glow in infrared. You're slow, you're a liar.
+ExtraData
+You should put your gun down.
+ExtraData
+Shut the fuck up, you're just like the fucking empires. You want to rape what remains, take it all! Come on, take it all! They won't let me fucking sleep, I can't sleep, i just want to take a nap. 
+My head is splitting my head is splitting my head is splitting my head is splitting.
+ExtraData
+Kacper, I need to access that pod.
+ExtraData
+That pod is in my brain. You don't seem to understand, she's here now. Don't you get it? We're inside of her, it's everything. Concrete is in her veins, it's us now. 
+She swings her hips to the sound of old engines, and breathes life into dead valleys. She eats the air and spits out light for us to see, I can see it ultraviolet. 
+They made here here, she told me that: nuclear birth, atom angel. And she doesn't want to die yet.
+I love her... I... I... Marie... Marie please... I don't know I just want to sleep. 
+Wait, who are you?
+ExtraData
+Kacper... put down the gun.
+ExtraData
+No... no no no no no, you just want to hurt her. She saved my life, but I couldn't do anything when they shot her. I'm here now, rifle in hand, and I can be a man.
+No one else knows her, no one but me.
+ExtraData
+(Continue)
+ExtraData
+I don't need any God, I don't need anything, I made it here on my own. I saved her, I didn't let her die like the first time. God didn't help, where the hell is God. 
+God is a bullet in my chamber, and I'm Nevsky of the Vistula. There's three of you, and I'll send you to hell if you step one foot closer.
+ExtraData
+Kacper, I don't want to do this.
+ExtraData
+I don't know who you are, leave me and her. We never did anything to anyone, we just want to live. 
+I won't let you take our lives from us, I won't let you make me fail her.
+ExtraData
+(End.)
+ExtraData
+Kacper Variant
+setCustomCamera
+Kacper Variant
+setCustomCamera
+Kacper Variant
+becomeHostileToPlayer
+Box Volume
+useQuestObject

@@ -1,0 +1,16 @@
+Эй, ты опоздала.
+ExtraData
+Мы знакомы?
+ExtraData
+Хех, хорошая конспирация. Записка у меня; ты знаешь, что с ней делать.
+ExtraData
+Ч-что?
+ExtraData
+Еще увидимся.
+ExtraData
+(Уйти)
+ExtraData
+Эй, погоди...
+ExtraData
+trainstation Commie
+SetQuestLog

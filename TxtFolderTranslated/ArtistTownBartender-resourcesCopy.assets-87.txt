@@ -1,0 +1,10 @@
+Что-то хочешь?
+ExtraData
+Да.
+ExtraData
+Нет.
+ExtraData
+ArtistTownBartender
+showShop
+ArtistTownBartender
+endShop

@@ -1,45 +1,79 @@
 import json
 import os
 
+# --- ПУТИ ---
 input_dir = './Files/TxtFolder'
 trans_dir = './Files/TxtFolderTranslated'
-output_dir = './Files/TxtFolderReady'
-os.makedirs(output_dir, exist_ok=True)
+base_folder = './Files'
+base_output_name = 'TxtFolderReady'
 
-# Загружаем игнор-лист
+# Логика создания папок: TxtFolderReady_1, _2 и т.д.
+existing_folders = [d for d in os.listdir(base_folder) if d.startswith(base_output_name)]
+new_folder_index = len(existing_folders) + 1
+output_dir = os.path.join(base_folder, f"{base_output_name}_{new_folder_index}")
+os.makedirs(output_dir, exist_ok=True)
+print(f"Результат будет сохранен в: {output_dir}")
+
+# --- ЗАГРУЗКА ИГНОР-ЛИСТА ---
 ignore_list = set()
 if os.path.exists('ignore_list.txt'):
     with open('ignore_list.txt', 'r', encoding='utf-8') as f:
         ignore_list = {line.strip() for line in f if line.strip()}
 
-for filename in os.listdir(input_dir):
-    if filename.endswith('.txt'):
-        with open(os.path.join(input_dir, filename), 'r', encoding='utf-8') as f:
-            data = json.load(f)
+# --- ОСНОВНОЙ ЦИКЛ ---
+files = [f for f in os.listdir(input_dir) if f.endswith('.txt')]
 
-        trans_filepath = os.path.join(trans_dir, filename)
+for i, filename in enumerate(files, 1):
+    input_filepath = os.path.join(input_dir, filename)
+    trans_filepath = os.path.join(trans_dir, filename)
+    output_filepath = os.path.join(output_dir, filename)
+
+    print(f"[{i}/{len(files)}] Обработка: {filename}")
+
+    try:
+        with open(input_filepath, 'r', encoding='utf-8') as f:
+            content = f.read().strip()
+            if not content:
+                continue
+            data = json.loads(content)
+
         if os.path.exists(trans_filepath):
             with open(trans_filepath, 'r', encoding='utf-8') as f:
                 translated_lines = [line.strip() for line in f if line.strip()]
 
             idx = [0]
+
             def inject(d):
                 if isinstance(d, dict):
                     for k, v in d.items():
-                        # Пропускаем по той же логике, что и при экспорте
-                        if k in ignore_list or v in ignore_list:
+                        # Пропускаем если ключ в игнор-листе
+                        if k in ignore_list:
                             continue
+                        # Пропускаем если значение - строка и она в игнор-листе
+                        # Счётчик НЕ двигаем — экспорт тоже её пропустил
+                        if isinstance(v, str) and v in ignore_list:
+                            continue
+                        # Подставляем перевод
                         if isinstance(v, str) and v.strip():
                             if idx[0] < len(translated_lines):
                                 d[k] = translated_lines[idx[0]]
                                 idx[0] += 1
+                        # Рекурсия для вложенных объектов
                         elif isinstance(v, (dict, list)):
                             inject(v)
                 elif isinstance(d, list):
                     for item in d:
-                        inject(item)
+                        if isinstance(item, str) and item in ignore_list:
+                            continue
+                        if isinstance(item, (dict, list)):
+                            inject(item)
 
             inject(data)
-            with open(os.path.join(output_dir, filename), 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
-                print(f"[ОБРАБОТАН] {filename}")
+
+        with open(output_filepath, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+
+    except Exception as e:
+        print(f"!!! ОШИБКА в файле {filename}: {e}")
+
+print("\nГотово! Все файлы собраны.")

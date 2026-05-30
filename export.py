@@ -1,8 +1,8 @@
 import json
 import os
 
-input_dir = './Files/TxtFolder'
-output_dir = './Files/TranslationFiles'
+input_dir = './Files/Original'
+output_dir = './Files/OriginalStringOnly'
 os.makedirs(output_dir, exist_ok=True)
 
 # Загружаем игнор-лист

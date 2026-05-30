@@ -1,0 +1,43 @@
+Hello, Marie. I uh, hmm, it's broken again.
+Kasia, it's not. I used it today. Why are you lying?
+Oh... that I... is it?
+You know you can just talk to me. You don't have to make up a lie.
+Well I was going to offer to fix it so that you could see me fix it. I've been getting better since you told me to...
+That's almost sweet. But I mean, you could have just shown me those radios you keep fixing.
+I would but... I um... I don't want you to see my apartment.
+.... why?
+...
+I'm going in. It's the one behind you, right?
+.... yeah...
+....
+P-please make yourself at home...
+I'll.... try
+....
+It's not... that bad.
+These are my radios... I'm trying to fix this one here but it still just plays this... one song. It's annoying.
+What's wrong with it?
+The antenna is- wait... Marie you're... metal right?
+... yes? In part.
+In your arms?
+Sure?
+Put your hand against the radio.
+Okay. (Touch the Radio)
+Oh kurwa...
+That's incredible, Kasia.
+These are my books I... like to read inside sometimes too.
+....
+Don't go into my bedroom.
+...
+Do you want some tea?
+Sure.
+Nah.
+Oh.. okay...
+....
+1kasiadoor
+unlockdoor
+1kasiadoor
+OpenDoor
+questactionkasiaradio
+useQuestObject
+cansprayeffect
+useQuestObject

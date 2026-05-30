@@ -1,4 +1,0 @@
-"Leave me alone, kurwa."
-ExtraData
-(Leave)
-ExtraData

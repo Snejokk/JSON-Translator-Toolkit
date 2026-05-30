@@ -1,0 +1,14 @@
+Nothing but corpses left.
+Who were those people?
+Why did they attack you?
+Philosophers with ordnance, who think they have the will of their non-existent people behind them.
+We're getting hit left and right. Dumbasses just send in lowlifes with whatever rusted crap they can find feels like, we're never safe. Tonight's been especially rough.
+Why are you defending this place?
+Because we have to. PSR orders, they want us to defend the locals, until we get them to agree to cooperate.
+Cooperate with what?
+Do you know where the bunker is?
+(Leave)
+I dunno, man. Government I suppose. You think I'm paid enough to know? Talk with our commander, he should be at the bar getting pissed.
+City is full of bunkers, lady. It's built like a damn hive, hundreds of pock marked little maggot holes dotting the rusty steel thorax of a wound in the Earth. Again, talk to our commander if you need info.
+Poledier (1)
+SetQuestLog

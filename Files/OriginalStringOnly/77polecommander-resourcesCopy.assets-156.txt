@@ -1,0 +1,39 @@
+Smoky bars and white haired girls don't mix, stick too long around here and you may find yourself dirtied.
+I'm looking for information.
+On what?
+A bunker.
+A bunker? Yeah, I might know about one of those. We've been poking around the city for a while, but... that kind of info... it's classified you know.
+Tell me.
+How rude. Well, maybe we can cut a deal. Let's not beat around the bush, you're not normal, you can do damage. We need to see someone... lose their position, so to speak. Someone prominent.
+Who?
+Jakub Francizek. He's a former mobster turned ethnic messiah, cursing our efforts to civilize this shithole with protectionist centrist rhetoric. He needs to go. Blackmail him, kill him, we don't care. But if you do kill him, make it bloody. It can't look like our work.
+Understood.
+What's he done against the PSR?
+Welcome back, girl.
+I've found blackmail on Jakub.
+Well, give it here.
+(continue)
+What the... what the fuck is this? I'm going to be sick, sick in my mask...
+Come back when you get it, or deal with him some other way.
+The man in the picture is Jakubk, correct?
+I knew he was a sick bastard but... christ. We can use this for certain, girl. Okay, I'll tell you what you wanted to know.
+Thank you.
+....
+Good work. I'll tell you what you wanted to know.
+We've found... something, at a nuclear district a few miles away. There's been odd signals coming from there, stuff we can't explain. There's a guy above my rank up there, part of the scavenger corps. He can answer some more questions for you.
+Thanks.
+(Leave)
+It's more what he's done against his own people. He's taken advantage of the situation, and used his criminal connections to pretend at politics. Claims one moment he'll protect his people, bashes in some grandpas knee caps for "militia funds" the next. He's nothing but a bandit.
+I've killed Jakub.
+Poledier
+FindItem
+Poledier
+VIDE_Override
+Poledier
+SetQuestLog
+Poledier
+SetQuestLog
+gameend
+useQuestObject
+Poledier
+VIDE_Override

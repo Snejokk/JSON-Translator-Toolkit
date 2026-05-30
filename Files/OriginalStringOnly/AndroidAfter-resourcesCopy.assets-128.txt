@@ -1,0 +1,21 @@
+H-h-h-hello.
+How are you feeling?
+My s-s-s-systems are restored and I may recommence maintenance.
+Are you bothered by your new position?
+What do you think of your repairs?
+Are you going to miss the planetarium?
+(Exit)
+It is adequate, to s-s-serve the people is my duty. (She waves her broom slightly)
+I still need to be brought to an approved Mechanist from the Bureau, but I am capable of functionality!
+You know, the Bureau doesn't exist anymore right?
+I'm glad to hear, what can you do?
+I k-k-know...
+Then why do you keep mentioning it?
+(The Android looks back and forth before staring at you blankly.)
+I'm sorry...
+I-I-I am a Komsomolchik type gynoid. I am capable of translation to all m-m-major languages of the USSR, as well as maintenance tasks!
+I-I-I was once assigned to work for a Planetarium! The stars shine brightest for Gagarin.
+Is that a preloaded sentence?
+Yes...
+Why do you default to the preloaded dialogues?
+M-m-my creators only want-want-want me to be happy. It's up for you to in-in-interpret their words.

@@ -2,26 +2,26 @@ import json
 import os
 
 # --- ПУТИ ---
-input_dir = './Files/TxtFolder'
-trans_dir = './Files/TxtFolderTranslated'
-base_folder = './Files'
-base_output_name = 'TxtFolderReady'
+input_dir = './Files/Original'
+trans_dir = './Files/ModifiedStringOnly'
+base_output_folder = './Files/Output'
+base_output_name = 'ModifiedStringOnly'
 
 # Логика создания папок: TxtFolderReady_1, _2 и т.д.
-existing_folders = [d for d in os.listdir(base_folder) if d.startswith(base_output_name)]
+existing_folders = [FolderName for FolderName in os.listdir(base_output_folder) if FolderName.startswith(base_output_name)]
 new_folder_index = len(existing_folders) + 1
-output_dir = os.path.join(base_folder, f"{base_output_name}_{new_folder_index}")
+output_dir = os.path.join(base_output_folder, f"{base_output_name}_{new_folder_index}")
 os.makedirs(output_dir, exist_ok=True)
 print(f"Результат будет сохранен в: {output_dir}")
 
 # --- ЗАГРУЗКА ИГНОР-ЛИСТА ---
 ignore_list = set()
 if os.path.exists('ignore_list.txt'):
-    with open('ignore_list.txt', 'r', encoding='utf-8') as f:
-        ignore_list = {line.strip() for line in f if line.strip()}
+    with open('ignore_list.txt', 'r', encoding='utf-8') as File:
+        ignore_list = {line.strip() for line in File if line.strip()}
 
 # --- ОСНОВНОЙ ЦИКЛ ---
-files = [f for f in os.listdir(input_dir) if f.endswith('.txt')]
+files = [File for File in os.listdir(input_dir) if File.endswith('.txt')]
 
 for i, filename in enumerate(files, 1):
     input_filepath = os.path.join(input_dir, filename)

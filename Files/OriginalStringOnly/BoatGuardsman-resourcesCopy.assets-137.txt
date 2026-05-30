@@ -1,0 +1,13 @@
+You got a ticket?
+Uh...
+Sorry, no free rides unless you work for the Water plant. Tickets are 700zl.
+I've got that on me (700zl to buy).
+(Leave)
+You're dirt broke! Come on.
+Hmm, not bad; Go ahead and talk to the captain, he's up front.
+You that girl they comm'd us about? You're free to go aboard, make sure to talk to the captain near the front.
+(Leave)
+Sorry, boats out of comission. The reservoir's fucked.
+Ah, I wonder who did that.
+BoatGuard
+venditem

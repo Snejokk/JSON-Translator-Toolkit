@@ -9,7 +9,10 @@ os.makedirs(output_dir, exist_ok=True)
 ignore_list = set()
 if os.path.exists('ignore_list.txt'):
     with open('ignore_list.txt', 'r', encoding='utf-8') as f:
-        ignore_list = {line.strip() for line in f if line.strip()}
+        ignore_list = set()
+        for line in f:
+            if line.strip():
+                ignore_list.add(line.strip())
 
 def extract(d, f):
     if isinstance(d, dict):

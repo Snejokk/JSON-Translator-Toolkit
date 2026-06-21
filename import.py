@@ -8,20 +8,29 @@ base_output_folder = './Files/Output'
 base_output_name = 'ModifiedStringOnly'
 
 # Логика создания папок: TxtFolderReady_1, _2 и т.д.
-existing_folders = [FolderName for FolderName in os.listdir(base_output_folder) if FolderName.startswith(base_output_name)]
+existing_folders = []
+for FolderName in os.listdir(base_output_folder):
+    if FolderName.startswith(base_output_name):
+        existing_folders.append(FolderName)
 new_folder_index = len(existing_folders) + 1
-output_dir = os.path.join(base_output_folder, f"{base_output_name}_{new_folder_index}")
-os.makedirs(output_dir, exist_ok=True)
+output_dir = os.path.join(base_output_folder, f"{base_output_name}_{new_folder_index}") # 1 параметр это путь к базовой папке, 2 имя папки
+os.makedirs(output_dir, exist_ok=True) # makedir создает путь 1 параметр это путь 2 то что он может уже быть
 print(f"Результат будет сохранен в: {output_dir}")
 
 # --- ЗАГРУЗКА ИГНОР-ЛИСТА ---
-ignore_list = set()
+ignore_list = set() # я написал лист но это тип по факту множество из за set
 if os.path.exists('ignore_list.txt'):
-    with open('ignore_list.txt', 'r', encoding='utf-8') as File:
-        ignore_list = {line.strip() for line in File if line.strip()}
+    with open('ignore_list.txt', 'r', encoding='utf-8') as f: # там R для чтения файла ещё
+        ignore_list = set()
+        for line in f:
+            if line.strip():
+                ignore_list.add(line.strip())
 
 # --- ОСНОВНОЙ ЦИКЛ ---
-files = [File for File in os.listdir(input_dir) if File.endswith('.txt')]
+files = []
+for File in os.listdir(input_dir):
+    if File.endswith('.txt'):
+        files.append(File)
 
 for i, filename in enumerate(files, 1):
     input_filepath = os.path.join(input_dir, filename)
@@ -39,7 +48,10 @@ for i, filename in enumerate(files, 1):
 
         if os.path.exists(trans_filepath):
             with open(trans_filepath, 'r', encoding='utf-8') as f:
-                translated_lines = [line.strip() for line in f if line.strip()]
+                translated_lines = []
+                for line in f:
+                    if line.strip():
+                        translated_lines.append(line.strip())
 
             idx = [0]
 

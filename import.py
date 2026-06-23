@@ -30,12 +30,12 @@ if os.path.exists('ignore_list.txt'):
 files = []
 for File in os.listdir(input_dir):
     if File.endswith('.txt'):
-        files.append(File)
+        files.append(File) # Проходит по папке ищет txt если находит то добавляет в список
 
 for i, filename in enumerate(files, 1):
     input_filepath = os.path.join(input_dir, filename)
     trans_filepath = os.path.join(trans_dir, filename)
-    output_filepath = os.path.join(output_dir, filename)
+    output_filepath = os.path.join(output_dir, filename) #Собирает путь к txt щкам
 
     print(f"[{i}/{len(files)}] Обработка: {filename}")
 

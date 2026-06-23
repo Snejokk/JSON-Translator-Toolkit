@@ -1,7 +1,0 @@
-You want anything?
-Yeah.
-Nah.
-ArtistTownBartender
-showShop
-ArtistTownBartender
-endShop

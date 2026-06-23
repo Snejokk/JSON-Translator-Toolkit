@@ -1,0 +1,10 @@
+Good evening, agent. Welcome to the subliminal reality training program. Just a refresher course. Kindly step into the next room so we can begin.
+[Left Mouse Button] Shoot.\n[Right Mouse Button] Aim.\n[Scroll wheel] Change camera distance.
+[Q and E] Lean.\n[ALT + mouse movement] Fluid Lean.\n[F1] Toggle Night Vision.
+[F] Interact\n[Holt F] Move physics object\n[TAB] Open Inventory.
+[Space] Jump. You can grab ledges and climb! Try to do so here, agent.\n[C] Lets you crouch and drop from grabbed ledge.
+Using the Inventory: \r\nClick items with the left mouse button to pick them up. \r\nYou can then place them inside a slot (hot slot or current weapon slot) by clicking on it. Hotslots allow you to use the numric (1 to 9) keys to switch between held items. \r\n
+(Continue)
+We have placed a number of training dummies in front of you. Try to sneak past them, notice their movement patterns, or even try to shoot them! Remember: enemies can hear you, see you, and work together!
+Be careful, agent. In front of you are two state of the art... oh who am I kidding, they're NATO milsurp turrets. Regardless, they are still dangerous! Sneak past them to the hacking terminal on the right.
+Good job agent. It is time to wake up, your train is arriving.

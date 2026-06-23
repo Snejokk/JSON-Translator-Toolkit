@@ -1,0 +1,42 @@
+Hey, your eyes, you're a contracter aren't you?
+Yes, I was told there was a situation here.
+No, I'm not.
+Oh shit, boys we have an infiltrator!
+Yeah, you can call it that. There's a bunch of reds downstairs, they blasted into the server room and they're trying to get data. On what? We can't say.
+......
+Do you have a preference for how they should be dealt with?
+How well armed are they?
+I get the idea (Leave)
+It would be good to keep some prisoners so we can figure out what they were looking for. If you can get the data packet from them, and prevent them from doing any more damage, that's good too.
+Very well armed. You'll need to be extremely careful, if you don't go in guns blazing that is.
+I'd like that.
+I'll be good with the equipment I brought.
+I'd rather you give me something more potent.
+I get the idea (Leave)
+Here. It's a rifle-grenade firing RWGL with gas-canister non-lethal rounds. You should be able to keep a few alive with this.
+Fine then. Saves us some money.
+Here, we can spare you one grenade.
+Thanks.
+Good luck down there.
+(Leave)
+Is the job done?
+No....
+I've got the data packet, it's taken care of.
+Good work, take this back to the commander at the train station. In the mean time, we'll look over a copy and try to figure out what they were after. I won't lie to you, their movements have been unusual today.
+...................
+We can provide you a non-lethal option if you would like.
+You haven't even gone down there yet, quit bullshitting.
+........
+(Leave)
+I didn't do this for charity you know.
+What do you expect out of me, a million zloty?
+No, I guess not.
+Not much, but it takes resources to do this sort of thing. Give me some ordnance at least.
+Pay out or I'll throw this PDA out the window like a baby in hong kong.
+Fine, take this. Now go!
+Thanks.
+What are you doing, get a move on.
+............
+Is the job done?
+No....
+It's taken care of.

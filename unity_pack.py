@@ -16,7 +16,7 @@ if not existing_folders:
     exit(1)
 
 # Сортируем папки по номеру на конце, чтобы взять самую свежую
-existing_folders.sort(key=lambda x: int(x.split('_')[-1]) if '_' in x else 0)
+existing_folders.sort(key=lambda x: int(x.split('_')[-1]) if x.split('_')[-1].isdigit() else 0)
 latest_txt_dir = os.path.join(base_folder, existing_folders[-1])
 
 print(f"Берем готовые переведенные тексты из: {latest_txt_dir}")
@@ -39,7 +39,7 @@ for root, dirs, files in os.walk(unity_input_dir):
                     data = obj.read()
 
                     # Ищем соответствующий .txt файл в твоей последней папке
-                    target_txt_name = f"{data.name}.txt"
+                    target_txt_name = f"{data.m_Name}.txt"
                     target_txt_path = os.path.join(latest_txt_dir, target_txt_name)
 
                     if os.path.exists(target_txt_path):
@@ -47,11 +47,13 @@ for root, dirs, files in os.walk(unity_input_dir):
                         with open(target_txt_path, "rb") as f:
                             new_script_bytes = f.read()
 
-                        # Заменяем содержимое ассета
-                        data.script = new_script_bytes
+                        # Заменяем содержимое ассета.
+                        # m_Script в UnityPy 1.x — строка, поэтому декодируем
+                        # с surrogateescape, чтобы не потерять сырые байты.
+                        data.m_Script = new_script_bytes.decode("utf-8", "surrogateescape")
                         data.save()
 
-                        print(f"Заменен TextAsset: {data.name} (в {filename})")
+                        print(f"Заменен TextAsset: {data.m_Name} (в {filename})")
                         is_modified_bundle = True
                         files_modified += 1
 

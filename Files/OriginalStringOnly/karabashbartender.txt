@@ -1,0 +1,115 @@
+Sup; you want something nice?
+What's for sale?
+Do you know how to get into the water-plant?
+See you around (Leave)
+Eh? I dunnoooo, try the sewers? Weirdo...
+Hello, you're a new face. What brings you here?
+Anything for sale?
+What's with the getup?
+What's with that guy outside?
+Why are people here so... off...
+(Leave)
+Sure. Not a lot though, imports are down.
+Heh, I'm not from around here you know? Never seen any subculture?
+You seemed to have a bit of that feel to you...
+I was from the Second Union; my mom was Uzbek. I moved down here to get away from that stifling culture though. Sucks though, the train's been fucked so I haven't been able to get to the club in a while.
+Some crazy kitschmo. Tried to talk to me about the art-hall.
+How do you get in there though?
+I don't know! I'm not from around here. Though... if you talked to the guys who own the tech shop... they seem to be part of that dumb cult. It's up the road on your right, you can't miss it.
+Dumb cult?
+Why doesn't the PSR shut it down?
+Yeah! The locals don't want anyone entering. They treat it as sacred.
+"Hearts and mind", you bonbon. Like, they just don't want to press it. It's stupid, like, that place is full of commies.
+I dunno, like, the SSSR is gone hahah. I think they all lost their jobs cus no one wants their soviet kitsch anymore. Those symbols aren't like, useful for the new management.
+Why?
+Well, what's a cross to you dummy? Look around, it's the corpo branding. Before that it was stars and other geometry. It's all in that.
+Geometry?
+Yeah I mean like, people think in art and symbols. What's around, s'why I won't wear a Joy-skull even if I like em. A grocer might not believe in the party, but he'll put "Long Live the party!" outside his store so he doesn't get his shins kicked in.\nThat's big business, branding, well, the business went.
+But what does that have to do with the... locals?
+Well they want their jobs back! Ahahah.
+Hello, what do you need... and keep it down, this is still a library.
+Isn't that upstairs?
+Read the sign... hehehe, access is only for faculty.
+Then how can students enter?
+They can only enter if they pass their first course. Any needed materials are... around.
+I need you to let me use that elevator.
+No entry, unless you can pass.
+Okay, give me the quiz.
+Why are you so secretive?
+(Leave)
+Why do you want to know?
+I just think it's silly. Isn't this a school?
+Then you should learn.
+If you feel ready to take it, but I warn you; I'll only give you two tries.
+Give it to me.
+I'll study up first, on second thought.
+"Arise ye prisoners of want"
+No can do. You already failed, hehe. Sorry! But no interlopers.
+And the last fight let us face
+For Reason in Revolt now Thunders
+No more deluded by reaction
+Our own right hand the chains must shiver
+And at last ends the age of cant.
+ Our own right hand the chains must shiver
+ We’ll shoot the generals on our own side.
+ No more deluded by reaction
+ Away with all your superstitions
+ Servile masses arise, arise
+ We’ll change henceforth the old tradition
+ No saviour from on high delivers
+ No faith have we in prince or peer
+ E’er the thieves will out with their booty
+ And give to all a happier lot.
+And spurn the dust to win the prize.
+ They’ll break ranks and fight no more
+ They soon shall hear the bullets flying
+ So comrades, come rally
+ The Internationale unites the human race.
+ Servile masses arise, arise
+Good work, Tovarisch. I see you're informed. Long live the Chairman, now go quietly, the door will open for you now. Study well, lovely thing.
+Thank you.
+Is there anything else you need?
+No, go study more. Sorry.
+But seriously, why the secrecy?
+What is in the Hall?
+No, thank you (Leave)
+Because the dream hasn't died here. The Second Union will return; the Poles are only a weak detachment of reactionaries, but we are workers.
+The Hall of the Unborn Moon was our greatest art piece before the leaden days. It was nearly complete before it lost funding and the school was shuttered; everyone pitched into its construction, and it was to last forever. Now it's unborn, a shame.
+(The man before you has an obvious German accent)
+What's with the android?
+Don't ask about it. Forget about it. Okay?
+Hey, what the fuck, put that down. That's... that's none of your business, okay?
+What exactly is this, proszę pana\r?
+What the hell do you want?
+(Continue)
+It's... y'know, a silencer.
+Relations with nonhumans is sodomy in the PSR you know... tsk tsk...
+Look just give it back! It's not mine.
+Suuuure. How's about this; how about you give me some info?
+Whatever. You want to get into the library and the art hall right? I found a way in. It's behind me, there's a ladder to an apartment of an old aparatchik.
+Go on...
+Go through the hallway and look for the janitors closet. Now fuck off and give it back.
+No, I think I'll be keeping this. To use as a silencer.
+Anything for sale?
+Know anything about this town?
+(Leave)
+All augs. I don't install.
+It's a shithole. I was raised here and it's all washed-up former intelligentsia. They worship ideology; idiots. They've got some hidden library no one can go to because it leads to their art-gallery.
+Do you know a way in?
+Sure; for 1500 zl I'll let you in.
+Deal.
+I'll find my own way in.
+You don't have the money, don't try to pull a fast one.
+Hehehe, quick cash. Go through the room behind me, and climb the ladder. Go through the hallway and look for the janitors closet. Now fuck off.
+Thanks.
+A... silencer....? They don't make bullets that small...
+It's f-for blank shooting...
+Why is it... why does it look like a, you know.
+It's for covert operations.
+Wait... is this... I...
+No it's not!
+Comment...
+Where do you need to go?
+The Artist Town, Domkulturigrad.
+The Waterworks District.
+The Refinery.

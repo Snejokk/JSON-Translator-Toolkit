@@ -3,7 +3,7 @@ import UnityPy
 
 # --- ПУТИ ---
 unity_input_dir = './Unity_Original' # Папка, куда нужно положить оригинальные файлы Unity (bundles, .assets)
-txt_output_dir = './Files/TxtFolder' # Сюда выгрузятся файлы .txt (для твоих скриптов)
+txt_output_dir = './Files/Original' # Сюда выгрузятся файлы .txt (для твоих скриптов)
 
 os.makedirs(unity_input_dir, exist_ok=True)
 os.makedirs(txt_output_dir, exist_ok=True)
@@ -27,12 +27,12 @@ for root, dirs, files in os.walk(unity_input_dir):
                     data = obj.read()
 
                     # Имя файла из ассета + .txt
-                    asset_name = f"{data.name}.txt"
+                    asset_name = f"{data.m_Name}.txt"
                     out_filepath = os.path.join(txt_output_dir, asset_name)
 
                     # Сохраняем "сырые" байты, чтобы не сломать кодировку JSON
                     with open(out_filepath, "wb") as f:
-                        f.write(bytes(data.script))
+                        f.write(data.m_Script.encode("utf-8", "surrogateescape"))
 
                     print(f"Экспортирован TextAsset: {asset_name} (из {filename})")
                     files_extracted += 1

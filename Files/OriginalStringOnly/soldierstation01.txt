@@ -1,0 +1,50 @@
+Do you need something?
+What is this place?
+Can you give me some directions?
+Who are you?
+(Leave)
+An old station. Fairly pretty isn't it? Well, if you like industrial architecture. I do though, it's a shame that most people miss the natural attractiveness inherent to metal and grout.
+You like industrial architecture?
+When was it built?
+What is this place?
+Can you give me some directions?
+Who are you?
+(Leave)
+It's hard not to, I was raised in a refinery district. Spent my whole life under leaking gas drainages.
+What's the appeal?
+Were you propagandized towards it?
+(Back)
+.......
+It towers over you! You can see its guts like a stuck fish, pick out how it works. I learned some skills that way, let me work as an engineer for a while.\nI'll probably go back to it once my mandatory service ends.
+How long do you have left?
+What's the appeal?
+Were you propagandized towards it?
+(Back)
+God knows that, dear. I thought I was going in for a few weeks, turns out it was a few months. Then it was... what year is it?
+During the communist era? Not really. I was five when that ended, and my father worked hard to keep my eyes off posters and set towards Polonia.
+Wouldn't know, I'm from Wroclaw. This city has only opened up recently and the reds burned a lot of documents when we drove them out. I presume you're no local either?
+Well I can tell you where not to go.
+What's in front of me?
+What's to the right of me?
+Where is the danger?
+Where can I go to get wasted?
+Where is work?
+(Back)
+..............
+Statue of old Pilsudski. We had to drag that here ourself. There were a lot of Lenins before. To your North West from there is a bunch of rotting architecture left by retarded modernists, well, actually, some of it is pretty I guess. The piping is anyhow. Do you know how much I'd give to live in that grain elevator down the road? They have us barracking in here, but I want to explore it when I can.
+Blocked off pathway that we blasted to keep the commies out. They were dead set on controlling the transport here, they've been riled up lately in general. If you go past the blasted pedway, you're putting your fate in your own hands.
+There's been shooting out at one of the apartment blocs, near the grainery and past the Pilsudski statue. North West. Our boys have been holding down the area. Me? I'm glad to be up here, I hate seeing perfectly good architecture get fragged. I can't help but have a certain nostalgia for the mass produced sprawl we now spill blood in.
+The bar is to your right, but they run dry often. Last week we caught some homeless straggler drinking the trains brakes just to keep liquid. I almost blew his brains out for such flagrant violation of safety standards.
+If you want work, go talk to the commander in the apartment blocs to the North West of the station. You'll need to go down the walkways and climb the roofs, since we blew up the normal paths.
+Isn't that its own form of propagandization?
+He had good goals in mind.
+He was a good man. Worked his whole life in factories, heh. Back then you could always get work, that was for sure.
+Insomuch as teaching your child to hold a fork, or wear clothes is propaganda. He taught me what was good for me.
+And the government could not?
+He had good goals in mind.
+The government wants workers, the father wants sons.
+Franciszek Jozef , professional soldier of two years. And... self taught engineer of several more.
+Nice to meet you.
+Do they call you Franz Joseph for short?
+Do I look inbred to you?
+Likewise.

@@ -1,0 +1,20 @@
+WARNING: UNAUTHORIZED ACCESS\nAUTOMATED SECURITY DISPATCHED
+Welcome to the reactor command system:
+REACTOR OVERLOADED, EMERGENCY, PLEASE PROCEED TO EVACUATION
+(Leave)
+(Leave)
+(Continue)
+(You have not planted all of the explosive charges, overload anyway?)
+Welcome to the reactor command system:
+Overload reactor
+(Leave)
+Welcome to the reactor command system:
+Implant Virus
+(Leave)
+(Virus uploading.... successful)
+(Leave)
+Welcome to the reactor command system:
+Implant Virus
+(Leave)
+(Virus uploading.... successful)
+(Leave)

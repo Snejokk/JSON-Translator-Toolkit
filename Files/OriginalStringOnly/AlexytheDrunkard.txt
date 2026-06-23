@@ -1,0 +1,2 @@
+"Elevator Locked. If you lack a keycard, please visit the maintenance room."
+(Leave)

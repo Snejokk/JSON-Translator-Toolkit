@@ -1,0 +1,113 @@
+You're... not supposed to be alive... For God's sake, they gave me another one...
+Where am I? What is this place I... don't remember. Who are you...?
+Oh, you can speak! Diagnostics didn't say that. I'll answer you in a second... but, I paid a lot of money for you. Let's figure out what we're working with here, calm down and tell me; what's the last thing you do remember?
+I was... falling.
+I saw bright lights...
+I was... born.
+Yeah, that fits. Sorry to be the one to tell you this, but you underwent a wipe. You ever hear of near-death experiences? Brain fills in the data, interprets any damn thing as stimulus.
+What do you mean?
+Simple, I've seen it before too: You die, you see white light. You get wiped, your brain reaches for any synapse it has left, the rush feels like falling.
+But why am I here? I don't understand I just...
+Well, we get a cart in once a week. High price on pre-war augs, y'see? Cyborg like you fetches a high price when you're surplus. Idiots never check the pulse-backup though, so congrats; you're a lucky woman, and I'm out 10k.
+I remember... a bunker...
+A bunker eh? What'd it look like.
+It was... somewhere underground, I remember it. I was there.
+Not what I asked, but that's interesting. Say, you know, I think we can help eachother out a little. See, I've got a problem. Scrapping isn't cheap, and you were a total loss. PSR banned scrapping live ones on ecumenical grounds, so I can't keep you...
+But I've met your kind before, the ones with memories. You run after it as soon as you're awake. I happen to have info on a commander by the Memorial Tower, part of a recon that found something under the Earth. Help me recoup some of your cost, and I might just throw a few names your way.
+I...
+C'mon, it'll be easy. Listen up, there's an old planetarium full of punks across the rooftops from here, the Poles want to reopen it for "public good". Confused sad-sacks think people still care about the Gagarin-cult, no one gives a rat's ass about those Soviet relics.
+Thing is, they don't make bulbs for those projectors anymore. I know for a fact there's only one in that thing, and if it.... "disappeared" before the scum get the boot, I'm betting it'd fetch a propagandists price. You get me my bulb, I'll get you a train ticket and a name.
+I'll do it.
+Good, good. Now, I'm going to run some diagnostics on you, a lot of your augs are busted or just... indecipherable, that's part of why you fetched a price. I'll fix you up a little before you go. You can pick your poison, and we'll patch you up.
+Weren't we all.
+Near death experience huh? Didn't realize you had that much wet-ware left in you.
+I don't... want to be seen. (Thermoptic Distortion)
+You want me to get your toy from a place full of people... I'll need access to overrides and hostile synapse control. (Interface Possession)
+My body is... sluggish... I think my reflexes are shot, I think my brain is damaged... (Sensory-induced Time Dilation)
+(Thermoptic Camo received.) Become invisible, become hidden genocide.
+(Puppeteer received.) Take over the minds of your enemies by using this aug when they are in range. Hug-up to an adversary, use this aug, and watch as they do your bidding.
+(Reflex Enhancement received.) Slow time, speed up genocide.
+Continue
+Got the bulb?
+Yes
+No
+Tell me about this place.
+Tell me about yourself.
+Why do they want to restart the planetarium?
+Hey, try having the goods with you before you go trying a scam. Get me the bulb, I'll be waiting.
+Good, this should cover what I put into you. Keep the implants as payment, I'd feel a little wrong stripping them out of you.
+The man's non-existent eyes would have widened seeing the thing you've brought before him. He seems shocked and raises his hand solemnly. "What is this you've brought me?"
+Some droid, said you could fix her. Wouldn't shut off the projector unless I brought her here.
+I didn't know she was still running, I didn't know she... where did you find her?
+Sitting by the projector, her limbs are all busted so I guess she was there a while. Looks like the punks got to her.
+The man mutters under his breath, "Nietzschka... I'm so sorry."
+I doubt she can hear you, her battery is low.
+Watch over the bar for a while, and don't worry about the bulb anymore. I'm... going to see what spares I have.
+You think you can fix her?
+I have to try.
+(Continue)
+It took a while and she's not what she used to be but... well, I needed help around the bar anyway.
+You still need that bulb?
+No, I think taking it would... disappoint Nietzschka. Look, your train should be here soon. You're looking for a PSR commander in the Memorial Tower district.
+Do they know of the bunker?
+Us Junker's get info on good scrap early, and I'm told there's a motherload out there. Just... keep yourself safe, you've got a good soul. Keep it close.
+I will.
+I won't lie to you, I've seen your kind before. You're going to go through a lot, what you seek probably doesn't even exist. If you're still alive by the end of your journey, come back here. I'll set you up with a local job, you'll have a place to stay.
+If the world holds that for me, then I'll remember this little place.
+You should get going, your train's probably down at the station.
+What will you do now?
+Is there anything else I should know?
+(Exit)
+Same as always. Though, if the PSR is bent on reopening that old planetarium... maybe I'll see if they need some help, it's been a long time.
+About what?
+Memorial Tower.
+The Android.
+This district.
+(Back)
+It's just an administrative district, not much to comment on. They have an issue with insurgents I've been told, it's mostly run by local toughs stuck here from other SSRs.
+She's a standard model with... a non-standard mind. Back in the day we called her Nietzschka because she was hopeless, that was before it all went to shit though. In the end it was just me and her, but I couldn't keep it running alone. I don't really believe such models "think" or "feel" but... she'll be happy here.
+It'll be the same as it always was, some relic ideal bloc they generated to entertain their cosmology. Trains come, trains go, people'll find a use for it.
+Well, here's a ticket for you. The train you want will be in the station downstairs; You're looking for a PSR commander in the Memorial Tower district. \nUs Junker's get info on good scrap early, and I'm told there's a motherload out there. Just keep yourself safe, I don't like charity going to waste.
+Well, I won't lie to you, I've seen your kind before. You're going to go through a lot, what you seek probably doesn't even exist.
+What about the info you promised? On the bunker?
+I'll keep it in mind.
+If you're still alive by the end of your journey, come back here. I'll set you up with some work, something fitting for your type.
+You're not as hard-hearted as you seem.
+Not much to tell. It's a crossroads, former model-disctrict. They generated it a few years before the fireworks, been here ever since. People come, people go, I stay. It's a junction point most of the city's rain, and most of its societal run-off, drains through.
+Name's Filemon. I came here as an engineer when I was straight out of the komsomol. I've been dealing junk ever since, this place is a junction point so it's easy to move freight and crap. Now I run the bar and pick up more stories from vagrants than I do scrap.
+Probably appeals to old fogies. PSR is all about that, they love to show they're able to rebuild "normality". They never seem to realize people want a future, not the past.
+PSR?
+"Polish Solidarity Republic", they exploded after the fireworks. Seems Warsaw and a lot of Poland didn't get hit as hard, they united under the cross and filled the vacuum. No one really knows if they'll last, too many generals in too many directions with too many goals. Heh, go out and interact with them for yourself. They love relics like you.
+Do they... control this area?
+Yeah, they showed up in the city a few years after the Soviets went silent, and a few years before the Second Union formed. \r\nThe city used to be a lot worse back then, there were... "things" everywhere, those were the times of lead.
+Second Union?
+"Things"?
+Take a look at the TVs behind you, that broadcast doesn't come from nowhere. Moscow is ash but the signals don't stop. They say The Chairman's successors made a drive on the East and pulled the Union back to life, but they can't do more than fund kids and old aparatchik's death-wishes here.
+How do they keep going if Moscow is ash?
+Strange things, looked like a Komsomolchik-droid combined with a potato-sack. Used to dredge up bodies and take them God-knows where. Otherwise we'd deal with the Topielecs, drowned men, I won't speak of them.
+Well they've got bunkers of their own, and a lot of them. They keep it running through complex underground cities connected by old rail networks, the rest of the SSRs train in resources, and Moscow exports its form of "leadership" at the end of a bayonet.
+I see...
+Anything else? You got the bulb?
+(Continue)
+(Equip implants by entering your inventory and clicking onto the "Marie" screen. Drag implants onto the selection slots on the wheel to equip. They can also be assigned to hotslots.)
+(Continue)
+Good, let's get you set up with a piece too, just in case. Your choice:
+Do you have anything rapid?
+Just give me something with power.
+It better be silenced.
+Sure, standard issue Makarov, all yours if you want it, but you better deliver. It's got an 8 round mag and it's semi-auto, good enough for thugs.
+(Take Makarov)
+Show me what else you have.
+(Makarov received. Load magazines by placing the mag over ammo in inventory. Search for spare magazines in the world.)
+Avaricious aren't you? Well, I've an old double barrel. TOZ-34, two shots, hits like a brick, no range though. Maybe it would serve you better if you cut its barrel into an obrez? I don’t have the heart or spare hacksaws to do it.
+(Take TOZ-34)
+Show me what else you have.
+(TOZ-34 Received. Standard shotgun, takes loose ammo.)
+What do you take me for, GROM? Well, come to think of it a bastard pawned me an old x54 suppressor recently. Only thing I have to fit it to is a rusted old Mosin. She's slow, but she's accurate enough, and she'll punch through body armor silently.
+(Take Mosin)
+Show me what else you have.
+(Mosin and Silencer received. Attach Silencer in Inventory in inspect screen by placing the silencer on the gun with your mouse.)
+(Continue)
+Good luck out there. Head up through the room behind me and climb up to the roof, it's the quickest route. Just go behind me, climb up, and jump across the pipes. Don't go through the metro, it's slow, The Planetarium is the big domed building you'll see past the pool-garden.
+(Magazine firearms utilize magazine items, which need to be loaded with loose ammo. Unload enemy firearms for their ammo and mags.)
+(Continue)

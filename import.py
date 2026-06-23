@@ -7,21 +7,20 @@ trans_dir = './Files/ModifiedStringOnly'
 base_output_folder = './Files/Output'
 base_output_name = 'ModifiedStringOnly'
 
-# Логика создания папок: TxtFolderReady_1, _2 и т.д.
+# Логика создания папок: ModifiedStringOnly_1, _2 и т.д.
 existing_folders = []
 for FolderName in os.listdir(base_output_folder):
     if FolderName.startswith(base_output_name):
         existing_folders.append(FolderName)
 new_folder_index = len(existing_folders) + 1
-output_dir = os.path.join(base_output_folder, f"{base_output_name}_{new_folder_index}") # 1 параметр это путь к базовой папке, 2 имя папки
-os.makedirs(output_dir, exist_ok=True) # makedir создает путь 1 параметр это путь 2 то что он может уже быть
+output_dir = os.path.join(base_output_folder, f"{base_output_name}_{new_folder_index}")
+os.makedirs(output_dir, exist_ok=True)
 print(f"Результат будет сохранен в: {output_dir}")
 
 # --- ЗАГРУЗКА ИГНОР-ЛИСТА ---
-ignore_list = set() # я написал лист но это тип по факту множество из за set
+ignore_list = set()
 if os.path.exists('ignore_list.txt'):
-    with open('ignore_list.txt', 'r', encoding='utf-8') as f: # там R для чтения файла ещё
-        ignore_list = set()
+    with open('ignore_list.txt', 'r', encoding='utf-8') as f:
         for line in f:
             if line.strip():
                 ignore_list.add(line.strip())
@@ -30,28 +29,28 @@ if os.path.exists('ignore_list.txt'):
 files = []
 for File in os.listdir(input_dir):
     if File.endswith('.txt'):
-        files.append(File) # Проходит по папке ищет txt если находит то добавляет в список
+        files.append(File)
 
 for i, filename in enumerate(files, 1):
     input_filepath = os.path.join(input_dir, filename)
     trans_filepath = os.path.join(trans_dir, filename)
-    output_filepath = os.path.join(output_dir, filename) #Собирает путь к txt щкам
+    output_filepath = os.path.join(output_dir, filename)
 
     print(f"[{i}/{len(files)}] Обработка: {filename}")
 
     try:
-        with open(input_filepath, 'r', encoding='utf-8') as f:
+        with open(input_filepath, 'r', encoding='utf-8-sig') as f:
             content = f.read().strip()
             if not content:
                 continue
             data = json.loads(content)
 
         if os.path.exists(trans_filepath):
-            with open(trans_filepath, 'r', encoding='utf-8') as f:
+            with open(trans_filepath, 'r', encoding='utf-8', newline='') as f:
                 translated_lines = []
-                for line in f:
+                for line in f.read().split('\n'):
                     if line.strip():
-                        translated_lines.append(line.strip())
+                        translated_lines.append(line)
 
             idx = [0]
 
@@ -65,18 +64,20 @@ for i, filename in enumerate(files, 1):
                         # Счётчик НЕ двигаем — экспорт тоже её пропустил
                         if isinstance(v, str) and v in ignore_list:
                             continue
-                        # Подставляем перевод
-                        if isinstance(v, str) and v.strip():
+                        # Подставляем перевод только в реплики (ключ оканчивается на "text")
+                        if isinstance(v, str) and v.strip() and k.endswith("text"):
                             if idx[0] < len(translated_lines):
-                                d[k] = translated_lines[idx[0]]
+                                # Возвращаем экранированные переносы обратно
+                                line = translated_lines[idx[0]]
+                                line = line.replace('\\r', '\r').replace('\\n', '\n').replace('\\\\', '\\')
+                                d[k] = line
                                 idx[0] += 1
                         # Рекурсия для вложенных объектов
                         elif isinstance(v, (dict, list)):
                             inject(v)
                 elif isinstance(d, list):
+                    # У строк в списках нет ключа — пропускаем, только рекурсия вглубь
                     for item in d:
-                        if isinstance(item, str) and item in ignore_list:
-                            continue
                         if isinstance(item, (dict, list)):
                             inject(item)
 

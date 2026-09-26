@@ -1,0 +1,32 @@
+# Какие строковые поля MonoBehaviour считать переводимым текстом.
+# +слово   - брать поля, в имени которых встречается слово (регистр не важен)
+# -поле    - не брать это поле никогда (точное имя)
+# Файл обязателен. После изменения правил заново выгрузи текст.
+
++text
++name
++desc
++title
++dialog
++quest
++line
++caption
++tooltip
++label
++comment
+
+-m_Name
+-name
+-originalSceneName
+-m_TargetAssemblyTypeName
+-m_ObjectArgumentAssemblyTypeName
+-m_MethodName
+-m_ClassName
+-m_Namespace
+-m_AssemblyName
+-m_TagString
+-m_SortingLayerName
+-m_ShaderKeywords
+-m_FontPackagePath
+-m_SceneName
+-m_Tag

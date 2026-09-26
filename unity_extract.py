@@ -1,44 +1,20 @@
-import os
+"""Выгрузить TextAsset из Unity-файлов."""
 import UnityPy
+from common import ROOT
 
-# --- ПУТИ ---
-unity_input_dir = './Unity_Original' # Папка, куда нужно положить оригинальные файлы Unity (bundles, .assets)
-txt_output_dir = './Files/Original' # Сюда выгрузятся файлы .txt (для твоих скриптов)
+input_dir = ROOT / "Unity_Original"
+output_dir = ROOT / "Files/Original"
+output_dir.mkdir(parents=True, exist_ok=True)
 
-os.makedirs(unity_input_dir, exist_ok=True)
-os.makedirs(txt_output_dir, exist_ok=True)
-
-print(f"Поиск Unity-файлов в папке: {unity_input_dir}")
-
-files_extracted = 0
-
-# Проходим по всем файлам в папке с Unity-ресурсами
-for root, dirs, files in os.walk(unity_input_dir):
-    for filename in files:
-        file_path = os.path.join(root, filename)
-
-        try:
-            # Загружаем Unity-файл (архив, бандл или .assets)
-            env = UnityPy.load(file_path)
-
-            # Проходим по всем объектам внутри
-            for obj in env.objects:
-                if obj.type.name == "TextAsset":
-                    data = obj.read()
-
-                    # Имя файла из ассета + .txt
-                    asset_name = f"{data.m_Name}.txt"
-                    out_filepath = os.path.join(txt_output_dir, asset_name)
-
-                    # Сохраняем "сырые" байты, чтобы не сломать кодировку JSON
-                    with open(out_filepath, "wb") as f:
-                        f.write(data.m_Script.encode("utf-8", "surrogateescape"))
-
-                    print(f"Экспортирован TextAsset: {asset_name} (из {filename})")
-                    files_extracted += 1
-
-        except Exception as e:
-            print(f"Пропущен файл {filename} (Не является файлом Unity или ошибка: {e})")
-
-print(f"\nВыгрузка из Unity завершена! Извлечено файлов: {files_extracted}")
-print(f"Теперь можно запускать твой export.py")
+for path in sorted(input_dir.rglob("*")):
+    if not path.is_file() or path.name.startswith("."):
+        continue
+    env = UnityPy.load(str(path))
+    for obj in env.objects:
+        if obj.type.name != "TextAsset":
+            continue
+        asset = obj.read()
+        output = output_dir / (asset.m_Name + ".txt")
+        output.parent.mkdir(parents=True, exist_ok=True)
+        output.write_bytes(asset.m_Script.encode("utf-8", "surrogateescape"))
+        print(f"Извлечён: {output.name}")

@@ -1,92 +1,40 @@
+"""Вставить переведённые реплики обратно в JSON."""
 import json
-import os
+from common import ROOT, decode_asset, encode_asset, read_translation
+from json_common import text_fields
 
-# --- ПУТИ ---
-input_dir = './Files/Original'
-trans_dir = './Files/ModifiedStringOnly'
-base_output_folder = './Files/Output'
-base_output_name = 'ModifiedStringOnly'
+input_dir = ROOT / "Files/Original"
+translation_dir = ROOT / "Files/ModifiedStringOnly"
+output_dir = ROOT / "Files/Output/Ready"
+output_dir.mkdir(parents=True, exist_ok=True)
 
-# Логика создания папок: ModifiedStringOnly_1, _2 и т.д.
-existing_folders = []
-for FolderName in os.listdir(base_output_folder):
-    if FolderName.startswith(base_output_name):
-        existing_folders.append(FolderName)
-new_folder_index = len(existing_folders) + 1
-output_dir = os.path.join(base_output_folder, f"{base_output_name}_{new_folder_index}")
-os.makedirs(output_dir, exist_ok=True)
-print(f"Результат будет сохранен в: {output_dir}")
-
-# --- ЗАГРУЗКА ИГНОР-ЛИСТА ---
-ignore_list = set()
-if os.path.exists('ignore_list.txt'):
-    with open('ignore_list.txt', 'r', encoding='utf-8') as f:
-        for line in f:
-            if line.strip():
-                ignore_list.add(line.strip())
-
-# --- ОСНОВНОЙ ЦИКЛ ---
-files = []
-for File in os.listdir(input_dir):
-    if File.endswith('.txt'):
-        files.append(File)
-
-for i, filename in enumerate(files, 1):
-    input_filepath = os.path.join(input_dir, filename)
-    trans_filepath = os.path.join(trans_dir, filename)
-    output_filepath = os.path.join(output_dir, filename)
-
-    print(f"[{i}/{len(files)}] Обработка: {filename}")
-
+for path in sorted(input_dir.glob("*.txt")):
+    output = output_dir / path.name
+    # Старый результат не должен попасть в сборку, если новый перевод ошибочен.
+    output.unlink(missing_ok=True)
+    raw = path.read_bytes()
+    text, encoding = decode_asset(raw)
     try:
-        with open(input_filepath, 'r', encoding='utf-8-sig') as f:
-            content = f.read().strip()
-            if not content:
-                continue
-            data = json.loads(content)
-
-        if os.path.exists(trans_filepath):
-            with open(trans_filepath, 'r', encoding='utf-8', newline='') as f:
-                translated_lines = []
-                for line in f.read().split('\n'):
-                    if line.strip():
-                        translated_lines.append(line)
-
-            idx = [0]
-
-            def inject(d):
-                if isinstance(d, dict):
-                    for k, v in d.items():
-                        # Пропускаем если ключ в игнор-листе
-                        if k in ignore_list:
-                            continue
-                        # Пропускаем если значение - строка и она в игнор-листе
-                        # Счётчик НЕ двигаем — экспорт тоже её пропустил
-                        if isinstance(v, str) and v in ignore_list:
-                            continue
-                        # Подставляем перевод только в реплики (ключ оканчивается на "text")
-                        if isinstance(v, str) and v.strip() and k.endswith("text"):
-                            if idx[0] < len(translated_lines):
-                                # Возвращаем экранированные переносы обратно
-                                line = translated_lines[idx[0]]
-                                line = line.replace('\\r', '\r').replace('\\n', '\n').replace('\\\\', '\\')
-                                d[k] = line
-                                idx[0] += 1
-                        # Рекурсия для вложенных объектов
-                        elif isinstance(v, (dict, list)):
-                            inject(v)
-                elif isinstance(d, list):
-                    # У строк в списках нет ключа — пропускаем, только рекурсия вглубь
-                    for item in d:
-                        if isinstance(item, (dict, list)):
-                            inject(item)
-
-            inject(data)
-
-        with open(output_filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
-
-    except Exception as e:
-        print(f"!!! ОШИБКА в файле {filename}: {e}")
-
-print("\nГотово! Все файлы собраны.")
+        data = json.loads(text)
+    except ValueError:
+        translation = translation_dir / path.name
+        if not translation.exists():
+            output.write_bytes(raw)
+            continue
+        original = text.replace("\r\n", "\n").replace("\r", "\n")
+        lines = read_translation(translation, len(original.splitlines()))
+        newline = "\r\n" if "\r\n" in text else "\r" if "\r" in text else "\n"
+        rebuilt = newline.join(lines)
+        if text.endswith(("\n", "\r")):
+            rebuilt += newline
+        output.write_bytes(encode_asset(rebuilt, encoding))
+        print(f"Собран обычный текст: {path.name}")
+        continue
+    translation = translation_dir / path.name
+    if translation.exists():
+        fields = text_fields(data)
+        lines = read_translation(translation, len(fields))
+        for (container, key), text in zip(fields, lines):
+            container[key] = text
+    output.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Собран: {path.name}")

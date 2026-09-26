@@ -1,56 +1,38 @@
+"""Старый вариант: заменить все непустые строки в словарях JSON."""
 import json
-import os
-import shutil
+from pathlib import Path
 
-# Папка с оригиналами
-input_dir = './TxtFolder'
-# Папка с вашими переводами
-trans_dir = './TxtFolderTranslated'
-# НОВАЯ ПАПКА для готовых файлов
-output_dir = './TxtFolderReady'
+root = Path(__file__).resolve().parent.parent
+input_dir = root / "TxtFolder"
+translation_dir = root / "TxtFolderTranslated"
+output_dir = root / "TxtFolderReady"
+output_dir.mkdir(parents=True, exist_ok=True)
 
-# Создаем новую папку, если ее нет
-os.makedirs(output_dir, exist_ok=True)
 
-print(f"Начинаем сборку! Готовые файлы будут сохранены в: {output_dir}\n")
+def text_fields(data):
+    fields = []
+    for key, value in data.items():
+        if isinstance(value, str) and value.strip():
+            fields.append((data, key))
+        elif isinstance(value, dict):
+            fields.extend(text_fields(value))
+    return fields
 
-for filename in os.listdir(input_dir):
-    if filename.endswith('.txt'):
-        input_filepath = os.path.join(input_dir, filename)
-        trans_filepath = os.path.join(trans_dir, filename)
-        output_filepath = os.path.join(output_dir, filename)
 
-        try:
-            # Читаем оригинальный JSON
-            with open(input_filepath, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-
-            # Если есть перевод — вставляем его
-            if os.path.exists(trans_filepath):
-                with open(trans_filepath, 'r', encoding='utf-8') as f:
-                    translated_lines = [line.strip() for line in f if line.strip()]
-
-                idx = [0]
-                def inject(d):
-                    for k, v in d.items():
-                        if isinstance(v, str) and v.strip():
-                            if idx[0] < len(translated_lines):
-                                d[k] = translated_lines[idx[0]]
-                                idx[0] += 1
-                        elif isinstance(v, dict):
-                            inject(v)
-
-                inject(data)
-                print(f"[ПЕРЕВЕДЕН] {filename}")
-
-            # Сохраняем результат в НОВУЮ папку
-            with open(output_filepath, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=4)
-
-        except json.decoder.JSONDecodeError:
-            # Если файл не JSON (какие-то системные тексты), просто копируем его как есть
-            shutil.copy(input_filepath, output_filepath)
-        except Exception as e:
-            print(f"Ошибка с файлом {filename}: {e}")
-
-print("\nГотово! Все 106 файлов собраны в папке TxtFolderReady.")
+for path in sorted(input_dir.glob("*.txt")):
+    output = output_dir / path.name
+    try:
+        data = json.loads(path.read_text(encoding="utf-8-sig"))
+    except (ValueError, UnicodeError):
+        output.write_bytes(path.read_bytes())
+        continue
+    translation = translation_dir / path.name
+    if translation.exists():
+        fields = text_fields(data)
+        lines = translation.read_text(encoding="utf-8-sig").splitlines()
+        if len(fields) != len(lines):
+            raise ValueError(f"{path.name}: число строк перевода не совпадает")
+        for (container, key), text in zip(fields, lines):
+            container[key] = text
+    output.write_text(json.dumps(data, ensure_ascii=False, indent=4), encoding="utf-8")
+    print(f"Собран: {path.name}")

@@ -1,0 +1,32 @@
+ЗАПУСК: python имя_скрипта.py
+Подробности: .README.md
+
+JSON-ДИАЛОГИ
+Unity_Original
+  -> unity_extract.py -> Files/Original
+  -> export.py -> Files/OriginalStringOnly
+  -> скопировать в Files/ModifiedStringOnly и перевести
+  -> assets_checkNEW.py
+  -> import.py -> Files/Output/Ready
+  -> unity_pack.py -> Unity_Modded
+
+РЕПЛИКИ В LEVEL (ExtraData)
+Level_Original
+  -> python 'level_extract(1).py' -> Files/LevelOriginalStringOnly
+  -> скопировать в Files/LevelModifiedStringOnly и перевести
+  -> level_checkNEW.py
+  -> python level_packNEW..py -> Level_Modded
+
+ПОЛЯ В LEVEL (схемы Unity)
+GameDir.txt -> путь к игре
+  -> collect_dumps.py -> Dumps/<имя папки игры>/DummyDll
+  -> tt_extract.py -> Files/TTOriginalStringOnly
+  -> скопировать в Files/TTModifiedStringOnly и перевести
+  -> tt_pack.py -> Level_Modded
+
+Одна реплика = одна строка TXT. Не меняй количество и порядок строк.
+Перенос внутри реплики: \n. Обратная косая черта: \\.
+Оба паковщика level сохраняют предыдущие правки из Level_Modded.
+При совместном использовании сначала level_packNEW..py, затем tt_pack.py.
+Files/Output/Ready перезаписывается. Нумерованные папки больше не используются.
+Готовые Unity-файлы копируются в игру вручную.

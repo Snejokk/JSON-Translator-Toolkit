@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Game data (do not commit)
+Unity_Original/
+Unity_Modded/
+Level_Original/
+Level_Modded/
+Font_Modded/
+Dumps/
+Tools/
+Files/
+.tr_work/chunks/
+.tr_work/*.json
+*.zip
+GameDir.txt
+*_report.txt
+TRANSLATION_NOTES.md
+code_reader.html
